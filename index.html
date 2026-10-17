@@ -1,0 +1,42 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Poojith's Cookbook — Recipe Collection</title>
+<meta name="description" content="Poojith's saved recipes: ingredients, step-by-step instructions, cooking times, nutrition, comfy times to cook and where each dish comes from.">
+<link rel="icon" href="favicon.svg">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;800&family=Fraunces:opsz,wght@9..144,600;9..144,800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head><body><div class="wrap">
+<header><div><h1>Poojith's Cookbook<span>.</span></h1><p class="sub">From the <b>cooking collection</b> — <b id="cnt"></b></p></div>
+<div class="row"><button class="btn" id="themeBtn" title="Toggle theme">🌓 Theme</button><button class="btn" id="aboutBtn">ℹ️ About the data</button></div></header>
+
+<section class="panel mood"><label>🛋️ What's the vibe? — best comfy times to cook</label><div class="chips" id="moods"></div></section>
+
+<section class="panel"><div class="row">
+<div class="f" style="flex:2.2"><label for="q">Search</label><input id="q" type="search" placeholder="Dish, ingredient, cuisine… e.g. paneer, garlic, air fryer"></div>
+<div class="f"><label for="cuisine">Cuisine</label><select id="cuisine"><option value="all">All cuisines</option></select></div>
+<div class="f"><label for="diet">Diet</label><select id="diet"><option value="all">Any diet</option></select></div>
+<div class="f"><label for="time">Total time</label><select id="time"><option value="all">Any time</option><option value="20">≤ 20 min</option><option value="30">≤ 30 min</option><option value="45">≤ 45 min</option><option value="60">≤ 1 hour</option><option value="999">> 1 hour</option></select></div>
+<div class="f"><label for="kcal">Calories / serving</label><select id="kcal"><option value="all">Any</option><option value="0-350">Under 350 kcal</option><option value="350-500">350–500 kcal</option><option value="500-650">500–650 kcal</option><option value="650-9999">650+ kcal</option></select></div>
+<div class="f"><label for="sort">Sort</label><select id="sort"><option value="saved">Most saved</option><option value="quick">Quickest</option><option value="light">Lowest calories</option><option value="protein">Most protein</option><option value="az">Name A–Z</option></select></div>
+</div>
+<label style="display:block;margin-top:12px">Tags</label><div class="chips" id="tags"></div></section>
+
+<div class="tabs" id="tabs"></div>
+<div class="meta"><span id="info"></span><button class="btn" id="reset">Reset filters</button></div>
+<div class="grid" id="grid"></div>
+<footer>Recipes from <a href="https://github.com/poojithmalla8/cooking_recipe" target="_blank" rel="noopener">poojithmalla8/cooking_recipe</a>. Nutrition values are <b>estimates</b>. Origin gists from Wikipedia (CC BY-SA); place photos from Wikimedia Commons, credited in each recipe. Dish photos from TheMealDB where the repo recipe came from there.</footer>
+</div>
+
+<dialog id="det" class="det" aria-label="Recipe details"><button class="x" id="detX" aria-label="Close">×</button><div id="detBody"></div></dialog>
+<dialog id="about" class="det about"><button class="x" id="aboutX" aria-label="Close">×</button>
+<h2>About the data</h2>
+<p>All <b id="cnt2"></b> entries in the repo’s <code>data/recipes-01.json</code> are included. The repo data was scraped from saved posts and is uneven, so each recipe carries a <b>data badge</b>:</p>
+<ul>
+<li><span class="mode repo">From repo</span> the repo’s recipe is shown as-is (lightly cleaned).</li>
+<li><span class="mode completed">Repo + filled in</span> the repo recipe is kept; missing quantities, ingredients or steps were added and marked <b>★</b>.</li>
+<li><span class="mode rewritten">Rewritten</span> the repo entry was empty or pointed at an unrelated placeholder recipe (e.g. several chicken dishes all pointed at the same French chicken &amp; chorizo recipe), so a standard recipe matching the dish name is shown. The original repo values are listed in each recipe’s “Repo data” box.</li>
+</ul>
+<p><b>Estimated</b> (marked <span class="est">est.</span>): prep/cook/total times, servings, difficulty, calories and macros (protein, carbs, fat, fibre) per serving, and the comfy “best time to cook” moods. They are rough estimates from the ingredients, not lab values. When the original post stated a calorie or time figure, it is shown separately as “post said”.</p>
+<p>Your ❤️ saved and ✅ cooked marks are stored only in this browser.</p></dialog>
+<div class="toast" id="toast"></div>
+<script src="app.js"></script></body></html>

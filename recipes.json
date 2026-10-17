@@ -1,0 +1,6887 @@
+{
+"generated_from": "github.com/poojithmalla8/cooking_recipe (data/recipes-01.json)",
+"count": 52,
+"recipes": [
+{
+"id": "chicken",
+"name": "Chicken Basquaise (Basque Chicken & Rice)",
+"category": "Main Course",
+"cuisine": "French",
+"tags": [
+"Non-veg",
+"One-pot",
+"Gluten-free"
+],
+"servings": 6,
+"difficulty": "Medium",
+"prep": 20,
+"cook": 70,
+"extra": "",
+"nutrition": {
+"kcal": 650,
+"protein": 48,
+"carbs": 45,
+"fat": 30,
+"fiber": 4
+},
+"moods": [
+"weekend",
+"party",
+"rainy"
+],
+"mode": "repo",
+"ingredients": [
+[
+"1.5kg",
+"Chicken"
+],
+[
+"25g",
+"Butter"
+],
+[
+"6 tblsp",
+"Olive Oil"
+],
+[
+"2 sliced",
+"Red Onions"
+],
+[
+"3 Large",
+"Red Pepper"
+],
+[
+"130g",
+"Chorizo"
+],
+[
+"8",
+"Sun-Dried Tomatoes"
+],
+[
+"6 cloves sliced",
+"Garlic"
+],
+[
+"300g",
+"Basmati Rice"
+],
+[
+"drizzle",
+"Tomato Puree"
+],
+[
+"½ tsp",
+"Paprika"
+],
+[
+"4",
+"Bay Leaves"
+],
+[
+"Handful",
+"Thyme"
+],
+[
+"350ml",
+"Chicken Stock"
+],
+[
+"180g",
+"Dry White Wine"
+],
+[
+"2",
+"Lemons"
+],
+[
+"100g",
+"Black Olives"
+],
+[
+"to serve",
+"Salt"
+],
+[
+"to serve",
+"Pepper"
+]
+],
+"steps": [
+"Preheat the oven to 180°C/Gas mark 4. Have the chicken joints ready to cook.",
+"Heat the butter and 3 tbsp olive oil in a flameproof casserole or large frying pan.",
+"Brown the chicken pieces in batches on both sides, seasoning them with salt and pepper as you go.",
+"Don't crowd the pan - fry the chicken in small batches, removing the pieces to kitchen paper as they are done.",
+"Add a little more olive oil to the casserole and fry the onions over a medium heat for 10 minutes, stirring frequently, until softened but not browned.",
+"Add the rest of the oil, then the peppers and cook for another 5 minutes.",
+"Add the chorizo, sun-dried tomatoes and garlic and cook for 2-3 minutes.",
+"Add the rice, stirring to ensure it is well coated in the oil.",
+"Stir in the tomato paste, paprika, bay leaves and chopped thyme.",
+"Pour in the stock and wine. When the liquid starts to bubble, turn the heat down to a gentle simmer.",
+"Press the rice down into the liquid if it isn't already submerged and place the chicken on top.",
+"Add the lemon wedges and olives around the chicken. Cover and cook in the oven for 50 minutes."
+],
+"note": "The repo’s ‘Chicken’ entry is TheMealDB’s Chicken Basquaise; kept as-is.",
+"fact": "Named after the Basque Country, where Espelette peppers are grown and dried on house façades.",
+"total": 90,
+"repo": {
+"name": "Chicken",
+"category": "Main Course",
+"cuisine": "France",
+"best_time": "Relaxed weekend cooking & family dinners",
+"saved_count": 98,
+"source": "themealdb",
+"post": {
+"kcal": 405,
+"time_min": 10
+},
+"time_min": 10,
+"time_source": "from post",
+"calories": 405,
+"calories_source": "from post",
+"n_ing": 19,
+"n_steps": 12
+},
+"image": "https://www.themealdb.com/images/media/meals/wruvqv1511880994.jpg",
+"youtube": "https://www.youtube.com/watch?v=emfm6TwsVhg",
+"saved": 98,
+"origin": {
+"place": "French Basque Country, France",
+"place_title": "French Basque Country",
+"place_desc": "Region in southwestern France",
+"place_extract": "The French Basque Country, or Northern Basque Country, is a region lying on the west of the French department of the Pyrénées-Atlantiques. Since 1 January 2017, it constitutes the Basque Municipal Community presided over by Jean-René Etchegaray.",
+"place_url": "https://en.wikipedia.org/wiki/French_Basque_Country",
+"image": {
+"src": "img/places/french-basque-country.jpg",
+"license": "CC BY 2.5",
+"artist": "No machine-readable author provided. Harrieta171 assumed (based on copyright claims).",
+"file_page": "https://commons.wikimedia.org/wiki/File:Espelette_Fa%C3%A7ade_Piments_(1).jpg",
+"file": "Espelette Façade Piments (1).jpg"
+},
+"dish_title": "Basque cuisine",
+"dish_extract": "Basque cuisine refers to the cuisine of the Basque Country and includes meats and fish grilled over hot coals, marmitako and lamb stews, cod, Tolosa bean dishes, paprikas from Lekeitio, pintxos, Idiazabal sheep's cheese, txakoli, and Basque cider.",
+"dish_url": "https://en.wikipedia.org/wiki/Basque_cuisine"
+}
+},
+{
+"id": "paneer",
+"name": "Matar Paneer",
+"category": "Main Course",
+"cuisine": "Indian",
+"tags": [
+"Vegetarian",
+"Gluten-free"
+],
+"servings": 2,
+"difficulty": "Easy",
+"prep": 10,
+"cook": 20,
+"extra": "",
+"nutrition": {
+"kcal": 480,
+"protein": 22,
+"carbs": 24,
+"fat": 32,
+"fiber": 7
+},
+"moods": [
+"weeknight",
+"rainy"
+],
+"mode": "repo",
+"ingredients": [
+[
+"1 tbls",
+"Sunflower Oil"
+],
+[
+"225g",
+"Paneer"
+],
+[
+"2",
+"Ginger"
+],
+[
+"1 tsp",
+"Cumin"
+],
+[
+"1 tsp",
+"Turmeric"
+],
+[
+"1 tsp",
+"Coriander"
+],
+[
+"1",
+"Green Chilli"
+],
+[
+"4 large",
+"Tomato"
+],
+[
+"150g",
+"Peas"
+],
+[
+"1 tsp",
+"Garam Masala"
+],
+[
+"Small bunch",
+"Coriander"
+],
+[
+"to serve",
+"Naan Bread"
+]
+],
+"steps": [
+"Heat the oil in a frying pan over high heat until it’s shimmering hot.",
+"Add the paneer, then turn the heat down a little. Fry until it starts to brown at the edges, then turn it over and brown on each side – the paneer will brown faster than you think, so don’t walk away.",
+"Remove the paneer from the pan and drain on kitchen paper. Put the ginger, cumin, turmeric, ground coriander and chilli in the pan, and fry everything for 1 min.",
+"Add the tomatoes, mashing them with the back of a spoon and simmer everything for 5 mins until the sauce smells fragrant.",
+"Add a splash of water if it’s too thick. Season well. Add the peas and simmer for a further 2 mins, then stir in the paneer and sprinkle over the garam masala.",
+"Divide between two bowls, top with coriander leaves and serve with naan bread, roti or rice."
+],
+"note": "From TheMealDB via the repo.",
+"fact": "",
+"total": 30,
+"repo": {
+"name": "Paneer",
+"category": "Main Course",
+"cuisine": "India",
+"best_time": "Relaxed weekend cooking & family dinners",
+"saved_count": 21,
+"source": "themealdb",
+"post": {
+"kcal": 318,
+"time_min": 20
+},
+"time_min": 20,
+"time_source": "from post",
+"calories": 318,
+"calories_source": "from post",
+"n_ing": 12,
+"n_steps": 6
+},
+"image": "https://www.themealdb.com/images/media/meals/xxpqsy1511452222.jpg",
+"youtube": "https://www.youtube.com/watch?v=wlseYNqwLNs",
+"saved": 21,
+"origin": {
+"place": "Punjab, India",
+"place_title": "Punjab, India",
+"place_desc": "State in northwestern India",
+"place_extract": "Punjab is a state in northwestern India. Forming part of the larger Punjab region of the Indian subcontinent, the state is bordered by the Indian states and union territories of Himachal Pradesh to the north and northeast, Haryana to the south and southeast, Rajasthan to the southwest, Jammu and Kashmir to the north. To the west, it shares an international border with the identically named Pakistani province of Punjab. Chandigarh serves as a shared capital for Punjab as well as Haryana. The state covers an area of 50,362 square kilometres, which is 1.53% of India's total geographical area, making it the 19th-largest Indian state by area out of 28 Indian states. With over 27 million inhabitants, Punjab is the 16th-largest Indian state by population, comprising 23 districts. Punjabi, written in the Gurmukhi script, is the most widely spoken and the official language of the state. The main ethnic group are the Punjabis, with Sikhs (57.7%) and Hindus (38.5%) forming the dominant religious groups. Three of the five traditional Punjab rivers — the Sutlej, Beas, and Ravi — flow through the state.",
+"place_url": "https://en.wikipedia.org/wiki/Punjab%2C_India",
+"image": {
+"src": "img/places/punjab-india.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "Utpal Nag",
+"file_page": "https://commons.wikimedia.org/wiki/File:Golden_Temple,_Amritsar,_Punjab_UNAG.jpg"
+},
+"dish_title": "Matar paneer",
+"dish_extract": "Mattar paneer, also known as matar paneer, muttar paneer, and mutter paneer, is a modern restaurant-style and vegetarian North Indian dish consisting of peas and paneer in a tomato-based sauce, spiced with garam masala.",
+"dish_url": "https://en.wikipedia.org/wiki/Matar_paneer"
+}
+},
+{
+"id": "butter-chicken",
+"name": "Butter Chicken (Murgh Makhani)",
+"category": "Main Course",
+"cuisine": "Indian",
+"tags": [
+"Non-veg",
+"Gluten-free",
+"Creamy"
+],
+"servings": 4,
+"difficulty": "Medium",
+"prep": 20,
+"cook": 35,
+"extra": "+ 1 h marinating",
+"nutrition": {
+"kcal": 520,
+"protein": 36,
+"carbs": 14,
+"fat": 36,
+"fiber": 3
+},
+"moods": [
+"rainy",
+"party",
+"weekend"
+],
+"mode": "rewritten",
+"ingredients": [
+[
+"600 g",
+"boneless chicken thighs, cubed"
+],
+[
+"150 g",
+"thick yogurt (curd)"
+],
+[
+"1 tbsp",
+"ginger-garlic paste"
+],
+[
+"1½ tsp",
+"Kashmiri red chilli powder"
+],
+[
+"1 tsp",
+"garam masala"
+],
+[
+"1 tbsp",
+"lemon juice"
+],
+[
+"3 tbsp",
+"butter"
+],
+[
+"1 tbsp",
+"oil"
+],
+[
+"1",
+"onion, finely chopped (optional)"
+],
+[
+"400 g",
+"tomato purée (or 4 ripe tomatoes, blended)"
+],
+[
+"10",
+"cashews, soaked and blended to a paste"
+],
+[
+"1 tsp",
+"dried fenugreek leaves (kasuri methi)"
+],
+[
+"1 tsp",
+"sugar or honey"
+],
+[
+"100 ml",
+"fresh cream"
+],
+[
+"to taste",
+"salt"
+],
+[
+"handful",
+"fresh coriander"
+]
+],
+"steps": [
+"Marinate the chicken with yogurt, ginger-garlic paste, 1 tsp chilli powder, ½ tsp garam masala, lemon juice and salt for at least 1 hour.",
+"Sear or grill the chicken in 1 tbsp oil on high heat until charred at the edges (it can finish cooking in the sauce). Set aside.",
+"In the same pan melt 2 tbsp butter, soften the onion (if using), then add the remaining chilli powder and tomato purée. Simmer 12–15 minutes until thick and the butter separates.",
+"Stir in the cashew paste and a splash of water; simmer 5 minutes. Blend the sauce smooth for a restaurant-style finish.",
+"Add the chicken, sugar and remaining garam masala; simmer 8–10 minutes until the chicken is cooked through.",
+"Crush in the kasuri methi, stir in the cream and last tbsp butter. Garnish with coriander and serve with naan or jeera rice."
+],
+"note": "Repo entry pointed at an unrelated French chicken recipe, so a classic butter chicken recipe is shown.",
+"fact": "Created at Moti Mahal restaurant in Delhi in the mid-20th century; a fixture of Punjabi dhaba and wedding menus.",
+"total": 55,
+"repo": {
+"name": "Butter Chicken",
+"category": "Main Course",
+"cuisine": "France",
+"best_time": "Relaxed weekend cooking & family dinners",
+"saved_count": 15,
+"source": "themealdb",
+"post": {
+"kcal": 400,
+"time_min": 15
+},
+"time_min": 15,
+"time_source": "from post",
+"calories": 400,
+"calories_source": "from post",
+"n_ing": 19,
+"n_steps": 12
+},
+"image": null,
+"youtube": null,
+"saved": 15,
+"origin": {
+"place": "Delhi, India",
+"place_title": "Delhi",
+"place_desc": "Megacity and union territory of India",
+"place_extract": "Delhi, officially the National Capital Territory (NCT) of Delhi, is a megacity and a union territory of India containing New Delhi, the capital of India. Straddling the Yamuna river, but spread chiefly to the west, or beyond its right bank, Delhi shares borders with the state of Uttar Pradesh in the east and with the state of Haryana in the remaining directions. Delhi became a union territory on 1 November 1956 and the NCT in 1995. The NCT covers an area of 1,484 square kilometres (573 sq mi). According to the 2011 census, Delhi's city proper population was over 11 million, while the NCT's population was about 16.8 million.",
+"place_url": "https://en.wikipedia.org/wiki/Delhi",
+"image": {
+"src": "img/places/delhi.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "Marcin Białek",
+"file_page": "https://commons.wikimedia.org/wiki/File:Jama_Masjid_2011.jpg"
+},
+"dish_title": "Butter chicken",
+"dish_extract": "Butter chicken or murgh makhani is a curry made from chicken cooked in a spiced tomato and butter-based gravy. The gravy is known for its creamy, rich texture. It is similar to chicken tikka masala, which uses a tomato paste. The dish was invented by Indian chefs Kundan Lal Gujral and Kundan Lal Jaggi and is associated with their Moti Mahal restaurant in Daryaganj, Delhi which popularized it in the 1950s. It has since become a staple cuisine of the city.",
+"dish_url": "https://en.wikipedia.org/wiki/Butter_chicken"
+}
+},
+{
+"id": "chocolate",
+"name": "Chocolate Alfajores (Dulce de Leche Cookies)",
+"category": "Dessert",
+"cuisine": "Uruguayan",
+"tags": [
+"Vegetarian",
+"Baking"
+],
+"servings": 20,
+"difficulty": "Medium",
+"prep": 40,
+"cook": 25,
+"extra": "+ 30 min chilling",
+"nutrition": {
+"kcal": 260,
+"protein": 3,
+"carbs": 32,
+"fat": 14,
+"fiber": 1
+},
+"moods": [
+"sweet",
+"weekend",
+"festive"
+],
+"mode": "repo",
+"ingredients": [
+[
+"150g",
+"Butter"
+],
+[
+"70g",
+"Sugar"
+],
+[
+"1",
+"Egg"
+],
+[
+"25g",
+"Honey"
+],
+[
+"175g",
+"All purpose flour"
+],
+[
+"80g",
+"Cornstarch"
+],
+[
+"30g",
+"Unsweetened Cocoa"
+],
+[
+"1 tsp",
+"Baking Powder"
+],
+[
+"400g",
+"Dulce de leche"
+],
+[
+"500g",
+"Milk Chocolate"
+],
+[
+"100g",
+"Butter"
+],
+[
+"Zest of 1",
+"Orange"
+]
+],
+"steps": [
+"For the cookies cream the butter with the sugar for a few minutes.",
+"Then add the egg and honey and mix well. Add flour, cornstarch, cocoa, baking soda and baking powder and mix until you get a dough.",
+"Wrap in plastic wrap and chill for at least half an hour or overnight.",
+"Line two baking sheets with parchment paper, preheat oven to 200 degrees Celsius.",
+"Divide dough into two parts, put one part back in the fridge before using.",
+"Roll out second part to about 2 millimeters and cut out round cookies with 5-6 centimeters in diameter.",
+"This can be done with a cookie cutter or glass. You should get 30 cookies in total or even more, I get about 40.",
+"Bake one baking sheet at the time for about 8-10min. Let cookies cool.",
+"For the filling look for two cookies of the same size and place about one teaspoon of dulce de leche onto the bottom one before sandwiching together.",
+"Chop semi-sweet chocolate and melt with butter and orange zest on low heat.",
+"Dunk each sandwich cookie into the chocolate and let cool off on parchment paper before serving."
+],
+"note": "Repo ‘Chocolate’ entry = TheMealDB chocolate alfajores; makes ~20 sandwich cookies (servings = cookies).",
+"fact": "",
+"total": 65,
+"repo": {
+"name": "Chocolate",
+"category": "Dessert",
+"cuisine": "Uruguayan",
+"best_time": "Weekend baking sessions & after-dinner treats",
+"saved_count": 14,
+"source": "themealdb",
+"post": {
+"kcal": 175
+},
+"time_min": 45,
+"time_source": "estimated",
+"calories": 175,
+"calories_source": "from post",
+"n_ing": 13,
+"n_steps": 11
+},
+"image": "https://www.themealdb.com/images/media/meals/k9o0xr1764373018.jpg",
+"youtube": "https://www.youtube.com/watch?v=ucBoYab5tXY",
+"saved": 14,
+"origin": {
+"place": "Uruguay & Argentina (Río de la Plata)",
+"place_title": "Uruguay",
+"place_desc": "Country in South America",
+"place_extract": "Uruguay, officially the Oriental Republic of Uruguay, is a country in southeastern South America. It shares borders with Argentina to its west and southwest and Brazil to its north and northeast, while bordering the Río de la Plata to the south and the Atlantic Ocean to the southeast. It is part of the Southern Cone region of South America. Uruguay covers an area of approximately 176,215 square kilometers (68,037 sq mi). It has a population of almost 3.5 million people, of whom nearly 2 million live in the metropolitan area of its capital and largest city, Montevideo.",
+"place_url": "https://en.wikipedia.org/wiki/Uruguay",
+"image": {
+"src": "img/places/uruguay.jpg",
+"license": "CC BY-SA 2.0",
+"artist": "FLASHPACKER TRAVELGUIDE",
+"file_page": "https://commons.wikimedia.org/wiki/File:Rambla_-_beach_-_Strand_-_Montevideo_-_Uruguay_(34470771543).jpg",
+"file": "Rambla - beach - Strand - Montevideo - Uruguay (34470771543).jpg"
+},
+"dish_title": "Alfajor",
+"dish_extract": "An alfajor or alajú is a traditional confection. Originally from present-day Spain, it is found now in Argentina, Bolivia, Southern Brazil, Chile, Colombia, Dominican Republic, Ecuador, El Salvador, Southern France, Paraguay, Peru, the Philippines, Uruguay, and Venezuela.",
+"dish_url": "https://en.wikipedia.org/wiki/Alfajor"
+}
+},
+{
+"id": "chilli-chicken",
+"name": "Chilli Chicken (Indo-Chinese)",
+"category": "Entree",
+"cuisine": "Indo-Chinese",
+"tags": [
+"Non-veg",
+"Spicy"
+],
+"servings": 3,
+"difficulty": "Medium",
+"prep": 15,
+"cook": 20,
+"extra": "+ 15 min marinating",
+"nutrition": {
+"kcal": 420,
+"protein": 32,
+"carbs": 22,
+"fat": 22,
+"fiber": 2
+},
+"moods": [
+"movie",
+"rainy",
+"latenight"
+],
+"mode": "rewritten",
+"ingredients": [
+[
+"500 g",
+"boneless chicken, bite-size pieces"
+],
+[
+"1",
+"egg"
+],
+[
+"3 tbsp",
+"cornflour"
+],
+[
+"1 tbsp",
+"all-purpose flour (maida)"
+],
+[
+"1 tbsp",
+"light soy sauce"
+],
+[
+"1 tsp",
+"ginger-garlic paste"
+],
+[
+"½ tsp",
+"black pepper"
+],
+[
+"oil",
+"for frying"
+],
+[
+"1 tbsp",
+"chopped garlic"
+],
+[
+"1 tbsp",
+"chopped ginger"
+],
+[
+"3",
+"green chillies, slit"
+],
+[
+"1",
+"onion, cubed"
+],
+[
+"1",
+"green capsicum, cubed"
+],
+[
+"1 tbsp",
+"dark soy sauce"
+],
+[
+"2 tbsp",
+"red chilli sauce"
+],
+[
+"1 tbsp",
+"tomato ketchup"
+],
+[
+"1 tsp",
+"vinegar"
+],
+[
+"2",
+"spring onions, chopped"
+]
+],
+"steps": [
+"Mix chicken with egg, 2 tbsp cornflour, maida, light soy sauce, ginger-garlic paste, pepper and salt. Rest 15 minutes.",
+"Deep-fry (or air-fry at 200°C for 12 minutes) until golden and crisp. Drain.",
+"Heat 2 tbsp oil in a wok on high; stir-fry garlic, ginger and green chillies for 30 seconds.",
+"Add onion and capsicum; toss 1–2 minutes so they stay crunchy.",
+"Add dark soy, chilli sauce, ketchup and vinegar. For a gravy version add 1 tbsp cornflour mixed in ½ cup water and simmer until glossy.",
+"Toss in the fried chicken, finish with spring onions and serve hot with fried rice or noodles."
+],
+"note": "Repo entry pointed at an unrelated French chicken recipe; rewritten as classic Indo-Chinese chilli chicken.",
+"fact": "A Hakka-Chinese creation from Kolkata, now on almost every Indo-Chinese menu in India.",
+"total": 35,
+"repo": {
+"name": "Chilli Chicken",
+"category": "Main Course",
+"cuisine": "France",
+"best_time": "Relaxed weekend cooking & family dinners",
+"saved_count": 11,
+"source": "themealdb",
+"post": {
+"kcal": 500,
+"time_min": 1
+},
+"time_min": 1,
+"time_source": "from post",
+"calories": 500,
+"calories_source": "from post",
+"n_ing": 19,
+"n_steps": 12
+},
+"image": null,
+"youtube": null,
+"saved": 11,
+"origin": {
+"place": "Kolkata, India",
+"place_title": "Kolkata",
+"place_desc": "Capital of West Bengal, India",
+"place_extract": "Kolkata, also known as Calcutta, is the capital and largest city of the Indian state of West Bengal. It lies on the eastern bank of the Hooghly River, 80 km (50 mi) west of the border with Bangladesh. It is the primary financial and commercial centre of eastern India and one of the gateways to northeastern India. Kolkata is the seventh most populous city in India with an estimated city proper population of 4.5 million while its metropolitan region Kolkata Metropolitan Area is the third most populous metropolitan region of India with a metro population of over 15 million. Kolkata is regarded by many sources as the cultural capital of India and a historically and culturally significant city in the historic region of Bengal.",
+"place_url": "https://en.wikipedia.org/wiki/Kolkata",
+"image": {
+"src": "img/places/kolkata.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "NalGup20",
+"file_page": "https://commons.wikimedia.org/wiki/File:Kolkata_maidan.jpg"
+},
+"dish_title": "Chilli chicken",
+"dish_extract": "Chilli chicken is a popular Indo-Chinese dish that uses chicken, and is of Chinese heritage. In India, this may include a variety of dry chicken preparations. Though mainly boneless chicken is used in this dish, some recipes also use bone-in chicken.",
+"dish_url": "https://en.wikipedia.org/wiki/Chilli_chicken"
+}
+},
+{
+"id": "sandwich",
+"name": "Chivito (Uruguayan Steak Sandwich)",
+"category": "Main Course",
+"cuisine": "Uruguayan",
+"tags": [
+"Non-veg",
+"Baking"
+],
+"servings": 8,
+"difficulty": "Hard",
+"prep": 60,
+"cook": 45,
+"extra": "+ overnight dough rest",
+"nutrition": {
+"kcal": 780,
+"protein": 45,
+"carbs": 52,
+"fat": 42,
+"fiber": 3
+},
+"moods": [
+"weekend",
+"party"
+],
+"mode": "repo",
+"ingredients": [
+[
+"80g",
+"Milk"
+],
+[
+"60g",
+"Butter"
+],
+[
+"1 tablespoon",
+"Molasses"
+],
+[
+"220g",
+"Water"
+],
+[
+"9",
+"Egg"
+],
+[
+"500g",
+"Bread Flour"
+],
+[
+"10g",
+"Salt"
+],
+[
+"10g",
+"Yeast"
+],
+[
+"Splash",
+"Egg Wash"
+],
+[
+"Sprinkling",
+"Sesame Seed"
+],
+[
+"4",
+"Onion"
+],
+[
+"8",
+"Sirloin steak"
+],
+[
+"To serve",
+"Garlic"
+],
+[
+"8",
+"Bacon"
+],
+[
+"8 slices",
+"Ham"
+],
+[
+"8 slices",
+"Mozzarella"
+],
+[
+"4",
+"Tomato"
+],
+[
+"1/4",
+"Lettuce"
+],
+[
+"To serve",
+"Mustard"
+],
+[
+"To serve",
+"Chimichurri sauce"
+]
+],
+"steps": [
+"For the brioche buns heat the milk with the butter and molasses until the butter has melted.",
+"Add the cold water and egg to this mix. In a large bowl place flour, salt and yeast and mix.",
+"Then add the milk and water mix and stir with a wooden spoon until combined.",
+"You don't have to knead the dough, it is perfectly fine to do this by hand with a wooden spoon, this doesn't need to be very thorough.",
+"Cover with a damp towel and stick in the fridge overnight. The next morning knead dough on a generously floured surface for a little and cut into eight equal pieces.",
+"Shape these into balls and place on a baking sheet lined with parchment paper.",
+"Cover again with damp towel and let rise for about an hour or until double in size.",
+"Heat oven to 220 degrees Celsius. Brush the buns with either milk, heavy cream or egg wash and sprinkle with sesame seeds, if desired.",
+"Bake for about 15-20min or until golden. Let cool. For the toppings chop the onions and sauté in a bit of butter, let caramelize, this may take ten to 15 minutes, stir occasionally.",
+"Rub the steaks with a bit of garlic and then grill or fry the steaks, the bacon, and eggs with salt and pepper, toast the buns after having cut in half.",
+"Spread mustard on one bun half, layer each chivito with steak, a slice of ham, a slice of cheese, one bacon stripe, a tomato slice, and some lettuce.",
+"Place fried egg on top and sprinkle generously with chimichurri and some onions right before serving."
+],
+"note": "TheMealDB chivito with homemade brioche buns.",
+"fact": "Chivito is often called Uruguay’s national dish.",
+"total": 105,
+"repo": {
+"name": "Sandwich",
+"category": "Main Course",
+"cuisine": "Uruguayan",
+"best_time": "Relaxed weekend cooking & family dinners",
+"saved_count": 11,
+"source": "themealdb",
+"post": {
+"kcal": 566
+},
+"time_min": 40,
+"time_source": "estimated",
+"calories": 566,
+"calories_source": "from post",
+"n_ing": 20,
+"n_steps": 12
+},
+"image": "https://www.themealdb.com/images/media/meals/j80gmw1764372176.jpg",
+"youtube": "https://www.youtube.com/watch?v=tX3fN9AG_ik",
+"saved": 11,
+"origin": {
+"place": "Punta del Este, Uruguay",
+"place_title": "Punta del Este",
+"place_desc": "Uruguayan seaside resort city",
+"place_extract": "Punta del Este is a seaside city and peninsula on the Atlantic Coast in the Maldonado Department of southeastern Uruguay. Starting as a small town, Punta del Este grew to become a resort for the Latin and North American jet set and tourists. The city has been called \"The Hamptons of South America\", as well as \"The Monaco of the South\", \"The Miami Beach of South America\", \"The Pearl of the Atlantic\", and \"The St. Tropez of South America\". Many famous people have visited, resided, or acquired vacation properties in Punta del Este and its surroundings.",
+"place_url": "https://en.wikipedia.org/wiki/Punta_del_Este",
+"image": {
+"src": "img/places/punta-del-este.jpg",
+"license": "CC BY-SA 3.0",
+"artist": "Марсело Кампи",
+"file_page": "https://commons.wikimedia.org/wiki/File:%D0%9F%D1%83%D0%BD%D1%82%D0%B0-%D0%B4%D0%B5%D0%BB%D1%8C-%D0%AD%D1%81%D1%82%D0%B5.jpg"
+},
+"dish_title": "Chivito (sandwich)",
+"dish_extract": "Chivito is the national dish of Uruguay. It is a sandwich of sliced beefsteak (churrasco), mozzarella, ham, tomatoes, mustard, mayonnaise and black or green olives. A chivito commonly also includes bacon and fried or hard-boiled eggs. It is served in a bun, often accompanied by French-fried potatoes. Other ingredients, such as arugula, green peas, Catalan peppers, caramelized or diced onions, pan-fried or cured red peppers.",
+"dish_url": "https://en.wikipedia.org/wiki/Chivito_(sandwich)"
+}
+},
+{
+"id": "chicken-curry",
+"name": "Chicken Katsu Curry",
+"category": "Main Course",
+"cuisine": "Japanese",
+"tags": [
+"Non-veg",
+"Comfort"
+],
+"servings": 4,
+"difficulty": "Medium",
+"prep": 15,
+"cook": 30,
+"extra": "",
+"nutrition": {
+"kcal": 650,
+"protein": 40,
+"carbs": 55,
+"fat": 28,
+"fiber": 4
+},
+"moods": [
+"rainy",
+"weeknight"
+],
+"mode": "repo",
+"ingredients": [
+[
+"4 pounded to 1cm thickness",
+"chicken breast"
+],
+[
+"2 tablespoons",
+"plain flour"
+],
+[
+"1 beaten",
+"egg"
+],
+[
+"100g fine",
+"breadcrumbs"
+],
+[
+"230ml frying",
+"vegetable oil"
+],
+[
+"2 tablespoons",
+"sunflower oil"
+],
+[
+"2 sliced",
+"onions"
+],
+[
+"5 chopped cloves",
+"garlic"
+],
+[
+"2 sliced",
+"carrot"
+],
+[
+"4 teaspoons",
+"curry powder"
+],
+[
+"600ml",
+"chicken stock"
+],
+[
+"2 teaspoons",
+"honey"
+],
+[
+"4 teaspoons",
+"soy sauce"
+],
+[
+"1",
+"bay leaf"
+],
+[
+"1 teaspoon",
+"garam masala"
+]
+],
+"steps": [
+"For the curry sauce: Heat oil in medium non-stick saucepan, add onion and garlic and cook until softened.",
+"Stir in carrots and cook over low heat for 10 to 12 minutes. Add flour and curry powder; cook for 1 minute.",
+"Gradually stir in stock until combined; add honey, soy sauce and bay leaf.",
+"Slowly bring to the boil. Turn down heat and simmer for 20 minutes or until sauce thickens but is still of pouring consistency.",
+"Stir in garam masala. Pour the curry sauce through a sieve; return to saucepan and keep on low heat until ready to serve.",
+"For the chicken: Season both sides of chicken breasts with salt and pepper.",
+"Place flour, egg and breadcrumbs in separate bowls and arrange in a row.",
+"Coat the chicken breasts in flour, then dip them into the egg, then coat in breadcrumbs, making sure you cover both sides.",
+"Heat oil in large frying pan over medium-high heat. Place chicken into hot oil and cook until golden brown, about 3 or 4 minutes each side.",
+"Once cooked, place on kitchen paper to absorb excess oil. Pour curry sauce over chicken, serve with white rice and enjoy!"
+],
+"note": "TheMealDB katsu curry (repo: ‘Chicken Curry’). Serve with rice.",
+"fact": "",
+"total": 45,
+"repo": {
+"name": "Chicken Curry",
+"category": "Main Course",
+"cuisine": "Japanese",
+"best_time": "Relaxed weekend cooking & family dinners",
+"saved_count": 10,
+"source": "themealdb",
+"post": {
+"kcal": 270,
+"time_min": 40
+},
+"time_min": 40,
+"time_source": "from post",
+"calories": 270,
+"calories_source": "from post",
+"n_ing": 16,
+"n_steps": 10
+},
+"image": "https://www.themealdb.com/images/media/meals/vwrpps1503068729.jpg",
+"youtube": "https://www.youtube.com/watch?v=MWzxDFRtVbc",
+"saved": 10,
+"origin": {
+"place": "Tokyo, Japan",
+"place_title": "Tokyo",
+"place_desc": "Capital and most populous city in Japan",
+"place_extract": "Tokyo, officially the Tokyo Metropolis, is the capital and most populous city of Japan. The population of the city proper was over 14 million as of 2023. The Greater Tokyo Area, which includes Tokyo and parts of six neighboring prefectures, is the third-most populous metropolitan area in the world, with 33 million residents as of 2025.",
+"place_url": "https://en.wikipedia.org/wiki/Tokyo",
+"image": {
+"src": "img/places/tokyo.jpg",
+"license": "CC BY-SA 3.0",
+"artist": "Morio",
+"file_page": "https://commons.wikimedia.org/wiki/File:Skyscrapers_of_Shinjuku_2009_January.jpg"
+},
+"dish_title": "Katsu curry",
+"dish_extract": "Katsu curry is a Japanese dish consisting of tonkatsu served with Japanese rice and curry. It is served on a large plate and is typically eaten using a spoon or fork. The cutlet is usually precut into strips, eliminating the need for a knife.",
+"dish_url": "https://en.wikipedia.org/wiki/Katsu_curry"
+}
+},
+{
+"id": "fried-chicken",
+"name": "Crispy Fried Chicken",
+"category": "Main Course",
+"cuisine": "American",
+"tags": [
+"Non-veg",
+"Comfort"
+],
+"servings": 4,
+"difficulty": "Medium",
+"prep": 20,
+"cook": 25,
+"extra": "+ 2 h buttermilk soak",
+"nutrition": {
+"kcal": 620,
+"protein": 42,
+"carbs": 28,
+"fat": 38,
+"fiber": 1
+},
+"moods": [
+"movie",
+"weekend",
+"party"
+],
+"mode": "rewritten",
+"ingredients": [
+[
+"1 kg",
+"bone-in chicken pieces (drumsticks & thighs)"
+],
+[
+"500 ml",
+"buttermilk (or 450 ml milk + 2 tbsp lemon juice)"
+],
+[
+"1 tbsp",
+"hot sauce"
+],
+[
+"200 g",
+"all-purpose flour"
+],
+[
+"2 tbsp",
+"cornflour"
+],
+[
+"2 tsp",
+"paprika"
+],
+[
+"1 tsp",
+"garlic powder"
+],
+[
+"1 tsp",
+"onion powder"
+],
+[
+"½ tsp",
+"cayenne"
+],
+[
+"2 tsp",
+"salt"
+],
+[
+"1 tsp",
+"black pepper"
+],
+[
+"oil",
+"for deep frying"
+]
+],
+"steps": [
+"Soak the chicken in buttermilk, hot sauce and 1 tsp salt for 2 hours (or overnight in the fridge).",
+"Whisk flour, cornflour, spices, remaining salt and pepper in a wide bowl.",
+"Lift chicken from the buttermilk, dredge in flour, dip back in buttermilk briefly and dredge again for extra crags.",
+"Heat oil to 170°C. Fry 3–4 pieces at a time for 12–15 minutes, turning, until deep golden and 75°C inside.",
+"Rest on a rack for 5 minutes. Serve with coleslaw, fries or biscuits."
+],
+"note": "Repo entry pointed at a Chinese fried rice recipe; rewritten as fried chicken.",
+"fact": "",
+"total": 45,
+"repo": {
+"name": "Fried Chicken",
+"category": "Main Course",
+"cuisine": "Chinese",
+"best_time": "Relaxed weekend cooking & family dinners",
+"saved_count": 9,
+"source": "themealdb",
+"post": {
+"kcal": 360,
+"time_min": 30
+},
+"time_min": 30,
+"time_source": "from post",
+"calories": 360,
+"calories_source": "from post",
+"n_ing": 14,
+"n_steps": 12
+},
+"image": null,
+"youtube": null,
+"saved": 9,
+"origin": {
+"place": "Southern United States",
+"place_title": "Southern United States",
+"place_desc": "One of the four census regions of the US",
+"place_extract": "The Southern United States is one of the four census regions of the United States as defined by the U.S. Census Bureau. It is between the Atlantic Ocean and the Western United States, with the Midwestern and Northeastern United States to its north and the Gulf of Mexico and Mexico to its south. Historically, the South was defined as all states south of the 18th-century Mason–Dixon line, the Ohio River, and the 36°30′ parallel. Within the South are different subregions such as the Southeast, South Central, Upper South, and Deep South. Maryland, Delaware, Washington, D.C., and Virginia have become more culturally, economically, and politically aligned in certain aspects with the Northeastern United States and are sometimes identified as part of the Northeast or Mid-Atlantic. The U.S. Census Bureau continues to define all four places as formally being in the South.",
+"place_url": "https://en.wikipedia.org/wiki/Southern_United_States",
+"image": {
+"src": "img/places/southern-united-states.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "Jrozwado",
+"file_page": "https://commons.wikimedia.org/wiki/File:Savannah,_GA_-_Historic_District_(3).jpg",
+"file": "Savannah, GA - Historic District (3).jpg"
+},
+"dish_title": "Fried chicken",
+"dish_extract": "Fried chicken, more formally known as Southern fried chicken, is a dish consisting of chicken pieces, \ncoated with seasoned flour or batter, that are pan-fried, deep-fried, pressure-fried, or air-fried. The breading adds a crisp coating or crust to the exterior of the chicken while retaining juices in the meat. Broiler chickens are most commonly used.",
+"dish_url": "https://en.wikipedia.org/wiki/Fried_chicken"
+}
+},
+{
+"id": "chicken-65",
+"name": "Chicken 65",
+"category": "Entree",
+"cuisine": "Indian (Tamil Nadu)",
+"tags": [
+"Non-veg",
+"Spicy",
+"Gluten-free"
+],
+"servings": 4,
+"difficulty": "Easy",
+"prep": 15,
+"cook": 20,
+"extra": "+ 30 min marinating",
+"nutrition": {
+"kcal": 380,
+"protein": 30,
+"carbs": 12,
+"fat": 24,
+"fiber": 1
+},
+"moods": [
+"movie",
+"rainy",
+"party"
+],
+"mode": "rewritten",
+"ingredients": [
+[
+"500 g",
+"boneless chicken, cubed"
+],
+[
+"1 tbsp",
+"ginger-garlic paste"
+],
+[
+"1½ tsp",
+"Kashmiri chilli powder"
+],
+[
+"½ tsp",
+"turmeric"
+],
+[
+"½ tsp",
+"black pepper"
+],
+[
+"½ tsp",
+"garam masala"
+],
+[
+"1 tbsp",
+"lemon juice"
+],
+[
+"2 tbsp",
+"yogurt"
+],
+[
+"3 tbsp",
+"cornflour"
+],
+[
+"1 tbsp",
+"rice flour"
+],
+[
+"1",
+"egg white"
+],
+[
+"oil",
+"for frying"
+],
+[
+"1 sprig",
+"curry leaves"
+],
+[
+"3",
+"green chillies, slit"
+],
+[
+"1 tsp",
+"chopped garlic"
+]
+],
+"steps": [
+"Mix chicken with ginger-garlic paste, chilli powder, turmeric, pepper, garam masala, lemon juice, yogurt and salt. Marinate 30 minutes.",
+"Add cornflour, rice flour and egg white; mix to coat each piece.",
+"Deep-fry in batches at 175°C for 5–6 minutes until crisp and red-golden.",
+"In 1 tbsp hot oil, crackle the curry leaves, green chillies and garlic; toss the fried chicken through.",
+"Serve hot with onion rings and lemon wedges."
+],
+"note": "Repo entry pointed at an unrelated French chicken recipe; rewritten as Chicken 65.",
+"fact": "Credited to Hotel Buhari in Chennai (1965 is the most cited story for the name).",
+"total": 35,
+"repo": {
+"name": "Chicken 65",
+"category": "Main Course",
+"cuisine": "France",
+"best_time": "Relaxed weekend cooking & family dinners",
+"saved_count": 8,
+"source": "themealdb",
+"post": {
+"kcal": 771
+},
+"time_min": 40,
+"time_source": "estimated",
+"calories": 771,
+"calories_source": "from post",
+"n_ing": 19,
+"n_steps": 12
+},
+"image": null,
+"youtube": null,
+"saved": 8,
+"origin": {
+"place": "Chennai, Tamil Nadu, India",
+"place_title": "Chennai",
+"place_desc": "Capital of Tamil Nadu, India",
+"place_extract": "Chennai, also known as Madras, is the capital and largest city of Tamil Nadu, the southernmost state of India. It is located on the Coromandel Coast of the Bay of Bengal. As per the 2011 Indian census, Chennai is the sixth-most-populous city in India and forms the fourth-most-populous urban agglomeration. The city is coterminous with Chennai district, which together with the adjoining suburbs constitutes the Chennai Metropolitan Area, one of the largest metropolitan areas of India. It is administered by the Greater Chennai Corporation, which was incorporated in 1688, and is the second oldest municipal corporation in the world after the City of London Corporation. Being the capital of the state, it houses major government institutions including the Tamil Nadu Legislative Assembly, and the Madras High Court.",
+"place_url": "https://en.wikipedia.org/wiki/Chennai",
+"image": {
+"src": "img/places/chennai.jpg",
+"license": "CC BY-SA 2.0",
+"artist": "jamal haider from india",
+"file_page": "https://commons.wikimedia.org/wiki/File:Chennai_Central.jpg"
+},
+"dish_title": "Chicken 65",
+"dish_extract": "Chicken 65 is a spicy, deep-fried chicken dish originating from Hotel Buhari, Chennai, India, as an entrée, or quick snack. The flavour of the dish can be attributed to red chillies, but the exact set of ingredients for the recipe can vary. It is prepared using boneless chicken and is usually served with an onion and lemon garnish. Vegetarian variants such as \"Paneer 65\" or \"Gobhi 65\" use paneer or cauliflower instead. While the name \"Chicken 65\" is universally used to refer to the dish, there are many different theories claiming its origins.",
+"dish_url": "https://en.wikipedia.org/wiki/Chicken_65"
+}
+},
+{
+"id": "chicken-tikka",
+"name": "Chicken Tikka",
+"category": "Entree",
+"cuisine": "Indian (Punjabi)",
+"tags": [
+"Non-veg",
+"High-protein",
+"Gluten-free"
+],
+"servings": 4,
+"difficulty": "Easy",
+"prep": 15,
+"cook": 15,
+"extra": "+ 2 h marinating",
+"nutrition": {
+"kcal": 290,
+"protein": 38,
+"carbs": 6,
+"fat": 12,
+"fiber": 1
+},
+"moods": [
+"party",
+"gym",
+"weekend"
+],
+"mode": "rewritten",
+"ingredients": [
+[
+"600 g",
+"boneless chicken thighs, 4 cm cubes"
+],
+[
+"150 g",
+"thick (hung) yogurt"
+],
+[
+"1 tbsp",
+"ginger-garlic paste"
+],
+[
+"1½ tsp",
+"Kashmiri chilli powder"
+],
+[
+"1 tsp",
+"ground cumin"
+],
+[
+"1 tsp",
+"garam masala"
+],
+[
+"½ tsp",
+"turmeric"
+],
+[
+"1 tbsp",
+"mustard oil (or any oil)"
+],
+[
+"1 tbsp",
+"lemon juice"
+],
+[
+"1 tsp",
+"kasuri methi"
+],
+[
+"1",
+"onion & 1 capsicum, cut into chunks (optional)"
+],
+[
+"1 tbsp",
+"melted butter for basting"
+],
+[
+"1 tsp",
+"chaat masala to finish"
+]
+],
+"steps": [
+"Whisk yogurt with ginger-garlic paste, spices, oil, lemon juice, kasuri methi and salt.",
+"Coat the chicken (and veg, if using) and marinate 2 hours or overnight.",
+"Thread onto skewers. Grill, broil or bake at 240°C for 12–15 minutes, turning once and basting with butter, until charred at the edges.",
+"Sprinkle chaat masala and serve with mint chutney and sliced onions."
+],
+"note": "Repo entry pointed at an unrelated French chicken recipe; rewritten as chicken tikka.",
+"fact": "",
+"total": 30,
+"repo": {
+"name": "Chicken Tikka",
+"category": "Main Course",
+"cuisine": "France",
+"best_time": "Relaxed weekend cooking & family dinners",
+"saved_count": 8,
+"source": "themealdb",
+"post": {
+"kcal": 523
+},
+"time_min": 40,
+"time_source": "estimated",
+"calories": 523,
+"calories_source": "from post",
+"n_ing": 19,
+"n_steps": 12
+},
+"image": null,
+"youtube": null,
+"saved": 8,
+"origin": {
+"place": "Punjab region (India & Pakistan)",
+"place_title": "Punjab",
+"place_desc": "Geographical region in South Asia",
+"place_extract": "Punjab is a geographical, ethnolinguistic, and historical region in South Asia, located in its northwestern part, comprising areas of modern-day Pakistan and northwestern India. Lahore is its largest city and historic capital, with other major cities including Faisalabad, Rawalpindi, Gujranwala, Multan, and Sialkot in Pakistan; alongside Ludhiana, Amritsar, Chandigarh, Jalandhar, and Patiala in India.",
+"place_url": "https://en.wikipedia.org/wiki/Punjab",
+"image": {
+"src": "img/places/punjab.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "Dey.sandip",
+"file_page": "https://commons.wikimedia.org/wiki/File:Harmandir_Sahib,_Amritsar,_India.jpg",
+"file": "Harmandir Sahib, Amritsar, India.jpg"
+},
+"dish_title": "Chicken tikka",
+"dish_extract": "Chicken tikka is a chicken dish in South Asia and amongst the South Asian diaspora. It derives from Mughal cuisine, as the Mughals brought the tandoor oven from Central Asia and the Persian habit of marinating meat in yogurt, combined with the Indian habit of cooking with spices. The dish gave rise to the British chicken tikka masala.",
+"dish_url": "https://en.wikipedia.org/wiki/Chicken_tikka"
+}
+},
+{
+"id": "potatoes",
+"name": "Maple Bacon Breakfast Potatoes",
+"category": "Breakfast",
+"cuisine": "Canadian",
+"tags": [
+"Non-veg",
+"Gluten-free"
+],
+"servings": 2,
+"difficulty": "Easy",
+"prep": 10,
+"cook": 20,
+"extra": "",
+"nutrition": {
+"kcal": 330,
+"protein": 8,
+"carbs": 42,
+"fat": 15,
+"fiber": 4
+},
+"moods": [
+"brunch",
+"weekend"
+],
+"mode": "repo",
+"ingredients": [
+[
+"3 Medium",
+"Potatoes"
+],
+[
+"1 tbs",
+"Olive Oil"
+],
+[
+"2 strips",
+"Bacon"
+],
+[
+"Minced",
+"Garlic Clove"
+],
+[
+"1 tbs",
+"Maple Syrup"
+],
+[
+"Garnish",
+"Parsley"
+],
+[
+"Pinch",
+"Salt"
+],
+[
+"Pinch",
+"Pepper"
+],
+[
+"To taste",
+"Allspice"
+]
+],
+"steps": [
+"Before you do anything, freeze your bacon slices that way when you're ready to prep, it'll be so much easier to chop!",
+"Wash the potatoes and cut medium dice into square pieces. To prevent any browning, place the already cut potatoes in a bowl filled with water.",
+"In the meantime, heat 1-2 tablespoons of oil in a large skillet over medium-high heat.",
+"Tilt the skillet so the oil spreads evenly. Once the oil is hot, drain the potatoes and add to the skillet.",
+"Season with salt, pepper, and Old Bay as needed. Cook for 10 minutes, stirring the potatoes often, until brown.",
+"If needed, add a tablespoon more of oil. Chop up the bacon and add to the potatoes.",
+"The bacon will start to render and the fat will begin to further cook the potatoes.",
+"Toss it up a bit! The bacon will take 5-6 minutes to crisp. Once the bacon is cooked, reduce the heat to medium-low, add the minced garlic and toss.",
+"Season once more. Add dried or fresh parsley. Control heat as needed.",
+"Let the garlic cook until fragrant, about one minute. Just before serving, drizzle over the maple syrup and toss.",
+"Let that cook another minute, giving the potatoes a caramelized effect.",
+"Serve in a warm bowl with a sunny side up egg!"
+],
+"note": "TheMealDB breakfast potatoes.",
+"fact": "",
+"total": 30,
+"repo": {
+"name": "Potatoes",
+"category": "Breakfast",
+"cuisine": "Canadian",
+"best_time": "Lazy weekend mornings & quick weekday fuel",
+"saved_count": 8,
+"source": "themealdb",
+"post": {
+"kcal": 313,
+"time_min": 2
+},
+"time_min": 2,
+"time_source": "from post",
+"calories": 313,
+"calories_source": "from post",
+"n_ing": 9,
+"n_steps": 12
+},
+"image": "https://www.themealdb.com/images/media/meals/1550441882.jpg",
+"youtube": "https://www.youtube.com/watch?v=BoD0TIO9nE4",
+"saved": 8,
+"origin": {
+"place": "Quebec, Canada (maple country)",
+"place_title": "Quebec",
+"place_desc": "Province of Canada",
+"place_extract": "Quebec is Canada's largest province by area. Located in Central Canada, it is the country's only Francophone-majority province. It is home to speakers of Québécois French. It shares borders with Ontario to the west, Newfoundland and Labrador to the northeast, New Brunswick to the southeast and a coastal border with the territory of Nunavut. To the south, it borders the United States. Quebec has a population of around eight million, making it Canada's second-most populous province, behind Ontario.",
+"place_url": "https://en.wikipedia.org/wiki/Quebec",
+"image": {
+"src": "img/places/quebec.jpg",
+"license": "Public domain",
+"artist": "User: (WT-shared) ED01 at  wts wikivoyage",
+"file_page": "https://commons.wikimedia.org/wiki/File:Chateau_Frontenac,_Quebec_City.jpg",
+"file": "Chateau Frontenac, Quebec City.jpg"
+},
+"dish_title": "Home fries",
+"dish_extract": "Home fries, house fries (US), fried potatoes, Bratkartoffeln (German), or bistro potatoes is a type of basic potato dish made by pan- or skillet-frying chunked, sliced, wedged or diced potatoes that are sometimes unpeeled and may have been par-cooked by boiling, baking, steaming, or microwaving. They are sometimes served as a substitute for hash browns.",
+"dish_url": "https://en.wikipedia.org/wiki/Home_fries"
+}
+},
+{
+"id": "biryani",
+"name": "Lamb Biryani",
+"category": "Main Course",
+"cuisine": "Indian",
+"tags": [
+"Non-veg",
+"Celebration"
+],
+"servings": 4,
+"difficulty": "Hard",
+"prep": 40,
+"cook": 90,
+"extra": "+ 20 min soaking",
+"nutrition": {
+"kcal": 720,
+"protein": 35,
+"carbs": 78,
+"fat": 28,
+"fiber": 3
+},
+"moods": [
+"festive",
+"weekend",
+"party"
+],
+"mode": "completed",
+"ingredients": [
+[
+"12",
+"Cashew nuts"
+],
+[
+"½ tbsp",
+"Khus khus"
+],
+[
+"½ tbsp",
+"Cumin seeds"
+],
+[
+"3 sliced thinly",
+"Onions"
+],
+[
+"2 tsp",
+"Ginger garlic paste"
+],
+[
+"4 whole",
+"Garlic"
+],
+[
+"Leaves",
+"Mint"
+],
+[
+"Leaves",
+"Cilantro"
+],
+[
+"½ tsp dissolved in ½ cup warm milk",
+"Saffron"
+],
+[
+"2 tbsp",
+"Ghee"
+],
+[
+"2 Cups",
+"Basmati rice"
+],
+[
+"½ cup",
+"Full fat yogurt"
+],
+[
+"1 tbsp",
+"Cumin Seeds"
+],
+[
+"½",
+"Bay leaf"
+],
+[
+"1 thin piece",
+"Cinnamon"
+],
+[
+"3",
+"Cloves"
+],
+[
+"2",
+"Cardamom"
+],
+[
+"1 lb",
+"Lamb"
+],
+[
+"1 tsp",
+"Red Chilli powder"
+],
+[
+"1 tbsp",
+"Biryani masala"
+],
+[
+"2",
+"tomatoes, chopped (★ used in steps)"
+],
+[
+"2",
+"green chillies (★ used in steps)"
+],
+[
+"as needed",
+"oil for frying onions (★)"
+],
+[
+"to taste",
+"salt (★)"
+]
+],
+"steps": [
+"Grind the cashew, poppy seeds and cumin seeds into a smooth paste, using as little water as possible.",
+"Set aside. Deep fry the sliced onions when it is hot. Don’t overcrowd the oil.",
+"When the onions turn light brown, remove from oil and drain on paper towel.",
+"The fried onion will crisp up as it drains. Also fry the cashewnuts till golden brown.",
+"Set aside. Wash the rice and soak in water for twenty minutes.",
+"Meanwhile, take a big wide pan, add oil in medium heat, add the sliced onions, add the blended paste, to it add the green chillies, ginger garlic paste and garlic and fry for a minute.",
+"Then add the tomatoes and sauté them well till they are cooked and not mushy.",
+"Then to it add the red chilli powder, biryani powder, mint, coriander leaves and sauté them well.",
+"Add the yogurt and mix well. I always move the skillet away from the heat when adding yogurt which prevents it from curdling.",
+"Now after returning the skillet back to the stove, add the washed lamb and salt and ½ cup water and mix well.",
+"Cook for 1 hour and cook it covered in medium low heat or put it in a pressure cooker for 6 whistles.",
+"If the water is not drained totally, heat it by keeping it open.",
+"★ Meanwhile, parboil the soaked rice in salted water with a bay leaf, cinnamon, cloves and cardamom until 70% cooked; drain.",
+"★ Layer the rice over the cooked lamb, top with fried onions, fried cashews, mint, cilantro, the saffron milk and ghee.",
+"★ Cover tightly and cook on the lowest heat (dum) for 20–25 minutes. Rest 10 minutes and serve with raita."
+],
+"note": "Repo/TheMealDB steps stopped before layering the rice; the final steps were added (marked).",
+"fact": "Biryani is a staple of Eid feasts and Indian weddings.",
+"total": 130,
+"repo": {
+"name": "Biryani",
+"category": "Main Course",
+"cuisine": "India",
+"best_time": "Relaxed weekend cooking & family dinners",
+"saved_count": 7,
+"source": "themealdb",
+"post": {
+"time_min": 5
+},
+"time_min": 5,
+"time_source": "from post",
+"calories": 600,
+"calories_source": "estimated",
+"n_ing": 20,
+"n_steps": 12
+},
+"image": "https://www.themealdb.com/images/media/meals/xrttsx1487339558.jpg",
+"youtube": "https://www.youtube.com/watch?v=r7SYVSG5nxo",
+"saved": 7,
+"origin": {
+"place": "Lucknow, Uttar Pradesh, India",
+"place_title": "Lucknow",
+"place_desc": "Capital of Uttar Pradesh, India",
+"place_extract": "Lucknow is a metropolis and the second largest city of the Indian state of Uttar Pradesh where it serves as the capital and the administrative headquarters of the eponymous district and division. The city had a population of 2.8 million according to the 2011 census, making it the eleventh most populous city and the twelfth-most populous urban agglomeration of India. It is an important centre of education, commerce, aerospace, finance, pharmaceuticals, information technology, design, gastronomy, literature, arts, tourism, music, and poetry. Lucknow, along with Agra and Varanasi, forms the backbone of the Uttar Pradesh Heritage Arc.",
+"place_url": "https://en.wikipedia.org/wiki/Lucknow",
+"image": {
+"src": "img/places/lucknow.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "Mohit",
+"file_page": "https://commons.wikimedia.org/wiki/File:Harzratganj_Market,_Lucknow.jpg"
+},
+"dish_title": "Biryani",
+"dish_extract": "Biryani is a mixed rice dish traditionally made with spiced meat, seafood, or vegetables. It was present in Mughal-era India, though whether it was created there is debated. It is thought to derive from a Persian rice dish, either pilau or birinj biryan. The dish makes use of slow-cooking as in Persian pilau, combined with Persian-style yoghurt-marinated meat and a spicy Indian style of cooking; it was likely developed in the Mughal court kitchens. It is also possible that biryani was brought to South India before the Mughal era, or that pilau was brought to India and biryani was developed from it before being adopted by the Mughals.",
+"dish_url": "https://en.wikipedia.org/wiki/Biryani"
+}
+},
+{
+"id": "chicken-fried-rice",
+"name": "Chicken Fried Rice",
+"category": "Main Course",
+"cuisine": "Chinese",
+"tags": [
+"Non-veg",
+"Quick",
+"Meal prep"
+],
+"servings": 4,
+"difficulty": "Easy",
+"prep": 15,
+"cook": 15,
+"extra": "(use day-old rice)",
+"nutrition": {
+"kcal": 520,
+"protein": 30,
+"carbs": 62,
+"fat": 16,
+"fiber": 3
+},
+"moods": [
+"weeknight",
+"mealprep",
+"latenight"
+],
+"mode": "completed",
+"ingredients": [
+[
+"1 lb",
+"Chicken Thighs"
+],
+[
+"1 tsp",
+"Salt"
+],
+[
+"3  tablespoons",
+"Canola Oil"
+],
+[
+"3 Large",
+"Egg"
+],
+[
+"2/3 Cup",
+"Onion"
+],
+[
+"2 cloves minced",
+"Garlic"
+],
+[
+"2 tsp",
+"Ground Ginger"
+],
+[
+"1 large",
+"Carrots"
+],
+[
+"2/3 Cup",
+"Peas"
+],
+[
+"4 cups",
+"Jasmine Rice"
+],
+[
+"2 sliced",
+"Scallions"
+],
+[
+"1/2 tsp",
+"Chinese five spice powder"
+],
+[
+"2.5 tbsp",
+"Soy Sauce"
+],
+[
+"1 tsp",
+"Sesame Seed Oil"
+]
+],
+"steps": [
+"Fried rice is best made with leftover rice that's at least a day old.",
+"Otherwise it becomes gummy in the skillet. If you don’t have any leftover rice from the night before, cook a batch of rice and spread it on a large baking sheet or several large plates.",
+"Let the rice dry out for about 1 to 2 hours before using it for fried rice.",
+"Rice sticks to the pan very easily, so make sure to use a wok or pan that doesn’t have a sticky surface.",
+"I usually cook stir-fries in my seasoned carbon steel wok, but cast iron or nonstick pans work well, too.",
+"You might need to add a little more oil if things aren’t releasing easily.",
+"Prepare the chicken: Chop the chicken into small 1/4-inch to 1/2-inch cubes.",
+"Sprinkle 1/2 teaspoon of salt over the chicken and mix to combine.",
+"Set the chicken aside for about 10 minutes (I usually use this time to chop all the vegetables).",
+"Scramble the egg: Heat a wok or large sauté pan over medium-high heat.",
+"Swirl in a tablespoon of oil and add the whisked eggs. Use a spatula to quickly scramble the eggs, breaking the curds into smaller pieces as they come together.",
+"Transfer the eggs to a plate. Cook the chicken: Add another tablespoon of oil in the wok or pan.",
+"★ Cook the chicken until browned and cooked through, 4–5 minutes; remove.",
+"★ Add the last tablespoon of oil, then onion, garlic, ginger and carrot; stir-fry 2 minutes, then the peas.",
+"★ Add the cold rice, five-spice and soy sauce; toss on high heat 3–4 minutes.",
+"★ Return chicken and eggs, add scallions and sesame oil, toss and serve."
+],
+"note": "Repo/TheMealDB steps stopped after browning the chicken; the remaining steps were added (marked).",
+"fact": "",
+"total": 30,
+"repo": {
+"name": "Chicken Fried Rice",
+"category": "Main Course",
+"cuisine": "Chinese",
+"best_time": "Relaxed weekend cooking & family dinners",
+"saved_count": 6,
+"source": "themealdb",
+"post": {
+"kcal": 410,
+"time_min": 2
+},
+"time_min": 2,
+"time_source": "from post",
+"calories": 410,
+"calories_source": "from post",
+"n_ing": 14,
+"n_steps": 12
+},
+"image": "https://www.themealdb.com/images/media/meals/wuyd2h1765655837.jpg",
+"youtube": "https://www.youtube.com/watch?v=mUr-7wjhHuU",
+"saved": 6,
+"origin": {
+"place": "Yangzhou, Jiangsu, China",
+"place_title": "Yangzhou",
+"place_desc": "Prefecture-level city in Jiangsu, People's Republic of China",
+"place_extract": "Yangzhou is a prefecture-level city in central Jiangsu Province, East China. Sitting on the north bank of the Yangtze, it borders the provincial capital Nanjing to the southwest, Huai'an to the north, Yancheng to the northeast, Taizhou to the east, and Zhenjiang across the river to the south. Its population was 4,559,797 at the 2020 census and its urban area is home to 2,635,435 inhabitants, including three urban districts, currently in the agglomeration.",
+"place_url": "https://en.wikipedia.org/wiki/Yangzhou",
+"image": {
+"src": "img/places/yangzhou.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "Gisling",
+"file_page": "https://commons.wikimedia.org/wiki/File:The_Five_Pavilion_bridge.jpg"
+},
+"dish_title": "Fried rice",
+"dish_extract": "Fried rice is a dish of cooked rice that has been stir-fried in a wok or a frying pan and is usually mixed with other ingredients such as eggs, vegetables, seafood, or meat. It is often eaten as a main dish or as an accompaniment to another dish. Fried rice is a popular component of East Asian, Southeast Asian and South Asian cuisines. As a homemade dish, fried rice is typically made with ingredients left over from other dishes, leading to countless variations. Fried rice first developed during the Sui dynasty in China and later spread across the world through the migration of the Chinese diaspora.",
+"dish_url": "https://en.wikipedia.org/wiki/Fried_rice"
+}
+},
+{
+"id": "tandoori-chicken",
+"name": "Tandoori Chicken",
+"category": "Main Course",
+"cuisine": "Indian",
+"tags": [
+"Non-veg",
+"High-protein",
+"Gluten-free"
+],
+"servings": 8,
+"difficulty": "Easy",
+"prep": 15,
+"cook": 20,
+"extra": "+ 1 h marinating",
+"nutrition": {
+"kcal": 360,
+"protein": 44,
+"carbs": 8,
+"fat": 16,
+"fiber": 1
+},
+"moods": [
+"party",
+"weekend",
+"gym"
+],
+"mode": "repo",
+"ingredients": [
+[
+"2 Juice",
+"lemons"
+],
+[
+"4 tsp",
+"paprika"
+],
+[
+"2 finely chopped",
+"red onions"
+],
+[
+"16 skinnless",
+"chicken thighs"
+],
+[
+"For brushing",
+"vegetable oil"
+],
+[
+"300ml",
+"Greek yogurt"
+],
+[
+"large piece",
+"ginger"
+],
+[
+"4",
+"garlic clove"
+],
+[
+"¾ tsp",
+"garam masala"
+],
+[
+"¾ tsp",
+"ground cumin"
+],
+[
+"½ tsp",
+"chilli powder"
+],
+[
+"¼ tsp",
+"turmeric"
+]
+],
+"steps": [
+"Mix the lemon juice with the paprika and red onions in a large shallow dish.",
+"Slash each chicken thigh three times, then turn them in the juice and set aside for 10 mins.",
+"Mix all of the marinade ingredients together and pour over the chicken.",
+"Give everything a good mix, then cover and chill for at least 1 hr.",
+"This can be done up to a day in advance. Heat the grill. Lift the chicken pieces onto a rack over a baking tray.",
+"Brush over a little oil and grill for 8 mins on each side or until lightly charred and completely cooked through."
+],
+"note": "TheMealDB tandoori chicken (16 thighs, serves ~8).",
+"fact": "",
+"total": 35,
+"repo": {
+"name": "Tandoori Chicken",
+"category": "Main Course",
+"cuisine": "India",
+"best_time": "Relaxed weekend cooking & family dinners",
+"saved_count": 6,
+"source": "themealdb",
+"post": {
+"kcal": 538
+},
+"time_min": 40,
+"time_source": "estimated",
+"calories": 538,
+"calories_source": "from post",
+"n_ing": 12,
+"n_steps": 6
+},
+"image": "https://www.themealdb.com/images/media/meals/qptpvt1487339892.jpg",
+"youtube": "https://www.youtube.com/watch?v=-CKvt1KNU74",
+"saved": 6,
+"origin": {
+"place": "Peshawar → Delhi",
+"place_title": "Peshawar",
+"place_desc": "Capital of Khyber Pakhtunkhwa, Pakistan",
+"place_extract": "Peshawar is the capital and the largest city in the Pakistani province of Khyber Pakhtunkhwa. It is the eighth-most populous Pakistani city, with a population of over 1.9 million. It is located in the north-west of the country, lying in the Peshawar Valley, a broad area situated east of the Khyber Pass.",
+"place_url": "https://en.wikipedia.org/wiki/Peshawar",
+"image": {
+"src": "img/places/peshawar.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "Zafarmaini",
+"file_page": "https://commons.wikimedia.org/wiki/File:Islamia_College_Peshawar_(Public_Sector_University),_Khyber_Pakhtunkhwa,_Pakistan_cropped.jpg"
+},
+"dish_title": "Tandoori chicken",
+"dish_extract": "Tandoori chicken is an Indian roasted chicken dish with the meat marinated in yogurt & spices and roasted in a tandoor, a cylindrical clay oven. The dish is now popular worldwide. The modern form of the dish was popularised by the Moti Mahal restaurant in New Delhi, India in the late 1940s.",
+"dish_url": "https://en.wikipedia.org/wiki/Tandoori_chicken"
+}
+},
+{
+"id": "egg-fried-rice",
+"name": "Egg Fried Rice",
+"category": "Main Course",
+"cuisine": "Chinese",
+"tags": [
+"Eggetarian",
+"Quick",
+"Budget"
+],
+"servings": 2,
+"difficulty": "Easy",
+"prep": 10,
+"cook": 10,
+"extra": "",
+"nutrition": {
+"kcal": 450,
+"protein": 15,
+"carbs": 62,
+"fat": 16,
+"fiber": 3
+},
+"moods": [
+"weeknight",
+"latenight"
+],
+"mode": "rewritten",
+"ingredients": [
+[
+"3 cups",
+"cooked rice, preferably day-old"
+],
+[
+"3",
+"eggs, beaten"
+],
+[
+"2 tbsp",
+"oil"
+],
+[
+"3",
+"garlic cloves, minced"
+],
+[
+"½ cup",
+"peas & diced carrots"
+],
+[
+"3",
+"spring onions (whites and greens separated)"
+],
+[
+"1½ tbsp",
+"light soy sauce"
+],
+[
+"1 tsp",
+"dark soy sauce (for colour)"
+],
+[
+"½ tsp",
+"white pepper"
+],
+[
+"1 tsp",
+"sesame oil"
+]
+],
+"steps": [
+"Break up the rice with your fingers so no clumps remain.",
+"Heat 1 tbsp oil in a wok on high; scramble the eggs until just set, then push aside or remove.",
+"Add remaining oil, garlic and spring-onion whites for 30 seconds, then peas and carrots for 1 minute.",
+"Add the rice; toss for 2–3 minutes until hot and slightly toasty.",
+"Season with both soy sauces and white pepper, fold the egg back in, finish with sesame oil and spring-onion greens."
+],
+"note": "Repo entry reused a chicken fried rice recipe; rewritten as an egg fried rice.",
+"fact": "",
+"total": 20,
+"repo": {
+"name": "Egg Fried Rice",
+"category": "Main Course",
+"cuisine": "Chinese",
+"best_time": "Relaxed weekend cooking & family dinners",
+"saved_count": 5,
+"source": "themealdb",
+"post": {},
+"time_min": 40,
+"time_source": "estimated",
+"calories": 600,
+"calories_source": "estimated",
+"n_ing": 14,
+"n_steps": 12
+},
+"image": null,
+"youtube": null,
+"saved": 5,
+"origin": {
+"place": "Yangzhou, Jiangsu, China",
+"place_title": "Yangzhou",
+"place_desc": "Prefecture-level city in Jiangsu, People's Republic of China",
+"place_extract": "Yangzhou is a prefecture-level city in central Jiangsu Province, East China. Sitting on the north bank of the Yangtze, it borders the provincial capital Nanjing to the southwest, Huai'an to the north, Yancheng to the northeast, Taizhou to the east, and Zhenjiang across the river to the south. Its population was 4,559,797 at the 2020 census and its urban area is home to 2,635,435 inhabitants, including three urban districts, currently in the agglomeration.",
+"place_url": "https://en.wikipedia.org/wiki/Yangzhou",
+"image": {
+"src": "img/places/yangzhou.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "Gisling",
+"file_page": "https://commons.wikimedia.org/wiki/File:The_Five_Pavilion_bridge.jpg"
+},
+"dish_title": "Yangzhou fried rice",
+"dish_extract": "Yangzhou fried rice, also known by several other spellings and names, is a popular Chinese wok-fried rice dish. There are many varieties but it most properly describes egg fried rice with mixed vegetables and two forms of protein, typically pork and shrimp with scallions.",
+"dish_url": "https://en.wikipedia.org/wiki/Yangzhou_fried_rice"
+}
+},
+{
+"id": "manchurian",
+"name": "Veg Manchurian Noodle Frankie",
+"category": "Entree",
+"cuisine": "Indo-Chinese",
+"tags": [
+"Vegetarian",
+"Street food"
+],
+"servings": 4,
+"difficulty": "Medium",
+"prep": 30,
+"cook": 30,
+"extra": "",
+"nutrition": {
+"kcal": 560,
+"protein": 12,
+"carbs": 78,
+"fat": 22,
+"fiber": 5
+},
+"moods": [
+"movie",
+"latenight",
+"weekend"
+],
+"mode": "completed",
+"ingredients": [
+[
+"1 cup",
+"finely shredded cabbage (for balls)"
+],
+[
+"1",
+"onion, finely chopped"
+],
+[
+"1 tsp",
+"salt"
+],
+[
+"½ tsp",
+"black pepper"
+],
+[
+"1 cup",
+"refined flour (maida) for balls"
+],
+[
+"oil",
+"for deep frying"
+],
+[
+"2 tbsp",
+"oil (for the sauce)"
+],
+[
+"5–6",
+"garlic cloves, chopped"
+],
+[
+"½",
+"onion, diced"
+],
+[
+"⅓ cup",
+"capsicum, diced"
+],
+[
+"2 tbsp",
+"Schezwan sauce (+ extra for spreading)"
+],
+[
+"1 tsp",
+"soy sauce"
+],
+[
+"2 tbsp",
+"red chilli sauce"
+],
+[
+"2 cups",
+"refined flour (maida) for the rotis"
+],
+[
+"½ tsp",
+"salt (roti dough)"
+],
+[
+"2 tsp",
+"oil (roti dough)"
+],
+[
+"¾ cup",
+"water"
+],
+[
+"1 pack (150 g)",
+"noodles, boiled"
+],
+[
+"1 tbsp",
+"butter"
+],
+[
+"½ cup",
+"shredded cabbage to top"
+]
+],
+"steps": [
+"Make a mixture of 1 cup of cabbage, 1 onion, 1 tsp salt, ½ tsp black pepper & 1 cup of refined flour.",
+"Form small balls out of this mixture. Deep fry these balls in oil.",
+"In a pan add 2 tbsp oil,5-6 garlic cloves, ½ onion, ⅓ cup of capsicum, 2 tbsp schezwan sauce, 1 tsp soya sauce, 2 tbsp red chili sauce & add fried Manchurians into it. Stir it well.",
+"Make a dough of  2 cups refined flour, ½ tsp salt, 2 tsp oil & ¾ cup of water.",
+"Mix noodles, salt, black pepper & schezwan sauce.",
+"Make a roti & roast it in butter. Fry the noodles in a pan.",
+"Apply Schezwan sauce on roti, add noodles, place Manchurian in between & sprinkle some cabbage on top.",
+"Roll it & serve!"
+],
+"note": "From the repo (Instagram caption). Quantities came from the caption steps.",
+"fact": "",
+"total": 60,
+"repo": {
+"name": "Manchurian",
+"category": "Entree",
+"cuisine": "Chinese",
+"best_time": "Cozy evenings & dinner-party starters",
+"saved_count": 5,
+"source": "caption",
+"post": {
+"kcal": 245,
+"time_min": 20
+},
+"time_min": 20,
+"time_source": "from post",
+"calories": 245,
+"calories_source": "from post",
+"n_ing": 22,
+"n_steps": 8
+},
+"image": null,
+"youtube": null,
+"saved": 5,
+"origin": {
+"place": "Mumbai, India",
+"place_title": "Mumbai",
+"place_desc": "Capital of Maharashtra, India",
+"place_extract": "Mumbai, also known as Bombay, is the capital city of the Indian state of Maharashtra and the financial capital of India. Located on the Konkan coast along the west coast of India, it has a deep natural harbour. As per the 2011 Census of India, it is the most populous city proper in India, with a population of almost 12.5 million, while the Mumbai Metropolitan Region, which is among the most populous metropolitan areas in the world, has a population of over 20 million. The city forms part of the Mumbai City and Mumbai Suburban districts and is administered by the Brihanmumbai Municipal Corporation, which was established in 1888.",
+"place_url": "https://en.wikipedia.org/wiki/Mumbai",
+"image": {
+"src": "img/places/mumbai.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "Rutiknatekar",
+"file_page": "https://commons.wikimedia.org/wiki/File:Mumbai_Bandra-Worli_Sea_Link.jpg"
+},
+"dish_title": "Kati roll",
+"dish_extract": "A kati roll is a street-food dish originating from Kolkata, West Bengal, India. In its original form, it is a skewer-roasted kebab wrapped in a paratha bread, although over the years many variants have evolved all of which now go under the generic name of kati roll. Today, mostly any wrap containing a filling enfolded in an Indian flatbread (roti) is called a kati roll. In native Bengali, the word kati roughly translates to 'stick', referring to how they were originally made. In Bengal, the delicacy is simply known as roll. Kati rolls normally contain coriander chutney, egg, and chicken but the types may vary.",
+"dish_url": "https://en.wikipedia.org/wiki/Kati_roll"
+}
+},
+{
+"id": "full-recipe",
+"name": "Crispy Five-Spice Chicken (Air Fryer)",
+"category": "Entree",
+"cuisine": "Chinese",
+"tags": [
+"Non-veg",
+"Air fryer",
+"High-protein"
+],
+"servings": 3,
+"difficulty": "Easy",
+"prep": 15,
+"cook": 15,
+"extra": "+ 20 min marinating",
+"nutrition": {
+"kcal": 330,
+"protein": 32,
+"carbs": 24,
+"fat": 10,
+"fiber": 1
+},
+"moods": [
+"gym",
+"weeknight",
+"movie"
+],
+"mode": "completed",
+"ingredients": [
+[
+"1 lb (450 g)",
+"skinless, boneless chicken thighs, bite-size"
+],
+[
+"½ tsp",
+"white pepper"
+],
+[
+"1 tsp",
+"Chinese five-spice powder"
+],
+[
+"1½ tbsp",
+"minced garlic"
+],
+[
+"1 tbsp",
+"minced ginger"
+],
+[
+"1 tbsp",
+"Shaoxing wine"
+],
+[
+"2 tbsp",
+"soy sauce"
+],
+[
+"¾ cup",
+"coarse potato starch"
+],
+[
+"1",
+"egg white"
+],
+[
+"1 second",
+"spray of cooking oil"
+]
+],
+"steps": [
+"Mix the chicken with white pepper, five-spice, garlic, ginger, Shaoxing wine and soy sauce. Marinate 20 minutes (★ step added).",
+"Stir in the egg white until every piece is coated (★).",
+"Toss the pieces in the coarse potato starch, pressing so it sticks; rest 5 minutes so the coating hydrates (★).",
+"Arrange in a single layer in the air-fryer basket and spray lightly with oil (★).",
+"Air-fry at 200°C / 400°F for 12–15 minutes, shaking halfway, until crisp and cooked through (★)."
+],
+"note": "Repo title was literally ‘⇩ Full Recipe ⇩’ with ingredients only; renamed from its ingredients and steps were written (★).",
+"fact": "",
+"total": 30,
+"repo": {
+"name": "⇩ Full Recipe ⇩",
+"category": "Main Course",
+"cuisine": null,
+"best_time": "Relaxed weekend cooking & family dinners",
+"saved_count": 5,
+"source": "caption",
+"post": {},
+"time_min": 40,
+"time_source": "estimated",
+"calories": 600,
+"calories_source": "estimated",
+"n_ing": 10,
+"n_steps": 0
+},
+"image": null,
+"youtube": null,
+"saved": 5,
+"origin": {
+"place": "Guangdong, China",
+"place_title": "Guangdong",
+"place_desc": "Province in South China",
+"place_extract": "Guangdong is a coastal province in South China, on the north shore of the South China Sea with Guangzhou as the capital. With a population of 128.590 million across a total area of about 179,800 km2 (69,400 sq mi), Guangdong is the Chinese province with the largest GDP, the largest population and the 15th-largest by area, as well as the fifth-most populous country subdivision and the 5th largest country subdivision by GDP in the world.",
+"place_url": "https://en.wikipedia.org/wiki/Guangdong",
+"image": {
+"src": "img/places/guangdong.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "Charlie fong",
+"file_page": "https://commons.wikimedia.org/wiki/File:China_Resources_Headquarters%26Shenzhen_Bay_gymnasium_in_Nanshan_District2020.jpg"
+},
+"dish_title": "Five-spice powder",
+"dish_extract": "Five-spice powder is a spice mixture of five or more spices—commonly star anise, cloves, Chinese cinnamon, Sichuan pepper, and fennel seeds—used predominantly in almost all branches of Chinese cuisine. The five flavors of the spices reflect the five traditional Chinese elements and flavors. The addition of eight other spices creates thirteen-spice powder (十三香), which is used less commonly.",
+"dish_url": "https://en.wikipedia.org/wiki/Five-spice_powder"
+}
+},
+{
+"id": "chicken-biryani",
+"name": "Hyderabadi Chicken Biryani",
+"category": "Main Course",
+"cuisine": "Indian (Hyderabadi)",
+"tags": [
+"Non-veg",
+"Celebration",
+"Gluten-free"
+],
+"servings": 5,
+"difficulty": "Hard",
+"prep": 30,
+"cook": 60,
+"extra": "+ 2 h marinating",
+"nutrition": {
+"kcal": 680,
+"protein": 36,
+"carbs": 80,
+"fat": 22,
+"fiber": 3
+},
+"moods": [
+"festive",
+"weekend",
+"party"
+],
+"mode": "rewritten",
+"ingredients": [
+[
+"750 g",
+"bone-in chicken"
+],
+[
+"2½ cups",
+"aged basmati rice, soaked 30 min"
+],
+[
+"250 g",
+"yogurt"
+],
+[
+"1½ tbsp",
+"ginger-garlic paste"
+],
+[
+"2 tsp",
+"red chilli powder"
+],
+[
+"½ tsp",
+"turmeric"
+],
+[
+"1½ tsp",
+"biryani masala / garam masala"
+],
+[
+"3",
+"onions, thinly sliced & fried golden (birista)"
+],
+[
+"handful each",
+"mint & coriander leaves"
+],
+[
+"3",
+"green chillies, slit"
+],
+[
+"1",
+"lemon, juiced"
+],
+[
+"3 tbsp",
+"ghee"
+],
+[
+"pinch",
+"saffron soaked in 3 tbsp warm milk"
+],
+[
+"whole spices",
+"2 bay leaves, 4 green cardamom, 4 cloves, 1 cinnamon stick, 1 tsp shahi jeera"
+]
+],
+"steps": [
+"Marinate chicken with yogurt, ginger-garlic paste, chilli, turmeric, biryani masala, half the fried onions, half the herbs, green chillies, lemon juice, 1 tbsp ghee and salt for 2 hours.",
+"Spread the marinated chicken in a heavy-bottomed pot.",
+"Boil plenty of salted water with the whole spices; cook the rice until 70% done (about 5 minutes). Drain.",
+"Layer the rice over the chicken. Top with remaining fried onions, herbs, saffron milk and 2 tbsp ghee.",
+"Seal the pot with a lid (and dough or foil). Cook on high 5 minutes, then the lowest heat for 35–40 minutes (dum).",
+"Rest 10 minutes, then gently mix from the side. Serve with raita and mirchi ka salan."
+],
+"note": "Repo entry pointed at an unrelated French chicken recipe; rewritten as kacchi-style Hyderabadi chicken biryani.",
+"fact": "Hyderabadi biryani grew out of the Nizams’ royal kitchens and is central to weddings and Eid in the city.",
+"total": 90,
+"repo": {
+"name": "Chicken Biryani",
+"category": "Main Course",
+"cuisine": "France",
+"best_time": "Relaxed weekend cooking & family dinners",
+"saved_count": 4,
+"source": "themealdb",
+"post": {
+"time_min": 10
+},
+"time_min": 10,
+"time_source": "from post",
+"calories": 600,
+"calories_source": "estimated",
+"n_ing": 19,
+"n_steps": 12
+},
+"image": null,
+"youtube": null,
+"saved": 4,
+"origin": {
+"place": "Hyderabad, Telangana, India",
+"place_title": "Hyderabad",
+"place_desc": "Capital of Telangana, India",
+"place_extract": "Hyderabad is the capital and largest city of the Indian state of Telangana. It occupies 650 km2 (250 sq mi) on the Deccan Plateau along the banks of the Musi River, in the northern part of Southern India. With an average altitude of 536 m (1,759 ft), much of Hyderabad is situated on hilly terrain around artificial lakes, including the Hussain Sagar lake, predating the city's founding, in the north of the city centre. According to the 2011 census of India, Hyderabad is the fourth-most populous city in India, with a population of 6.9 million residents within the city limits and 9.7 million residents in the metropolitan region, making it the sixth-most populous metropolitan area in India.",
+"place_url": "https://en.wikipedia.org/wiki/Hyderabad",
+"image": {
+"src": "img/places/hyderabad.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "iMahesh",
+"file_page": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Durgam_cheruvu_and_Hitech_CIty.jpg"
+},
+"dish_title": "Hyderabadi biryani",
+"dish_extract": "Hyderabadi biryani is a style of biryani originating from Hyderabad, India made with basmati rice and meat. Originating in the kitchens of the Nizam of Hyderabad, it combines elements of Hyderabadi and Mughlai cuisines. Hyderabad biryani is a key dish in Hyderabadi cuisine and it is so famous that the dish is considered synonymous with the city of Hyderabad.",
+"dish_url": "https://en.wikipedia.org/wiki/Hyderabadi_biryani"
+}
+},
+{
+"id": "chicken-manchurian",
+"name": "Chicken Manchurian (Gravy)",
+"category": "Main Course",
+"cuisine": "Indo-Chinese",
+"tags": [
+"Non-veg",
+"Spicy"
+],
+"servings": 3,
+"difficulty": "Medium",
+"prep": 15,
+"cook": 25,
+"extra": "",
+"nutrition": {
+"kcal": 430,
+"protein": 30,
+"carbs": 24,
+"fat": 24,
+"fiber": 2
+},
+"moods": [
+"rainy",
+"weeknight",
+"latenight"
+],
+"mode": "rewritten",
+"ingredients": [
+[
+"400 g",
+"boneless chicken, small cubes"
+],
+[
+"1",
+"egg"
+],
+[
+"3 tbsp",
+"cornflour (+1 tbsp for gravy)"
+],
+[
+"1 tbsp",
+"maida"
+],
+[
+"1 tsp",
+"ginger-garlic paste"
+],
+[
+"1 tbsp",
+"soy sauce (+1 tbsp for gravy)"
+],
+[
+"oil",
+"for frying"
+],
+[
+"1 tbsp each",
+"chopped garlic & ginger"
+],
+[
+"2",
+"green chillies, chopped"
+],
+[
+"1",
+"onion, diced"
+],
+[
+"½",
+"capsicum, diced"
+],
+[
+"1 tbsp",
+"red chilli sauce"
+],
+[
+"1 tbsp",
+"tomato ketchup"
+],
+[
+"1 tsp",
+"vinegar"
+],
+[
+"1 cup",
+"water or stock"
+],
+[
+"3",
+"spring onions, chopped"
+]
+],
+"steps": [
+"Coat the chicken with egg, 3 tbsp cornflour, maida, ginger-garlic paste, 1 tbsp soy sauce and salt.",
+"Deep-fry until crisp and golden; drain.",
+"In a wok, sauté garlic, ginger and chillies on high heat for 30 seconds; add onion and capsicum for 1 minute.",
+"Add soy sauce, chilli sauce, ketchup and vinegar, then the water. Bring to a boil.",
+"Thicken with 1 tbsp cornflour mixed in 3 tbsp water until glossy.",
+"Add the chicken, toss, top with spring onions and serve with fried rice."
+],
+"note": "Repo entry pointed at an unrelated French chicken recipe; rewritten as chicken Manchurian.",
+"fact": "Manchurian is usually credited to chef Nelson Wang in Mumbai in the 1970s; it isn’t from Manchuria at all.",
+"total": 40,
+"repo": {
+"name": "Chicken Manchurian",
+"category": "Main Course",
+"cuisine": "France",
+"best_time": "Relaxed weekend cooking & family dinners",
+"saved_count": 4,
+"source": "themealdb",
+"post": {},
+"time_min": 40,
+"time_source": "estimated",
+"calories": 600,
+"calories_source": "estimated",
+"n_ing": 19,
+"n_steps": 12
+},
+"image": null,
+"youtube": null,
+"saved": 4,
+"origin": {
+"place": "Mumbai, India",
+"place_title": "Mumbai",
+"place_desc": "Capital of Maharashtra, India",
+"place_extract": "Mumbai, also known as Bombay, is the capital city of the Indian state of Maharashtra and the financial capital of India. Located on the Konkan coast along the west coast of India, it has a deep natural harbour. As per the 2011 Census of India, it is the most populous city proper in India, with a population of almost 12.5 million, while the Mumbai Metropolitan Region, which is among the most populous metropolitan areas in the world, has a population of over 20 million. The city forms part of the Mumbai City and Mumbai Suburban districts and is administered by the Brihanmumbai Municipal Corporation, which was established in 1888.",
+"place_url": "https://en.wikipedia.org/wiki/Mumbai",
+"image": {
+"src": "img/places/mumbai.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "Rutiknatekar",
+"file_page": "https://commons.wikimedia.org/wiki/File:Mumbai_Bandra-Worli_Sea_Link.jpg"
+},
+"dish_title": "Manchurian (dish)",
+"dish_extract": "Manchurian is a class of Indian Chinese dishes made by roughly chopping and deep-frying ingredients such as chicken, cauliflower (gobi), prawns, fish, mutton, and paneer, and then sautéeing them in a sauce flavored with soy sauce. While not a Chinese dish, it is the result of the adaptation of Chinese cooking and seasoning techniques specifically aimed to suit Indian tastes and has become a staple of Indian-Chinese cuisine.",
+"dish_url": "https://en.wikipedia.org/wiki/Manchurian_(dish)"
+}
+},
+{
+"id": "garlic-chicken",
+"name": "Garlic Chicken (Pollo al Ajillo)",
+"category": "Main Course",
+"cuisine": "Spanish",
+"tags": [
+"Non-veg",
+"Gluten-free",
+"One-pan"
+],
+"servings": 4,
+"difficulty": "Easy",
+"prep": 10,
+"cook": 30,
+"extra": "",
+"nutrition": {
+"kcal": 420,
+"protein": 38,
+"carbs": 4,
+"fat": 26,
+"fiber": 0
+},
+"moods": [
+"weeknight",
+"party"
+],
+"mode": "rewritten",
+"ingredients": [
+[
+"1 kg",
+"chicken thighs/drumsticks, bone-in, cut small"
+],
+[
+"1 head",
+"garlic (about 12 cloves), lightly crushed"
+],
+[
+"4 tbsp",
+"olive oil"
+],
+[
+"2",
+"bay leaves"
+],
+[
+"1 tsp",
+"smoked paprika (optional)"
+],
+[
+"120 ml",
+"dry white wine or sherry"
+],
+[
+"120 ml",
+"chicken stock"
+],
+[
+"2 tbsp",
+"chopped parsley"
+],
+[
+"to taste",
+"salt & pepper"
+]
+],
+"steps": [
+"Season the chicken well with salt and pepper.",
+"Fry the garlic cloves gently in olive oil until golden; remove and keep.",
+"Brown the chicken in the garlicky oil on all sides, 10–12 minutes.",
+"Add bay leaves, paprika and wine; let it bubble 2 minutes, then add stock and the garlic back in.",
+"Cover and simmer 15 minutes until cooked through; uncover to reduce to a glossy sauce.",
+"Finish with parsley and serve with crusty bread or rice."
+],
+"note": "Repo entry pointed at an unrelated French chicken recipe; rewritten as a Spanish-style garlic chicken.",
+"fact": "",
+"total": 40,
+"repo": {
+"name": "Garlic Chicken",
+"category": "Main Course",
+"cuisine": "France",
+"best_time": "Relaxed weekend cooking & family dinners",
+"saved_count": 4,
+"source": "themealdb",
+"post": {
+"kcal": 600
+},
+"time_min": 40,
+"time_source": "estimated",
+"calories": 600,
+"calories_source": "from post",
+"n_ing": 19,
+"n_steps": 12
+},
+"image": null,
+"youtube": null,
+"saved": 4,
+"origin": {
+"place": "Andalusia, Spain",
+"place_title": "Andalusia",
+"place_desc": "Autonomous community of Spain",
+"place_extract": "Andalusia is the southernmost autonomous community in Peninsular Spain, located in the south of the Iberian Peninsula, in southwestern Europe. It is the most populous and the second-largest autonomous community in the country. It is officially recognized as a historical nationality and a national reality. The territory is divided into eight provinces: Almería, Cádiz, Córdoba, Granada, Huelva, Jaén, Málaga, and Seville. Its capital city is Seville, while the seat of its High Court of Justice is the city of Granada.",
+"place_url": "https://en.wikipedia.org/wiki/Andalusia",
+"image": {
+"src": "img/places/andalusia.jpg",
+"license": "Public domain",
+"artist": "Jebulon",
+"file_page": "https://commons.wikimedia.org/wiki/File:Alhambra_in_the_evening.jpg",
+"file": "Alhambra in the evening.jpg"
+},
+"dish_title": "Al ajillo",
+"dish_extract": "Al ajillo is a typical cooking style utilizing garlic in the cuisines of the Spanish-speaking world. The origin is Spain, with influence by the Moors. Beyond Spain, the style has influenced Latin America and broader Hispanic cuisines through colonization and migration, appearing in adaptations.",
+"dish_url": "https://en.wikipedia.org/wiki/Al_ajillo"
+}
+},
+{
+"id": "korean-popcorn-chicken",
+"name": "Korean Popcorn Chicken (Air Fryer)",
+"category": "Snack",
+"cuisine": "Korean",
+"tags": [
+"Non-veg",
+"Air fryer",
+"High-protein",
+"Sweet & spicy"
+],
+"servings": 2,
+"difficulty": "Easy",
+"prep": 15,
+"cook": 20,
+"extra": "",
+"nutrition": {
+"kcal": 450,
+"protein": 42,
+"carbs": 48,
+"fat": 8,
+"fiber": 2
+},
+"moods": [
+"gym",
+"weeknight",
+"movie"
+],
+"mode": "completed",
+"ingredients": [
+[
+"1 medium (250 g)",
+"chicken breast, bite-size"
+],
+[
+"1",
+"egg, beaten"
+],
+[
+"60 g",
+"cornflakes, crushed"
+],
+[
+"½ tbsp",
+"paprika"
+],
+[
+"½ tbsp",
+"chilli powder"
+],
+[
+"½ tbsp",
+"garlic powder"
+],
+[
+"½ tbsp",
+"ground ginger"
+],
+[
+"5 tbsp",
+"gochujang (sauce)"
+],
+[
+"1 tbsp",
+"soy sauce"
+],
+[
+"1 tsp",
+"rice wine vinegar"
+],
+[
+"1 tsp",
+"mirin"
+],
+[
+"1 tbsp",
+"honey"
+],
+[
+"to garnish",
+"sesame seeds & spring onion"
+]
+],
+"steps": [
+"Cut the chicken breast into bite-size pieces.",
+"Coat the chicken in the paprika, chilli, garlic powder and ground ginger.",
+"Dip in the egg, then immediately coat in crushed cornflakes.",
+"Air-fry for 16 minutes (about 190°C), flipping halfway.",
+"While cooking, combine the gochujang, soy sauce, vinegar, mirin and honey.",
+"Heat and slightly reduce the sauce, add the chicken and toss to coat.",
+"Garnish with sesame and spring onion."
+],
+"note": "From the repo (Instagram caption); quantities for spices/cornflakes estimated from the caption’s ‘one medium breast’ note.",
+"fact": "",
+"total": 35,
+"repo": {
+"name": "Korean Popcorn Chicken",
+"category": "Snack",
+"cuisine": "Korean",
+"best_time": "Movie nights & evening cravings",
+"saved_count": 4,
+"source": "caption",
+"post": {
+"kcal": 495
+},
+"time_min": 15,
+"time_source": "estimated",
+"calories": 495,
+"calories_source": "from post",
+"n_ing": 14,
+"n_steps": 9
+},
+"image": null,
+"youtube": null,
+"saved": 4,
+"origin": {
+"place": "Seoul, South Korea",
+"place_title": "Seoul",
+"place_desc": "Capital and largest city of South Korea",
+"place_extract": "Seoul, officially Seoul Special Metropolitan City, is the capital and largest city of South Korea, and the largest city in the whole of Korea. The broader Seoul Metropolitan Area, encompassing Seoul, Gyeonggi Province and Incheon, emerged as the world's sixth largest metropolitan economy in 2022, behind New York, Tokyo, Los Angeles, Paris, and London, and hosts more than half of South Korea's population. Although Seoul's population peaked at over 10 million, it has gradually decreased since 2014, standing at about 9.6 million residents as of 2024.",
+"place_url": "https://en.wikipedia.org/wiki/Seoul",
+"image": {
+"src": "img/places/seoul.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "Eunmi Park",
+"file_page": "https://commons.wikimedia.org/wiki/File:%EC%A4%91%ED%99%94%EC%A0%84%EC%9D%98_%EB%82%AE.jpg"
+},
+"dish_title": "Korean fried chicken",
+"dish_extract": "Korean fried chicken, in Korean chikin, refers to a variety of fried chicken dishes created in South Korea. These include the basic huraideu-chicken and the spicy yangnyeom chicken. In South Korea, fried chicken is consumed as a meal, an appetizer, anju, or as an after-meal snack.",
+"dish_url": "https://en.wikipedia.org/wiki/Korean_fried_chicken"
+}
+},
+{
+"id": "mixture",
+"name": "Stuffed Papad Paneer Curry",
+"category": "Main Course",
+"cuisine": "Indian (Rajasthani-style)",
+"tags": [
+"Vegetarian",
+"Gluten-free"
+],
+"servings": 3,
+"difficulty": "Medium",
+"prep": 20,
+"cook": 25,
+"extra": "",
+"nutrition": {
+"kcal": 410,
+"protein": 15,
+"carbs": 24,
+"fat": 28,
+"fiber": 4
+},
+"moods": [
+"rainy",
+"weekend"
+],
+"mode": "completed",
+"ingredients": [
+[
+"5",
+"tomatoes, chopped"
+],
+[
+"2",
+"onions, chopped"
+],
+[
+"5–6",
+"garlic cloves"
+],
+[
+"½ inch",
+"ginger"
+],
+[
+"100 g",
+"paneer, grated (+2 tbsp to garnish)"
+],
+[
+"2 tbsp",
+"coriander, chopped"
+],
+[
+"2 tbsp",
+"mixed dry fruits, chopped"
+],
+[
+"2",
+"green chillies"
+],
+[
+"2 tsp",
+"Kashmiri red chilli powder"
+],
+[
+"½ tsp",
+"garam masala"
+],
+[
+"½ tsp + ½ tsp",
+"turmeric powder"
+],
+[
+"¼ tsp + 1 tsp",
+"salt"
+],
+[
+"6",
+"papads"
+],
+[
+"2 tbsp + for frying",
+"oil"
+],
+[
+"2",
+"bay leaves"
+],
+[
+"1",
+"star anise"
+],
+[
+"1 inch",
+"cinnamon"
+],
+[
+"1 tsp",
+"fennel seeds"
+],
+[
+"1 tsp",
+"cumin seeds"
+],
+[
+"1 tsp",
+"red chilli powder"
+],
+[
+"½ cup",
+"water"
+],
+[
+"3 tbsp",
+"fresh cream"
+]
+],
+"steps": [
+"In a bowl add 5 chopped tomatoes, 2 chopped onions, 5-6 garlic cloves & ½ inch ginger. Grind it well.",
+"Make a mixture of 100 gm grated paneer, 2 tbsp coriander, 2 tbsp mixed dry fruits, 2 green chilies, 2 tsp kashmiri red chili powder, ½ tsp garam masala, ½ tsp turmeric powder, ¼ tsp salt.",
+"Take 6 papads, cut them in between. Apply water over it & keep the paneer stuffing on it. Join the edges, stick it properly. Shallow fry these stuffed papads in oil.",
+"Now in a pan add 2 tbsp oil, 1 star anise, 2 bay leaves, 1 inch cinnamon, 1 tsp fennel seeds, 1 tsp cumin seeds & ground mixture also add 1 tsp salt into it. Cook it for 10 minutes.",
+"After 10 minutes add ½ tsp turmeric powder, 1 tsp red chili powder into it. Cook it well & add ½ cup of water to it also add 3 tbsp fresh cream.",
+"Keep fried papads into it. Garnish it with grated paneer & coriander.",
+"Serve with roti, naan or rice!"
+],
+"note": "Repo name was just ‘Mixture’; renamed from its steps. Quantities came from the caption steps.",
+"fact": "Papad ki sabzi (papad curry) is a classic of desert-state Rajasthan, where fresh vegetables were historically scarce.",
+"total": 45,
+"repo": {
+"name": "Mixture",
+"category": "Snack",
+"cuisine": null,
+"best_time": "Movie nights & evening cravings",
+"saved_count": 4,
+"source": "caption",
+"post": {
+"time_min": 5
+},
+"time_min": 5,
+"time_source": "from post",
+"calories": 220,
+"calories_source": "estimated",
+"n_ing": 25,
+"n_steps": 7
+},
+"image": null,
+"youtube": null,
+"saved": 4,
+"origin": {
+"place": "Rajasthan, India",
+"place_title": "Rajasthan",
+"place_desc": "State in northwestern India",
+"place_extract": "Rajasthan is a state in northwestern India. It is the largest Indian state by area and the seventh largest by population. It covers 342,239 square kilometres (132,139 mi2) or 10.4 per cent of India's total geographical area. It is on India's northwestern side, where it comprises most of the wide and inhospitable Thar Desert and shares a border with the Pakistani provinces of Punjab to the northwest and Sindh to the west, along the Sutlej-Indus River valley. It is bordered by five other Indian states: Punjab to the north; Haryana and Uttar Pradesh to the northeast; Madhya Pradesh to the southeast; and Gujarat to the southwest. Its geographical location is 23°3' to 30°12' North latitude and 69°30' to 78°17' East longitude, with the Tropic of Cancer passing through its southernmost tip.",
+"place_url": "https://en.wikipedia.org/wiki/Rajasthan",
+"image": {
+"src": "img/places/rajasthan.jpg",
+"license": "CC BY-SA 3.0",
+"artist": "",
+"file_page": "https://commons.wikimedia.org/wiki/File:Thar_Khuri.jpg"
+},
+"dish_title": "Papadam",
+"dish_extract": "A papadam is a snack that originated in the Indian subcontinent. Dough of black gram bean flour is either deep-fried or cooked with dry heat until crunchy. Other flours made from lentils, chickpeas, rice, tapioca, millet or potato are also used. Papadam is typically served as an accompaniment to a meal in India, Pakistan, Bangladesh, Nepal, Sri Lanka and the Caribbean or as an appetizer, often with dips such as chutneys, or toppings like chopped onions and chili peppers.",
+"dish_url": "https://en.wikipedia.org/wiki/Papadam"
+}
+},
+{
+"id": "paneer-tikka",
+"name": "Paneer Tikka",
+"category": "Entree",
+"cuisine": "Indian (Punjabi)",
+"tags": [
+"Vegetarian",
+"Gluten-free",
+"High-protein"
+],
+"servings": 3,
+"difficulty": "Easy",
+"prep": 15,
+"cook": 15,
+"extra": "+ 30 min marinating",
+"nutrition": {
+"kcal": 340,
+"protein": 18,
+"carbs": 10,
+"fat": 26,
+"fiber": 2
+},
+"moods": [
+"party",
+"weekend",
+"movie"
+],
+"mode": "rewritten",
+"ingredients": [
+[
+"300 g",
+"paneer, 3 cm cubes"
+],
+[
+"1",
+"onion, petals"
+],
+[
+"1",
+"capsicum, chunks"
+],
+[
+"120 g",
+"hung curd (thick yogurt)"
+],
+[
+"1 tbsp",
+"gram flour (besan), roasted"
+],
+[
+"1 tbsp",
+"mustard oil"
+],
+[
+"1 tsp",
+"ginger-garlic paste"
+],
+[
+"1½ tsp",
+"Kashmiri chilli powder"
+],
+[
+"½ tsp",
+"turmeric"
+],
+[
+"1 tsp",
+"garam masala"
+],
+[
+"1 tsp",
+"kasuri methi"
+],
+[
+"1 tbsp",
+"lemon juice"
+],
+[
+"1 tsp",
+"chaat masala"
+]
+],
+"steps": [
+"Whisk curd, besan, mustard oil, ginger-garlic paste, spices, kasuri methi, lemon juice and salt into a thick marinade.",
+"Fold in paneer, onion and capsicum; marinate 30 minutes.",
+"Thread onto skewers and grill/air-fry at 220°C for 10–12 minutes, or cook on a hot tawa, until charred at the edges.",
+"Sprinkle chaat masala; serve with mint chutney."
+],
+"note": "Repo entry reused a matar paneer recipe; rewritten as paneer tikka.",
+"fact": "",
+"total": 30,
+"repo": {
+"name": "Paneer Tikka",
+"category": "Main Course",
+"cuisine": "India",
+"best_time": "Relaxed weekend cooking & family dinners",
+"saved_count": 4,
+"source": "themealdb",
+"post": {
+"time_min": 10
+},
+"time_min": 10,
+"time_source": "from post",
+"calories": 600,
+"calories_source": "estimated",
+"n_ing": 12,
+"n_steps": 6
+},
+"image": null,
+"youtube": null,
+"saved": 4,
+"origin": {
+"place": "Punjab, India",
+"place_title": "Punjab, India",
+"place_desc": "State in northwestern India",
+"place_extract": "Punjab is a state in northwestern India. Forming part of the larger Punjab region of the Indian subcontinent, the state is bordered by the Indian states and union territories of Himachal Pradesh to the north and northeast, Haryana to the south and southeast, Rajasthan to the southwest, Jammu and Kashmir to the north. To the west, it shares an international border with the identically named Pakistani province of Punjab. Chandigarh serves as a shared capital for Punjab as well as Haryana. The state covers an area of 50,362 square kilometres, which is 1.53% of India's total geographical area, making it the 19th-largest Indian state by area out of 28 Indian states. With over 27 million inhabitants, Punjab is the 16th-largest Indian state by population, comprising 23 districts. Punjabi, written in the Gurmukhi script, is the most widely spoken and the official language of the state. The main ethnic group are the Punjabis, with Sikhs (57.7%) and Hindus (38.5%) forming the dominant religious groups. Three of the five traditional Punjab rivers — the Sutlej, Beas, and Ravi — flow through the state.",
+"place_url": "https://en.wikipedia.org/wiki/Punjab%2C_India",
+"image": {
+"src": "img/places/punjab-india.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "Utpal Nag",
+"file_page": "https://commons.wikimedia.org/wiki/File:Golden_Temple,_Amritsar,_Punjab_UNAG.jpg"
+},
+"dish_title": "Paneer tikka",
+"dish_extract": "Paneer tikka or Paneer Soola or Chhena Soola is an Indian dish made from chunks of paneer or chhena marinated in spices and grilled in a tandoor. It is a vegetarian alternative to chicken tikka and other meat dishes. The dish is popular in India and is also available in countries with an Indian diaspora.",
+"dish_url": "https://en.wikipedia.org/wiki/Paneer_tikka"
+}
+},
+{
+"id": "bang-bang-chicken",
+"name": "Bang Bang Chicken",
+"category": "Entree",
+"cuisine": "Chinese-American fusion",
+"tags": [
+"Non-veg",
+"Spicy",
+"Creamy"
+],
+"servings": 3,
+"difficulty": "Easy",
+"prep": 15,
+"cook": 15,
+"extra": "",
+"nutrition": {
+"kcal": 480,
+"protein": 30,
+"carbs": 26,
+"fat": 28,
+"fiber": 1
+},
+"moods": [
+"movie",
+"party",
+"latenight"
+],
+"mode": "rewritten",
+"ingredients": [
+[
+"450 g",
+"chicken breast, bite-size"
+],
+[
+"1",
+"egg"
+],
+[
+"½ cup",
+"cornflour"
+],
+[
+"¼ cup",
+"all-purpose flour"
+],
+[
+"oil",
+"for frying"
+],
+[
+"½ cup",
+"mayonnaise"
+],
+[
+"3 tbsp",
+"sweet chilli sauce"
+],
+[
+"1–2 tsp",
+"sriracha"
+],
+[
+"1 tsp",
+"honey"
+],
+[
+"1 tsp",
+"rice vinegar"
+],
+[
+"2",
+"spring onions, sliced"
+]
+],
+"steps": [
+"Season chicken with salt and pepper, dip in beaten egg, then toss in the cornflour-flour mix.",
+"Deep- or air-fry until crisp and golden (about 6 minutes in oil at 175°C or 12 minutes at 200°C in an air fryer).",
+"Whisk mayo, sweet chilli, sriracha, honey and vinegar into the bang bang sauce.",
+"Toss the hot chicken in the sauce, scatter spring onions and serve over lettuce or rice."
+],
+"note": "Repo entry pointed at an unrelated French chicken recipe; rewritten in the popular creamy-sweet-chilli style.",
+"fact": "The original Sichuan bang bang chicken is a cold shredded dish; the creamy fried version is a modern restaurant twist.",
+"total": 30,
+"repo": {
+"name": "Bang Bang Chicken",
+"category": "Main Course",
+"cuisine": "France",
+"best_time": "Relaxed weekend cooking & family dinners",
+"saved_count": 3,
+"source": "themealdb",
+"post": {},
+"time_min": 40,
+"time_source": "estimated",
+"calories": 600,
+"calories_source": "estimated",
+"n_ing": 19,
+"n_steps": 12
+},
+"image": null,
+"youtube": null,
+"saved": 3,
+"origin": {
+"place": "Leshan, Sichuan, China",
+"place_title": "Leshan",
+"place_desc": "Prefecture-level city in Sichuan, People's Republic of China",
+"place_extract": "Leshan, formerly known as Jiading and Jiazhou, is a prefecture-level city located at the confluence of the Dadu, Min and Qingyi rivers in Sichuan province, China. By the end of 2024, the registered population of the city is 3.45 million. About 120 km (75 mi) from the provincial capital Chengdu, Leshan is a transportation hub and regional center in southern Sichuan. A historical and cultural city, Leshan is famous for world heritage sites Mount Emei and Leshan Giant Buddha, as well as for its rich food culture.",
+"place_url": "https://en.wikipedia.org/wiki/Leshan",
+"image": {
+"src": "img/places/leshan.jpg",
+"license": "CC BY 2.0",
+"artist": "xiquinhosilva",
+"file_page": "https://commons.wikimedia.org/wiki/File:36275-Leshan_(49067653383).jpg"
+},
+"dish_title": "Bang bang chicken",
+"dish_extract": "Bang bang chicken, also known by variant names such as bam bam chicken or bon bon chicken, is a popular chicken dish in Chinese cuisine. The name 'bang bang chicken' is derived from the Chinese word for stick, 'bàng'(棒), referring to the baton or cudgel traditionally used to tenderize the meat.",
+"dish_url": "https://en.wikipedia.org/wiki/Bang_bang_chicken"
+}
+},
+{
+"id": "butter-garlic-chicken",
+"name": "Butter Garlic Chicken",
+"category": "Main Course",
+"cuisine": "Indian-Chinese fusion",
+"tags": [
+"Non-veg",
+"Quick",
+"Gluten-free"
+],
+"servings": 3,
+"difficulty": "Easy",
+"prep": 10,
+"cook": 15,
+"extra": "",
+"nutrition": {
+"kcal": 380,
+"protein": 34,
+"carbs": 4,
+"fat": 25,
+"fiber": 0
+},
+"moods": [
+"weeknight",
+"gym",
+"latenight"
+],
+"mode": "rewritten",
+"ingredients": [
+[
+"500 g",
+"boneless chicken, bite-size"
+],
+[
+"½ tsp",
+"black pepper"
+],
+[
+"1 tsp",
+"lemon juice"
+],
+[
+"1 tbsp",
+"cornflour"
+],
+[
+"3 tbsp",
+"butter"
+],
+[
+"12",
+"garlic cloves, finely chopped"
+],
+[
+"1 tsp",
+"chilli flakes"
+],
+[
+"1 tsp",
+"dried oregano or mixed herbs"
+],
+[
+"2 tbsp",
+"chopped parsley or coriander"
+],
+[
+"to taste",
+"salt"
+]
+],
+"steps": [
+"Toss chicken with salt, pepper, lemon juice and cornflour.",
+"Sear in 1 tbsp butter on high heat until golden and cooked through, 6–8 minutes. Remove.",
+"Lower the heat, melt the remaining butter and cook the garlic until fragrant and pale gold (don’t burn).",
+"Add chilli flakes and oregano, return the chicken and toss to glaze.",
+"Finish with herbs and serve hot."
+],
+"note": "Repo entry had no ingredients or steps; recipe written to match the name.",
+"fact": "",
+"total": 25,
+"repo": {
+"name": "Butter Garlic Chicken",
+"category": "Main Course",
+"cuisine": null,
+"best_time": "Relaxed weekend cooking & family dinners",
+"saved_count": 3,
+"source": "estimated",
+"post": {
+"kcal": 346,
+"time_min": 20
+},
+"time_min": 20,
+"time_source": "from post",
+"calories": 346,
+"calories_source": "from post",
+"n_ing": 0,
+"n_steps": 0
+},
+"image": null,
+"youtube": null,
+"saved": 3,
+"origin": {
+"place": "France",
+"place_title": "France",
+"place_desc": "Country primarily in Western Europe",
+"place_extract": "France, officially the French Republic, is a country primarily located in Western Europe. Its overseas regions and territories include French Guiana in South America, Saint Pierre and Miquelon in the North Atlantic, the French West Indies, and many islands in Oceania and the Indian Ocean. Metropolitan France shares borders with Belgium and Luxembourg to the north; Germany to the northeast; Switzerland to the east; Italy and Monaco to the southeast; Andorra and Spain to the south; and a maritime border with the United Kingdom to the northwest. Its metropolitan area extends from the Rhine to the Atlantic Ocean and from the Mediterranean Sea to the English Channel and the North Sea. Its 18 integral regions—five of which are overseas—span a combined area of 632,702 km2 (244,288 sq mi), with a total population estimated at over 69.1 million in 2026. Its capital, largest city and main cultural and economic centre is Paris, with a metropolitan population of over 13 million.",
+"place_url": "https://en.wikipedia.org/wiki/France",
+"image": {
+"src": "img/places/france.jpg",
+"license": "CC BY-SA 3.0",
+"artist": "Jorge Royan",
+"file_page": "https://commons.wikimedia.org/wiki/File:Paris_-_The_Eiffel_Tower_in_spring_-_2307.jpg",
+"file": "Paris - The Eiffel Tower in spring - 2307.jpg"
+},
+"dish_title": "Garlic butter",
+"dish_extract": "Garlic butter, also known as beurre à la bourguignonne, is a compound butter used as a flavoring for many dishes or as a condiment. It is composed of butter and garlic mixed into a paste. The ingredients are blended and typically chilled before use.",
+"dish_url": "https://en.wikipedia.org/wiki/Garlic_butter"
+}
+},
+{
+"id": "chicken-fry",
+"name": "Andhra Chicken Fry",
+"category": "Main Course",
+"cuisine": "Indian (Andhra)",
+"tags": [
+"Non-veg",
+"Spicy",
+"Gluten-free"
+],
+"servings": 4,
+"difficulty": "Medium",
+"prep": 15,
+"cook": 35,
+"extra": "+ 30 min marinating",
+"nutrition": {
+"kcal": 410,
+"protein": 34,
+"carbs": 8,
+"fat": 26,
+"fiber": 2
+},
+"moods": [
+"weekend",
+"rainy"
+],
+"mode": "rewritten",
+"ingredients": [
+[
+"750 g",
+"bone-in chicken, curry cut"
+],
+[
+"1 tbsp",
+"ginger-garlic paste"
+],
+[
+"½ tsp",
+"turmeric"
+],
+[
+"1½ tsp",
+"red chilli powder"
+],
+[
+"1 tbsp",
+"lemon juice"
+],
+[
+"3 tbsp",
+"oil"
+],
+[
+"1",
+"onion, finely sliced"
+],
+[
+"3",
+"green chillies, slit"
+],
+[
+"2 sprigs",
+"curry leaves"
+],
+[
+"1 tsp",
+"coriander powder"
+],
+[
+"1½ tsp",
+"freshly ground black pepper"
+],
+[
+"1 tsp",
+"garam masala"
+],
+[
+"2 tbsp",
+"chopped coriander"
+]
+],
+"steps": [
+"Marinate chicken with ginger-garlic paste, turmeric, chilli powder, lemon juice and salt for 30 minutes.",
+"Heat oil; fry onion, green chillies and curry leaves until golden.",
+"Add the chicken and cook on medium-high 5 minutes, then cover and cook 15 minutes in its own juices.",
+"Uncover, add coriander powder, pepper and garam masala; roast, stirring, until dry and dark-edged, 10–12 minutes.",
+"Garnish with coriander; serve with rice and rasam or chapati."
+],
+"note": "Repo entry pointed at an unrelated French chicken recipe; rewritten as an Andhra-style dry chicken fry.",
+"fact": "",
+"total": 50,
+"repo": {
+"name": "Chicken Fry",
+"category": "Main Course",
+"cuisine": "France",
+"best_time": "Relaxed weekend cooking & family dinners",
+"saved_count": 3,
+"source": "themealdb",
+"post": {},
+"time_min": 40,
+"time_source": "estimated",
+"calories": 600,
+"calories_source": "estimated",
+"n_ing": 19,
+"n_steps": 12
+},
+"image": null,
+"youtube": null,
+"saved": 3,
+"origin": {
+"place": "Andhra Pradesh, India",
+"place_title": "Andhra Pradesh",
+"place_desc": "State in southeastern India",
+"place_extract": "Andhra Pradesh is a state on the east coast of southern India. The seventh largest Indian state by area and the tenth largest by population, it is bound by the Bay of Bengal to the east, and shares borders with the states of Odisha to the northeast, Chhattisgarh to the north, Telangana to northwest, Karnataka to the west, and Tamil Nadu to the south. Telugu, one of the classical languages of India, is the most widely spoken language in the state and serves as its official language. Amaravati is the state capital, and Visakhapatnam is the largest city.",
+"place_url": "https://en.wikipedia.org/wiki/Andhra_Pradesh",
+"image": {
+"src": "img/places/andhra-pradesh.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "Nikhilb239",
+"file_page": "https://commons.wikimedia.org/wiki/File:Tirumala_090615.jpg"
+},
+"dish_title": "Andhra cuisine",
+"dish_extract": "Andhra cuisine is the traditional culinary style of the Telugu people, who are native to the Indian state of Andhra Pradesh. It is generally known for its tangy, hot, and spicy taste.",
+"dish_url": "https://en.wikipedia.org/wiki/Andhra_cuisine"
+}
+},
+{
+"id": "chilli-paneer",
+"name": "Chilli Paneer",
+"category": "Entree",
+"cuisine": "Indo-Chinese",
+"tags": [
+"Vegetarian",
+"Spicy"
+],
+"servings": 3,
+"difficulty": "Easy",
+"prep": 15,
+"cook": 15,
+"extra": "",
+"nutrition": {
+"kcal": 420,
+"protein": 18,
+"carbs": 22,
+"fat": 30,
+"fiber": 2
+},
+"moods": [
+"movie",
+"rainy",
+"latenight"
+],
+"mode": "rewritten",
+"ingredients": [
+[
+"250 g",
+"paneer, cubes"
+],
+[
+"3 tbsp",
+"cornflour"
+],
+[
+"2 tbsp",
+"maida"
+],
+[
+"½ tsp",
+"pepper"
+],
+[
+"oil",
+"for frying"
+],
+[
+"1 tbsp each",
+"chopped garlic & ginger"
+],
+[
+"2",
+"green chillies, slit"
+],
+[
+"1",
+"onion, cubed"
+],
+[
+"1",
+"capsicum, cubed"
+],
+[
+"1 tbsp",
+"soy sauce"
+],
+[
+"1½ tbsp",
+"red chilli sauce"
+],
+[
+"1 tbsp",
+"ketchup"
+],
+[
+"1 tsp",
+"vinegar"
+],
+[
+"2",
+"spring onions"
+]
+],
+"steps": [
+"Make a thick batter with cornflour, maida, pepper, salt and water; coat the paneer.",
+"Shallow- or deep-fry until light golden and crisp; drain.",
+"Stir-fry garlic, ginger and chillies on high heat, then onion and capsicum for a minute.",
+"Add sauces and vinegar (plus ½ cup water + 1 tsp cornflour for a gravy version).",
+"Toss in the paneer, finish with spring onions, serve immediately."
+],
+"note": "Repo entry reused a matar paneer recipe; rewritten as chilli paneer.",
+"fact": "",
+"total": 30,
+"repo": {
+"name": "Chilli Paneer",
+"category": "Main Course",
+"cuisine": "India",
+"best_time": "Relaxed weekend cooking & family dinners",
+"saved_count": 3,
+"source": "themealdb",
+"post": {
+"kcal": 459
+},
+"time_min": 40,
+"time_source": "estimated",
+"calories": 459,
+"calories_source": "from post",
+"n_ing": 12,
+"n_steps": 6
+},
+"image": null,
+"youtube": null,
+"saved": 3,
+"origin": {
+"place": "Tangra (Chinatown), Kolkata",
+"place_title": "Tangra, Kolkata",
+"place_desc": "Neighbourhood in Kolkata in West Bengal, India",
+"place_extract": "Tangra is a region in East Kolkata that traditionally housed many tanneries owned by people of Hakka Chinese origin.",
+"place_url": "https://en.wikipedia.org/wiki/Tangra%2C_Kolkata",
+"image": {
+"src": "img/places/tangra-kolkata.jpg",
+"license": "CC BY 3.0",
+"artist": "Biswarup Ganguly",
+"file_page": "https://commons.wikimedia.org/wiki/File:Gobinda_Chandra_Khatik_Road_-_John_Burdon_Sanderson_Haldane_Avenue_-_Kolkata_2013-04-10_7722.JPG"
+},
+"dish_title": "Indian Chinese cuisine",
+"dish_extract": "Indian Chinese cuisine is a distinct style of Chinese cuisine adapted to Indian tastes and spices. Though Asian cuisines have been mixed throughout history all over Asia, the most popular origin story of the fusion food resides with Chinese immigrants to British-ruled India at places like Calcutta. Opening restaurant businesses in the area, these early Chinese food sellers adapted their culinary styles to suit Indian tastes.",
+"dish_url": "https://en.wikipedia.org/wiki/Indian_Chinese_cuisine"
+}
+},
+{
+"id": "coriander-chutney",
+"name": "Chutney Paneer Potato Toastie",
+"category": "Snack",
+"cuisine": "Indian (street-style)",
+"tags": [
+"Vegetarian"
+],
+"servings": 2,
+"difficulty": "Easy",
+"prep": 15,
+"cook": 10,
+"extra": "",
+"nutrition": {
+"kcal": 480,
+"protein": 20,
+"carbs": 46,
+"fat": 24,
+"fiber": 5
+},
+"moods": [
+"brunch",
+"weeknight",
+"latenight"
+],
+"mode": "completed",
+"ingredients": [
+[
+"1 tsp",
+"mustard seeds"
+],
+[
+"1 cup",
+"paneer, grated"
+],
+[
+"½ cup",
+"potato, boiled & grated"
+],
+[
+"½",
+"red onion, finely diced"
+],
+[
+"1 tsp",
+"spicy garlic crunch seasoning (Kinder’s or similar)"
+],
+[
+"½ tsp each",
+"turmeric, chilli powder & cumin powder"
+],
+[
+"to taste",
+"salt"
+],
+[
+"1 cup",
+"fresh mint & coriander (chutney)"
+],
+[
+"2 + ½ inch",
+"green chillies & ginger (chutney)"
+],
+[
+"squeeze",
+"lemon juice & salt (chutney)"
+],
+[
+"4",
+"sourdough bread slices"
+],
+[
+"½ cup",
+"grated cheese (Amul or cheddar)"
+],
+[
+"1 tbsp",
+"olive oil or butter for toasting"
+],
+[
+"to dip",
+"tomato sauce + Greek yogurt"
+]
+],
+"steps": [
+"Blend the mint, coriander, green chillies, ginger, lemon juice and salt until smooth and bright green.",
+"Crackle mustard seeds in a little oil; add onion, then paneer, potato, the spices, garlic crunch and salt. Mix 2 minutes and cool slightly (★ inferred from ingredient list).",
+"Spread chutney on the sourdough, layer the spicy filling and grated cheese, and close the sandwich.",
+"Toast on medium-low heat with olive oil or butter until golden brown and melted.",
+"Serve with tomato sauce + Greek yogurt dip."
+],
+"note": "Repo name was ‘Coriander Chutney’ and its steps belonged to a different recipe (paneer lollipops); the caption’s own ‘Quick Steps’ for this toastie are used instead.",
+"fact": "",
+"total": 25,
+"repo": {
+"name": "Coriander Chutney",
+"category": "Side Dish",
+"cuisine": null,
+"best_time": "Alongside your weekend dinners",
+"saved_count": 3,
+"source": "caption",
+"post": {},
+"time_min": 15,
+"time_source": "estimated",
+"calories": 180,
+"calories_source": "estimated",
+"n_ing": 22,
+"n_steps": 6
+},
+"image": null,
+"youtube": null,
+"saved": 3,
+"origin": {
+"place": "Mumbai, India",
+"place_title": "Mumbai",
+"place_desc": "Capital of Maharashtra, India",
+"place_extract": "Mumbai, also known as Bombay, is the capital city of the Indian state of Maharashtra and the financial capital of India. Located on the Konkan coast along the west coast of India, it has a deep natural harbour. As per the 2011 Census of India, it is the most populous city proper in India, with a population of almost 12.5 million, while the Mumbai Metropolitan Region, which is among the most populous metropolitan areas in the world, has a population of over 20 million. The city forms part of the Mumbai City and Mumbai Suburban districts and is administered by the Brihanmumbai Municipal Corporation, which was established in 1888.",
+"place_url": "https://en.wikipedia.org/wiki/Mumbai",
+"image": {
+"src": "img/places/mumbai.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "Rutiknatekar",
+"file_page": "https://commons.wikimedia.org/wiki/File:Mumbai_Bandra-Worli_Sea_Link.jpg"
+},
+"dish_title": "Bombay sandwich",
+"dish_extract": "The Bombay sandwich is a sandwich made of white bread covered in butter and chutney with a filling of potatoes and raw vegetables, often as a toasted sandwich. It may be toasted over a flame or using an electric toaster. Its ingredients may include cucumbers, onions, beetroot, and chaat masala, and it may be topped with cheese or sev. Many variations of ingredients exist. The origin of the Bombay sandwich is uncertain, but it may have been invented by migrant textile workers in the 1960s. The sandwich is popular as street food across Mumbai, but it is not as popular elsewhere.",
+"dish_url": "https://en.wikipedia.org/wiki/Bombay_sandwich"
+}
+},
+{
+"id": "fried-rice",
+"name": "Veg Fried Rice (Indo-Chinese)",
+"category": "Main Course",
+"cuisine": "Indo-Chinese",
+"tags": [
+"Vegan",
+"Quick",
+"Budget"
+],
+"servings": 3,
+"difficulty": "Easy",
+"prep": 15,
+"cook": 10,
+"extra": "",
+"nutrition": {
+"kcal": 400,
+"protein": 8,
+"carbs": 66,
+"fat": 12,
+"fiber": 4
+},
+"moods": [
+"weeknight",
+"mealprep",
+"latenight"
+],
+"mode": "rewritten",
+"ingredients": [
+[
+"3 cups",
+"day-old cooked basmati rice"
+],
+[
+"2 tbsp",
+"oil"
+],
+[
+"1 tbsp",
+"chopped garlic"
+],
+[
+"½ cup",
+"carrots, finely diced"
+],
+[
+"½ cup",
+"beans, finely chopped"
+],
+[
+"½ cup",
+"cabbage, shredded"
+],
+[
+"½",
+"capsicum, diced"
+],
+[
+"3",
+"spring onions"
+],
+[
+"1½ tbsp",
+"soy sauce"
+],
+[
+"1 tsp",
+"vinegar"
+],
+[
+"½ tsp",
+"black pepper"
+]
+],
+"steps": [
+"Heat oil in a wok until smoking; add garlic for 20 seconds.",
+"Add carrots and beans for 2 minutes, then cabbage, capsicum and spring-onion whites for 1 minute.",
+"Add the rice, toss on high heat for 3 minutes.",
+"Season with soy sauce, vinegar, pepper and salt; finish with spring-onion greens."
+],
+"note": "Repo entry duplicated the chicken fried rice recipe; rewritten as a vegetable version.",
+"fact": "",
+"total": 25,
+"repo": {
+"name": "Fried Rice",
+"category": "Main Course",
+"cuisine": "Chinese",
+"best_time": "Relaxed weekend cooking & family dinners",
+"saved_count": 3,
+"source": "themealdb",
+"post": {
+"kcal": 260
+},
+"time_min": 40,
+"time_source": "estimated",
+"calories": 260,
+"calories_source": "from post",
+"n_ing": 14,
+"n_steps": 12
+},
+"image": null,
+"youtube": null,
+"saved": 3,
+"origin": {
+"place": "China",
+"place_title": "China",
+"place_desc": "Country in East Asia",
+"place_extract": "China, officially the People's Republic of China (PRC), is a country in East Asia. It is divided into 33 province-level divisions, including two special administrative regions. Beijing is the capital, while Shanghai is the most populous city by urban area. Its geography features the Central Plain, major rivers such as the Yangtze and Yellow River, deserts, subtropical and temperate forests, plateaus, and mountain ranges such as the Himalayas. It is the world's second-most populous country after India, with a population exceeding 1.4 billion. Covering 9.6 million square kilometers (3,700,000 sq mi), it is the third largest country by area.",
+"place_url": "https://en.wikipedia.org/wiki/China",
+"image": {
+"src": "img/places/china.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "Lloyd Tudor",
+"file_page": "https://commons.wikimedia.org/wiki/File:The_Mutianyu_section_of_the_Great_Wall_of_China.jpg",
+"file": "The Mutianyu section of the Great Wall of China.jpg"
+},
+"dish_title": "Fried rice",
+"dish_extract": "Fried rice is a dish of cooked rice that has been stir-fried in a wok or a frying pan and is usually mixed with other ingredients such as eggs, vegetables, seafood, or meat. It is often eaten as a main dish or as an accompaniment to another dish. Fried rice is a popular component of East Asian, Southeast Asian and South Asian cuisines. As a homemade dish, fried rice is typically made with ingredients left over from other dishes, leading to countless variations. Fried rice first developed during the Sui dynasty in China and later spread across the world through the migration of the Chinese diaspora.",
+"dish_url": "https://en.wikipedia.org/wiki/Fried_rice"
+}
+},
+{
+"id": "noodles",
+"name": "Crispy Maggi Noodle Burger",
+"category": "Snack",
+"cuisine": "Indian (fusion)",
+"tags": [
+"Vegetarian",
+"Street food"
+],
+"servings": 3,
+"difficulty": "Medium",
+"prep": 20,
+"cook": 20,
+"extra": "+ 2 h freezing",
+"nutrition": {
+"kcal": 560,
+"protein": 12,
+"carbs": 66,
+"fat": 28,
+"fiber": 4
+},
+"moods": [
+"movie",
+"latenight"
+],
+"mode": "completed",
+"ingredients": [
+[
+"3 packs",
+"Maggi noodles"
+],
+[
+"3 cups",
+"water"
+],
+[
+"½ tsp",
+"salt"
+],
+[
+"oil",
+"for frying"
+],
+[
+"¼ cup",
+"mayonnaise"
+],
+[
+"1 tbsp",
+"tomato ketchup"
+],
+[
+"1 tbsp",
+"Maggi masala (from the packs)"
+],
+[
+"3",
+"aloo tikkis (potato patties)"
+],
+[
+"6",
+"lettuce leaves"
+],
+[
+"1",
+"tomato, sliced"
+],
+[
+"1",
+"onion, sliced"
+]
+],
+"steps": [
+"Cook 3 packs of Maggi in water with salt until almost dry.",
+"Pour onto a parchment-lined tray, press flat and freeze for 2 hours.",
+"Maggi mayonnaise: mix ketchup and Maggi masala into the mayo.",
+"Cut the Maggi into roundels (bun-sized) and fry until golden brown.",
+"Assemble: Maggi bun, mayo, lettuce, aloo tikki, tomato, onion, Maggi bun."
+],
+"note": "From the repo (caption); quantities for sauces/patties estimated.",
+"fact": "Maggi began as a Swiss brand; its instant noodles became an Indian cultural icon from the 1980s.",
+"total": 40,
+"repo": {
+"name": "Noodles",
+"category": "Main Course",
+"cuisine": "Chinese",
+"best_time": "Relaxed weekend cooking & family dinners",
+"saved_count": 3,
+"source": "caption",
+"post": {},
+"time_min": 40,
+"time_source": "estimated",
+"calories": 600,
+"calories_source": "estimated",
+"n_ing": 11,
+"n_steps": 5
+},
+"image": null,
+"youtube": null,
+"saved": 3,
+"origin": {
+"place": "Kemptthal, Switzerland → India",
+"place_title": "Lindau, Switzerland",
+"place_desc": "Municipality in Zurich, Switzerland",
+"place_extract": "Lindau is a municipality in the district of Pfäffikon in the canton of Zürich in Switzerland.",
+"place_url": "https://en.wikipedia.org/wiki/Lindau%2C_Switzerland",
+"image": {
+"src": "img/places/kemptthal.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "Michael D. Schmid",
+"file_page": "https://commons.wikimedia.org/wiki/File:Lindau_ZH_01.JPG"
+},
+"dish_title": "Maggi",
+"dish_extract": "Maggi is a Swiss brand of seasonings, instant soups, and noodles that originated in Switzerland in the late 19th century. In 1947, the Maggi brand was acquired by the Swiss giant Nestlé.",
+"dish_url": "https://en.wikipedia.org/wiki/Maggi"
+}
+},
+{
+"id": "paneer-bhurji",
+"name": "Paneer Bhurji",
+"category": "Breakfast",
+"cuisine": "Indian (Punjabi)",
+"tags": [
+"Vegetarian",
+"High-protein",
+"Gluten-free",
+"Quick"
+],
+"servings": 2,
+"difficulty": "Easy",
+"prep": 10,
+"cook": 10,
+"extra": "",
+"nutrition": {
+"kcal": 380,
+"protein": 22,
+"carbs": 12,
+"fat": 28,
+"fiber": 3
+},
+"moods": [
+"brunch",
+"weeknight",
+"gym"
+],
+"mode": "rewritten",
+"ingredients": [
+[
+"250 g",
+"paneer, crumbled"
+],
+[
+"1 tbsp",
+"butter or oil"
+],
+[
+"1 tsp",
+"cumin seeds"
+],
+[
+"1",
+"onion, finely chopped"
+],
+[
+"1",
+"green chilli, chopped"
+],
+[
+"1 tsp",
+"ginger, grated"
+],
+[
+"1",
+"tomato, chopped"
+],
+[
+"¼ tsp",
+"turmeric"
+],
+[
+"½ tsp",
+"red chilli powder"
+],
+[
+"½ tsp",
+"garam masala"
+],
+[
+"2 tbsp",
+"milk"
+],
+[
+"2 tbsp",
+"coriander"
+]
+],
+"steps": [
+"Heat butter; crackle cumin, then soften onion, green chilli and ginger.",
+"Add tomato, turmeric, chilli powder and salt; cook until jammy, 3–4 minutes.",
+"Add crumbled paneer and milk; toss 2–3 minutes (don’t overcook or it turns rubbery).",
+"Finish with garam masala and coriander. Serve with toast, paratha or pav."
+],
+"note": "Repo entry reused a matar paneer recipe; rewritten as paneer bhurji.",
+"fact": "",
+"total": 20,
+"repo": {
+"name": "Paneer Bhurji",
+"category": "Main Course",
+"cuisine": "India",
+"best_time": "Relaxed weekend cooking & family dinners",
+"saved_count": 3,
+"source": "themealdb",
+"post": {},
+"time_min": 40,
+"time_source": "estimated",
+"calories": 600,
+"calories_source": "estimated",
+"n_ing": 12,
+"n_steps": 6
+},
+"image": null,
+"youtube": null,
+"saved": 3,
+"origin": {
+"place": "Punjab, India",
+"place_title": "Punjab, India",
+"place_desc": "State in northwestern India",
+"place_extract": "Punjab is a state in northwestern India. Forming part of the larger Punjab region of the Indian subcontinent, the state is bordered by the Indian states and union territories of Himachal Pradesh to the north and northeast, Haryana to the south and southeast, Rajasthan to the southwest, Jammu and Kashmir to the north. To the west, it shares an international border with the identically named Pakistani province of Punjab. Chandigarh serves as a shared capital for Punjab as well as Haryana. The state covers an area of 50,362 square kilometres, which is 1.53% of India's total geographical area, making it the 19th-largest Indian state by area out of 28 Indian states. With over 27 million inhabitants, Punjab is the 16th-largest Indian state by population, comprising 23 districts. Punjabi, written in the Gurmukhi script, is the most widely spoken and the official language of the state. The main ethnic group are the Punjabis, with Sikhs (57.7%) and Hindus (38.5%) forming the dominant religious groups. Three of the five traditional Punjab rivers — the Sutlej, Beas, and Ravi — flow through the state.",
+"place_url": "https://en.wikipedia.org/wiki/Punjab%2C_India",
+"image": {
+"src": "img/places/punjab-india.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "Utpal Nag",
+"file_page": "https://commons.wikimedia.org/wiki/File:Golden_Temple,_Amritsar,_Punjab_UNAG.jpg"
+},
+"dish_title": "Paneer",
+"dish_extract": "Paneer is a fresh acid-set cheese, common in South Asian cuisine, made from cow milk or buffalo milk. It is a non-aged, non-melting soft cheese made by curdling milk with an acid, such as lemon juice or citric acid. Paneer is predominantly used in north Indian dishes and is commonly used throughout South Asia, especially India, due to its versatility as an ingredient in diverse dishes.",
+"dish_url": "https://en.wikipedia.org/wiki/Paneer"
+}
+},
+{
+"id": "pasta",
+"name": "White Sauce Pasta",
+"category": "Main Course",
+"cuisine": "Italian (Indian-style)",
+"tags": [
+"Vegetarian",
+"Creamy",
+"Kid-friendly"
+],
+"servings": 3,
+"difficulty": "Easy",
+"prep": 10,
+"cook": 20,
+"extra": "",
+"nutrition": {
+"kcal": 520,
+"protein": 16,
+"carbs": 64,
+"fat": 22,
+"fiber": 4
+},
+"moods": [
+"weeknight",
+"rainy"
+],
+"mode": "completed",
+"ingredients": [
+[
+"200 g",
+"pasta (penne), boiled"
+],
+[
+"2 cups",
+"milk, boiled with ½ onion, 1 tej patta (bay leaf) & 2 cloves"
+],
+[
+"2 tbsp",
+"butter"
+],
+[
+"2 tbsp",
+"maida (flour)"
+],
+[
+"½",
+"onion, diced"
+],
+[
+"½",
+"capsicum, diced"
+],
+[
+"¼ cup",
+"sweet corn"
+],
+[
+"1 tsp",
+"chilli flakes"
+],
+[
+"1 tsp",
+"oregano"
+],
+[
+"½ tsp",
+"black pepper"
+],
+[
+"to taste",
+"salt"
+]
+],
+"steps": [
+"Infuse the milk: simmer it with onion, tej patta and cloves for 5 minutes, then strain (★ steps written from the ingredient list).",
+"Sauté onion, capsicum and corn in 1 tbsp butter for 2 minutes; set aside (★).",
+"Melt remaining butter, stir in the maida for 1 minute, then whisk in the infused milk until smooth and thick (★).",
+"Season with chilli flakes, oregano, pepper and salt; add veggies and boiled pasta (★).",
+"Toss 1–2 minutes and serve hot (★)."
+],
+"note": "Repo caption listed ingredients only; steps written from them (★).",
+"fact": "",
+"total": 30,
+"repo": {
+"name": "Pasta",
+"category": "Main Course",
+"cuisine": "Italian",
+"best_time": "Relaxed weekend cooking & family dinners",
+"saved_count": 3,
+"source": "caption",
+"post": {},
+"time_min": 40,
+"time_source": "estimated",
+"calories": 600,
+"calories_source": "estimated",
+"n_ing": 8,
+"n_steps": 0
+},
+"image": null,
+"youtube": null,
+"saved": 3,
+"origin": {
+"place": "Italy & France",
+"place_title": "Italy",
+"place_desc": "Country in Southern and Western Europe",
+"place_extract": "Italy, officially the Italian Republic, is a country in Southern and Western Europe. It consists of a peninsula, which extends into the Mediterranean Sea, with the Alps on its northern land border, as well as nearly 800 islands, notably Sicily and Sardinia. Italy shares land borders with France to the west; Switzerland and Austria to the north; Slovenia to the east; and the two enclaves of Vatican City and San Marino. It is the tenth-largest country in Europe by area, covering 301,340 km2 (116,350 sq mi), and the third-most populous member state of the European Union, with nearly 59 million inhabitants. Rome is the capital of Italy; other major cities include Milan, Naples, Turin, Palermo, Bologna, Florence, Genoa, Bari, and Venice.",
+"place_url": "https://en.wikipedia.org/wiki/Italy",
+"image": {
+"src": "img/places/italy.jpg",
+"license": "CC BY-SA 2.5",
+"artist": "Diliff",
+"file_page": "https://commons.wikimedia.org/wiki/File:Colosseum_in_Rome,_Italy_-_April_2007.jpg",
+"file": "Colosseum in Rome, Italy - April 2007.jpg"
+},
+"dish_title": "Béchamel sauce",
+"dish_extract": "Béchamel sauce is a white sauce made from a roux of butter and flour, heated in cream or milk, and seasoned with ground nutmeg. Béchamel is one of the mother sauces of French cuisine.",
+"dish_url": "https://en.wikipedia.org/wiki/B%C3%A9chamel_sauce"
+}
+},
+{
+"id": "salad",
+"name": "Warm Potato, Green Bean & Bacon Salad",
+"category": "Side Dish",
+"cuisine": "European",
+"tags": [
+"Non-veg",
+"Gluten-free"
+],
+"servings": 2,
+"difficulty": "Easy",
+"prep": 15,
+"cook": 20,
+"extra": "",
+"nutrition": {
+"kcal": 470,
+"protein": 17,
+"carbs": 30,
+"fat": 32,
+"fiber": 6
+},
+"moods": [
+"weekend",
+"brunch"
+],
+"mode": "repo",
+"ingredients": [
+[
+"350g",
+"Potatoes"
+],
+[
+"200g",
+"Green Beans"
+],
+[
+"2",
+"Eggs"
+],
+[
+"125g",
+"Bacon"
+],
+[
+"2 tbs chopped",
+"Onion"
+],
+[
+"3  tablespoons",
+"Olive Oil"
+],
+[
+"2 tablespoons",
+"White Wine Vinegar"
+],
+[
+"1 tsp",
+"Mustard"
+],
+[
+"2 tablespoons",
+"Parsley"
+],
+[
+"Pinch",
+"Pepper"
+],
+[
+"Pinch",
+"Salt"
+]
+],
+"steps": [
+"Scrub the potatoes well but don't peel them. Cut them into bite-size pieces.",
+"Add them to a large pan water and a pinch of salt. Bring it to a good boil.",
+"Cook the potatoes until tender and then remove them using a slotted spoon.",
+"Keep the potatoes at room temperature. Trim and clean the green beans.",
+"Add them to the pan of hot water you boiled the potatoes in. Cook the green beans until nearly tender (keep them crunchy).",
+"Strain and refresh them immediately under cold running tap water to stop the cooking process.",
+"Add the bacon to a large non-stick pan and place it over medium heat.",
+"Cook the bacon for a couple of minutes until cooked through. Then take the pan off the heat and let the bacon cool down a little.",
+"Combine the olive oil, vinegar and mustard. Transfer the cooked potatoes, green beans, bacon, chopped onion, parsley and vinaigrette.",
+"Season with pepper and salt. Stir well. Check the seasoning and add extra vinegar, pepper or salt to taste.",
+"Transfer the salad to a large serving bowl or 2 deep plates and garnish with the boiled eggs.",
+"Serve lukewarm."
+],
+"note": "TheMealDB potato salad (repo ‘Salad’).",
+"fact": "",
+"total": 35,
+"repo": {
+"name": "Salad",
+"category": "Main Course",
+"cuisine": null,
+"best_time": "Relaxed weekend cooking & family dinners",
+"saved_count": 3,
+"source": "themealdb",
+"post": {},
+"time_min": 40,
+"time_source": "estimated",
+"calories": 600,
+"calories_source": "estimated",
+"n_ing": 11,
+"n_steps": 12
+},
+"image": "https://www.themealdb.com/images/media/meals/ji3mho1782499823.jpg",
+"youtube": "",
+"saved": 3,
+"origin": {
+"place": "Germany",
+"place_title": "Germany",
+"place_desc": "Country in Europe",
+"place_extract": "Germany, officially the Federal Republic of Germany, is a country in Western and Central Europe. It lies between the Baltic Sea and the North Sea to the north with the Alps to the south. Its 16 constituent states have a total population of over 83 million, making it the most populous member state of the European Union (EU). Germany borders Denmark to the north; Poland and the Czech Republic to the east; Austria and Switzerland to the south; and France, Luxembourg, Belgium, and the Netherlands to the west. The nation's capital and most populous city is Berlin and its main financial centre is Frankfurt; the largest urban area is the Ruhr.",
+"place_url": "https://en.wikipedia.org/wiki/Germany",
+"image": {
+"src": "img/places/germany.jpg",
+"license": "CC BY-SA 3.0",
+"artist": "Ximonic, Simo Räsänen (post-processing) &amp; Tauno Räsänen (photograph)",
+"file_page": "https://commons.wikimedia.org/wiki/File:Neuschwanstein_Castle_from_Marienbr%C3%BCcke,_2011_May.jpg",
+"file": "Neuschwanstein Castle from Marienbrücke, 2011 May.jpg"
+},
+"dish_title": "Potato salad",
+"dish_extract": "Potato salad is a salad dish made from boiled potatoes, usually containing a dressing and a variety of other ingredients such as boiled eggs and raw vegetables. It is usually served as a side dish.",
+"dish_url": "https://en.wikipedia.org/wiki/Potato_salad"
+}
+},
+{
+"id": "soya",
+"name": "Crispy Gochujang Soya Chunks (Air Fryer)",
+"category": "Snack",
+"cuisine": "Korean-Indian fusion",
+"tags": [
+"Vegan",
+"High-protein",
+"Air fryer"
+],
+"servings": 2,
+"difficulty": "Easy",
+"prep": 15,
+"cook": 20,
+"extra": "",
+"nutrition": {
+"kcal": 280,
+"protein": 26,
+"carbs": 28,
+"fat": 6,
+"fiber": 6
+},
+"moods": [
+"gym",
+"movie",
+"weeknight"
+],
+"mode": "completed",
+"ingredients": [
+[
+"50 g",
+"big soya chunks"
+],
+[
+"as needed",
+"water"
+],
+[
+"to taste",
+"salt"
+],
+[
+"½ tbsp",
+"ginger-garlic paste"
+],
+[
+"1 tbsp",
+"rice flour"
+],
+[
+"1 tbsp",
+"corn flour"
+],
+[
+"1 tsp",
+"red chilli powder"
+],
+[
+"1 tbsp",
+"soya sauce"
+],
+[
+"1 tsp",
+"oil (for sauce)"
+],
+[
+"½",
+"onion, chopped"
+],
+[
+"2",
+"garlic cloves, chopped"
+],
+[
+"1 tbsp",
+"gochujang paste"
+],
+[
+"1 tbsp",
+"chilli tomato ketchup"
+],
+[
+"½ tsp",
+"degi mirch"
+],
+[
+"½ cup",
+"water (sauce)"
+],
+[
+"to garnish",
+"toasted sesame & spring onion"
+]
+],
+"steps": [
+"Boil water with salt and ginger-garlic paste. Add the soya chunks and let them come to a boil. Strain immediately and let them rest for 5 minutes. Do not squeeze.",
+"Coat the soya with rice flour, corn flour, red chilli powder, salt and soya sauce. Add 1 tbsp water if needed.",
+"Air fry at 180°C for 12–15 minutes, shaking the basket once halfway.",
+"Heat oil and sauté the onion and garlic until lightly golden.",
+"Add gochujang paste, chilli tomato ketchup, degi mirch, salt and ½ cup water. Bring to a boil.",
+"Add the crispy soya chunks and toss until evenly coated.",
+"Garnish with toasted sesame seeds and spring onion. Serve hot!"
+],
+"note": "From the repo (caption). Sauce ingredients mentioned in steps were added to the ingredient list.",
+"fact": "",
+"total": 35,
+"repo": {
+"name": "Soya",
+"category": "Main Course",
+"cuisine": null,
+"best_time": "Relaxed weekend cooking & family dinners",
+"saved_count": 3,
+"source": "caption",
+"post": {},
+"time_min": 40,
+"time_source": "estimated",
+"calories": 600,
+"calories_source": "estimated",
+"n_ing": 11,
+"n_steps": 7
+},
+"image": null,
+"youtube": null,
+"saved": 3,
+"origin": {
+"place": "Sunchang County, South Korea",
+"place_title": "Sunchang County",
+"place_desc": "County in South Korea",
+"place_extract": "Sunchang County (Korean: 순창군) is a county in North Jeolla Province, South Korea. It is located in a mountainous region of the province and is connected to the city of Jeonju by a modern double-lane free-way that was completed in 2011.",
+"place_url": "https://en.wikipedia.org/wiki/Sunchang_County",
+"image": {
+"src": "img/places/sunchang-county.jpg",
+"license": "CC BY-SA 3.0",
+"artist": "Leedkmn",
+"file_page": "https://commons.wikimedia.org/wiki/File:The_Artifact_Site_of_Mrs._Seol_and_Shin_Gyeong-jun.JPG"
+},
+"dish_title": "Gochujang",
+"dish_extract": "Gochujang or red chili paste is a savory, sweet, and spicy fermented condiment popular in Korean cooking. It is made from gochugaru, chapssal, meju powder, yeotgireum, and salt. The sweetness comes from the starch of cooked glutinous rice, cultured with saccharifying enzymes during the fermentation process. Traditionally, it would be naturally fermented over years in jangdok (earthenware) on an elevated stone platform called jangdokdae in the backyard.",
+"dish_url": "https://en.wikipedia.org/wiki/Gochujang"
+}
+},
+{
+"id": "spring-rolls",
+"name": "Veg Spring Rolls",
+"category": "Entree",
+"cuisine": "Chinese",
+"tags": [
+"Vegan",
+"Party food"
+],
+"servings": 4,
+"difficulty": "Medium",
+"prep": 30,
+"cook": 20,
+"extra": "",
+"nutrition": {
+"kcal": 320,
+"protein": 6,
+"carbs": 36,
+"fat": 16,
+"fiber": 3
+},
+"moods": [
+"party",
+"movie",
+"rainy"
+],
+"mode": "rewritten",
+"ingredients": [
+[
+"12",
+"spring roll wrappers"
+],
+[
+"2 cups",
+"cabbage, finely shredded"
+],
+[
+"1",
+"carrot, julienned"
+],
+[
+"½",
+"capsicum, thin strips"
+],
+[
+"½ cup",
+"bean sprouts or boiled glass noodles"
+],
+[
+"2",
+"spring onions"
+],
+[
+"1 tbsp",
+"garlic, minced"
+],
+[
+"1 tbsp",
+"soy sauce"
+],
+[
+"½ tsp",
+"black pepper"
+],
+[
+"1 tbsp",
+"cornflour + 2 tbsp water (sealing paste)"
+],
+[
+"oil",
+"for frying"
+]
+],
+"steps": [
+"Stir-fry garlic, then all the vegetables on high heat for 2 minutes; season with soy sauce, pepper and salt. Cool completely.",
+"Place 2 tbsp filling on each wrapper, fold the sides in and roll tightly; seal with the cornflour paste.",
+"Deep-fry at 170°C until golden and blistered, 4–5 minutes (or brush with oil and air-fry at 190°C for 10–12 minutes).",
+"Serve with sweet chilli sauce."
+],
+"note": "Repo entry pointed at an unrelated Jamaican plantain-roll recipe; rewritten as veg spring rolls.",
+"fact": "Spring rolls are traditionally eaten around the Spring Festival (Chinese New Year), hence the name.",
+"total": 50,
+"repo": {
+"name": "Spring Rolls",
+"category": "Side Dish",
+"cuisine": "Chinese",
+"best_time": "Alongside your weekend dinners",
+"saved_count": 3,
+"source": "themealdb",
+"post": {
+"kcal": 757
+},
+"time_min": 15,
+"time_source": "estimated",
+"calories": 757,
+"calories_source": "from post",
+"n_ing": 4,
+"n_steps": 6
+},
+"image": null,
+"youtube": null,
+"saved": 3,
+"origin": {
+"place": "China",
+"place_title": "China",
+"place_desc": "Country in East Asia",
+"place_extract": "China, officially the People's Republic of China (PRC), is a country in East Asia. It is divided into 33 province-level divisions, including two special administrative regions. Beijing is the capital, while Shanghai is the most populous city by urban area. Its geography features the Central Plain, major rivers such as the Yangtze and Yellow River, deserts, subtropical and temperate forests, plateaus, and mountain ranges such as the Himalayas. It is the world's second-most populous country after India, with a population exceeding 1.4 billion. Covering 9.6 million square kilometers (3,700,000 sq mi), it is the third largest country by area.",
+"place_url": "https://en.wikipedia.org/wiki/China",
+"image": {
+"src": "img/places/china.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "Lloyd Tudor",
+"file_page": "https://commons.wikimedia.org/wiki/File:The_Mutianyu_section_of_the_Great_Wall_of_China.jpg",
+"file": "The Mutianyu section of the Great Wall of China.jpg"
+},
+"dish_title": "Spring roll",
+"dish_extract": "Spring rolls are rolled appetizers or dim sum commonly found in Chinese, Vietnamese, Thai and Southeast Asian cuisines. The wrapper, fillings, and cooking technique vary by region but are generally filled with vegetables or ground meat.",
+"dish_url": "https://en.wikipedia.org/wiki/Spring_roll"
+}
+},
+{
+"id": "tofu",
+"name": "Crispy Chilli Garlic Tofu",
+"category": "Main Course",
+"cuisine": "Chinese-inspired",
+"tags": [
+"Vegan",
+"High-protein",
+"Quick"
+],
+"servings": 2,
+"difficulty": "Easy",
+"prep": 15,
+"cook": 15,
+"extra": "",
+"nutrition": {
+"kcal": 360,
+"protein": 22,
+"carbs": 20,
+"fat": 22,
+"fiber": 3
+},
+"moods": [
+"weeknight",
+"gym"
+],
+"mode": "rewritten",
+"ingredients": [
+[
+"400 g",
+"firm tofu, pressed & cubed"
+],
+[
+"2 tbsp",
+"cornflour"
+],
+[
+"2 tbsp",
+"oil"
+],
+[
+"4",
+"garlic cloves, minced"
+],
+[
+"1 tsp",
+"ginger, minced"
+],
+[
+"1 tbsp",
+"chilli crisp or chilli oil"
+],
+[
+"1½ tbsp",
+"soy sauce"
+],
+[
+"1 tsp",
+"maple syrup or sugar"
+],
+[
+"1 tsp",
+"rice vinegar"
+],
+[
+"2",
+"spring onions"
+],
+[
+"1 tsp",
+"sesame seeds"
+]
+],
+"steps": [
+"Press tofu 10 minutes, cube, and toss with cornflour and a pinch of salt.",
+"Pan-fry in oil (or air-fry at 200°C for 15 minutes) until golden on all sides.",
+"In the same pan, sizzle garlic and ginger 30 seconds; add chilli crisp, soy, sweetener and vinegar.",
+"Toss the tofu to glaze; finish with spring onions and sesame. Serve with rice."
+],
+"note": "Repo entry had no ingredients or steps; recipe written to match the name.",
+"fact": "",
+"total": 30,
+"repo": {
+"name": "Tofu",
+"category": "Main Course",
+"cuisine": null,
+"best_time": "Relaxed weekend cooking & family dinners",
+"saved_count": 3,
+"source": "estimated",
+"post": {},
+"time_min": 40,
+"time_source": "estimated",
+"calories": 600,
+"calories_source": "estimated",
+"n_ing": 0,
+"n_steps": 0
+},
+"image": null,
+"youtube": null,
+"saved": 3,
+"origin": {
+"place": "Huainan, Anhui, China",
+"place_title": "Huainan",
+"place_desc": "Prefecture-level city in Anhui, People's Republic of China",
+"place_extract": "Huainan is a prefecture-level city with 3,033,528 inhabitants as of the 2020 census in north-central Anhui province, China. It is named for the Han-era Principality of Huainan. It borders the provincial capital of Hefei to the south, Lu'an to the southwest, Fuyang to the west, Bozhou to the northwest, Bengbu to the northeast and Chuzhou to the east. Huainan is one of the core cities of Hefei Metropolitan Circle and is known for its coal industry and thermal power plants. Its built-up area made of 4 urban districts and Fengtai County largely being urbanized, was home to 1,868,944 inhabitants as of 2020. Its city flower is the Chinese rose and its city tree is the Old-World Plane Tree. It is also considered to be the hometown and birthplace of tofu.",
+"place_url": "https://en.wikipedia.org/wiki/Huainan",
+"image": {
+"src": "img/places/huainan.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "Whisper of the heart",
+"file_page": "https://commons.wikimedia.org/wiki/File:Tongfei_Gate,_Shou_County.jpg"
+},
+"dish_title": "Tofu",
+"dish_extract": "Tofu  or bean curd is a food prepared by pressing the curds of coagulated soy milk into solid white blocks of varying softness: 'silken', 'soft', 'firm', and 'extra firm'.",
+"dish_url": "https://en.wikipedia.org/wiki/Tofu"
+}
+},
+{
+"id": "airfryer-chilli-chicken",
+"name": "Air Fryer Chilli Chicken",
+"category": "Entree",
+"cuisine": "Indo-Chinese",
+"tags": [
+"Non-veg",
+"Air fryer",
+"High-protein"
+],
+"servings": 3,
+"difficulty": "Easy",
+"prep": 15,
+"cook": 15,
+"extra": "",
+"nutrition": {
+"kcal": 340,
+"protein": 36,
+"carbs": 16,
+"fat": 14,
+"fiber": 2
+},
+"moods": [
+"gym",
+"weeknight",
+"movie"
+],
+"mode": "completed",
+"ingredients": [
+[
+"500 g",
+"boneless chicken, small pieces"
+],
+[
+"1",
+"egg"
+],
+[
+"2 tbsp",
+"cornstarch"
+],
+[
+"2 tbsp",
+"maida"
+],
+[
+"1 tsp",
+"pepper powder"
+],
+[
+"1 tbsp",
+"light soy sauce"
+],
+[
+"to taste",
+"salt"
+],
+[
+"1 tbsp",
+"dark soy sauce (sauce)"
+],
+[
+"1 tbsp",
+"oyster sauce (sauce)"
+],
+[
+"1½ tbsp",
+"red chilli sauce (sauce)"
+],
+[
+"1 tbsp",
+"tomato ketchup (sauce)"
+],
+[
+"1",
+"capsicum, cubed"
+],
+[
+"to garnish",
+"coriander & spring onion greens"
+]
+],
+"steps": [
+"Marinate the chicken with salt, egg, cornstarch, maida, pepper powder and light soy sauce. Air-fry in a greased basket at 200°C for 10–14 minutes, flipping halfway, until golden and cooked through.",
+"Mix dark soy sauce, oyster sauce, red chilli sauce and tomato ketchup to prepare the sauce.",
+"In a hot pan, add the sauce, capsicum and the air-fried chicken. Toss on high heat until evenly coated; adjust seasoning and garnish with coriander and spring onion greens."
+],
+"note": "From the repo (caption). Sauce ingredients mentioned in the steps were added; their quantities are estimated.",
+"fact": "",
+"total": 30,
+"repo": {
+"name": "Airfryer Chilli Chicken",
+"category": "Entree",
+"cuisine": null,
+"best_time": "Cozy evenings & dinner-party starters",
+"saved_count": 2,
+"source": "caption",
+"post": {
+"kcal": 33,
+"time_min": 30
+},
+"time_min": 30,
+"time_source": "from post",
+"calories": 33,
+"calories_source": "from post",
+"n_ing": 8,
+"n_steps": 4
+},
+"image": null,
+"youtube": null,
+"saved": 2,
+"origin": {
+"place": "Tangra (Chinatown), Kolkata",
+"place_title": "Tangra, Kolkata",
+"place_desc": "Neighbourhood in Kolkata in West Bengal, India",
+"place_extract": "Tangra is a region in East Kolkata that traditionally housed many tanneries owned by people of Hakka Chinese origin.",
+"place_url": "https://en.wikipedia.org/wiki/Tangra%2C_Kolkata",
+"image": {
+"src": "img/places/tangra-kolkata.jpg",
+"license": "CC BY 3.0",
+"artist": "Biswarup Ganguly",
+"file_page": "https://commons.wikimedia.org/wiki/File:Gobinda_Chandra_Khatik_Road_-_John_Burdon_Sanderson_Haldane_Avenue_-_Kolkata_2013-04-10_7722.JPG"
+},
+"dish_title": "Chilli chicken",
+"dish_extract": "Chilli chicken is a popular Indo-Chinese dish that uses chicken, and is of Chinese heritage. In India, this may include a variety of dry chicken preparations. Though mainly boneless chicken is used in this dish, some recipes also use bone-in chicken.",
+"dish_url": "https://en.wikipedia.org/wiki/Chilli_chicken"
+}
+},
+{
+"id": "amritsar-style-paneer-bhurji",
+"name": "Amritsari Paneer Bhurji (Dhaba Style)",
+"category": "Breakfast",
+"cuisine": "Indian (Punjabi)",
+"tags": [
+"Vegetarian",
+"High-protein",
+"Gluten-free"
+],
+"servings": 3,
+"difficulty": "Easy",
+"prep": 10,
+"cook": 15,
+"extra": "",
+"nutrition": {
+"kcal": 420,
+"protein": 22,
+"carbs": 14,
+"fat": 31,
+"fiber": 3
+},
+"moods": [
+"brunch",
+"weekend",
+"rainy"
+],
+"mode": "rewritten",
+"ingredients": [
+[
+"300 g",
+"paneer, crumbled"
+],
+[
+"2 tbsp",
+"ghee or butter"
+],
+[
+"1 tsp",
+"cumin seeds"
+],
+[
+"2",
+"onions, finely chopped"
+],
+[
+"1 tbsp",
+"ginger-garlic paste"
+],
+[
+"2",
+"green chillies"
+],
+[
+"2",
+"tomatoes, finely chopped"
+],
+[
+"½ tsp",
+"turmeric"
+],
+[
+"1 tsp",
+"Kashmiri chilli powder"
+],
+[
+"1 tsp",
+"coriander powder"
+],
+[
+"1 tsp",
+"Amritsari / chole masala (or garam masala)"
+],
+[
+"1 tsp",
+"kasuri methi"
+],
+[
+"2 tbsp",
+"cream or malai"
+],
+[
+"2 tbsp",
+"coriander"
+]
+],
+"steps": [
+"Heat ghee, crackle cumin; cook onions until light brown.",
+"Add ginger-garlic paste and chillies for 1 minute, then tomatoes and all spice powders; cook until oil separates, 5–6 minutes.",
+"Add a splash of water, then the paneer and salt; mix and cook 3 minutes.",
+"Stir in kasuri methi and cream; finish with coriander and an extra knob of butter. Serve with butter-laden pav or parathas."
+],
+"note": "Repo entry had no ingredients or steps; recipe written to match the name.",
+"fact": "Amritsar’s dhabas are famous for rich, butter-heavy Punjabi breakfasts.",
+"total": 25,
+"repo": {
+"name": "Amritsar Style Paneer Bhurji",
+"category": "Breakfast",
+"cuisine": "Indian",
+"best_time": "Lazy weekend mornings & quick weekday fuel",
+"saved_count": 2,
+"source": "estimated",
+"post": {},
+"time_min": 20,
+"time_source": "estimated",
+"calories": 350,
+"calories_source": "estimated",
+"n_ing": 0,
+"n_steps": 0
+},
+"image": null,
+"youtube": null,
+"saved": 2,
+"origin": {
+"place": "Amritsar, Punjab, India",
+"place_title": "Amritsar",
+"place_desc": "Metropolis in Punjab, India",
+"place_extract": "Amritsar, also known as Ambarsar, is the second-largest city in the Indian state of Punjab, after Ludhiana. Located in the Majha region, it is a major cultural, transportation and economic centre. The city is the administrative headquarters of the Amritsar district. It is situated 217 km (135 mi) north-west of Chandigarh, and 455 km (283 mi) north-west of New Delhi. It is 28 km (17.4 mi) from the India-Pakistan border, and 47 km (29 mi) north-east of Lahore, Pakistan.",
+"place_url": "https://en.wikipedia.org/wiki/Amritsar",
+"image": {
+"src": "img/places/amritsar.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "Shubhashish",
+"file_page": "https://commons.wikimedia.org/wiki/File:Golden_Temple_Amritsar_Gurudwara_(cropped).jpg"
+},
+"dish_title": "Paneer",
+"dish_extract": "Paneer is a fresh acid-set cheese, common in South Asian cuisine, made from cow milk or buffalo milk. It is a non-aged, non-melting soft cheese made by curdling milk with an acid, such as lemon juice or citric acid. Paneer is predominantly used in north Indian dishes and is commonly used throughout South Asia, especially India, due to its versatility as an ingredient in diverse dishes.",
+"dish_url": "https://en.wikipedia.org/wiki/Paneer"
+}
+},
+{
+"id": "apollo-fish",
+"name": "Apollo Fish",
+"category": "Entree",
+"cuisine": "Indian (Hyderabadi)",
+"tags": [
+"Pescatarian",
+"Spicy"
+],
+"servings": 3,
+"difficulty": "Medium",
+"prep": 20,
+"cook": 20,
+"extra": "+ 20 min marinating",
+"nutrition": {
+"kcal": 360,
+"protein": 30,
+"carbs": 14,
+"fat": 20,
+"fiber": 1
+},
+"moods": [
+"party",
+"weekend",
+"movie"
+],
+"mode": "rewritten",
+"ingredients": [
+[
+"500 g",
+"boneless white fish (basa, murrel or tilapia), strips"
+],
+[
+"1 tbsp",
+"ginger-garlic paste"
+],
+[
+"1 tsp",
+"red chilli powder"
+],
+[
+"1",
+"egg"
+],
+[
+"2 tbsp",
+"cornflour"
+],
+[
+"1 tbsp",
+"maida"
+],
+[
+"oil",
+"for frying"
+],
+[
+"1 tbsp",
+"chopped garlic"
+],
+[
+"3",
+"green chillies, slit"
+],
+[
+"1 sprig",
+"curry leaves"
+],
+[
+"3 tbsp",
+"thick yogurt"
+],
+[
+"1 tbsp",
+"red chilli sauce"
+],
+[
+"1 tsp",
+"soy sauce"
+],
+[
+"½ tsp",
+"sugar"
+],
+[
+"1 tbsp",
+"lemon juice"
+],
+[
+"2 tbsp",
+"coriander"
+]
+],
+"steps": [
+"Marinate fish with ginger-garlic paste, chilli powder, salt, egg, cornflour and maida for 20 minutes.",
+"Deep-fry until crisp and golden; drain.",
+"In 1 tbsp oil, sauté garlic, green chillies and curry leaves.",
+"Lower the heat; stir in yogurt, chilli sauce, soy sauce and sugar until it thickens and coats the pan.",
+"Toss the fish through, add lemon juice and coriander, serve hot."
+],
+"note": "Repo entry pointed at an unrelated Jamaican escovitch fish recipe; rewritten as Hyderabadi Apollo fish.",
+"fact": "Apollo fish is a Hyderabad restaurant favourite, typically served as a starter.",
+"total": 40,
+"repo": {
+"name": "Apollo Fish",
+"category": "Main Course",
+"cuisine": "Jamaican",
+"best_time": "Relaxed weekend cooking & family dinners",
+"saved_count": 2,
+"source": "themealdb",
+"post": {
+"kcal": 350
+},
+"time_min": 40,
+"time_source": "estimated",
+"calories": 350,
+"calories_source": "from post",
+"n_ing": 17,
+"n_steps": 9
+},
+"image": null,
+"youtube": null,
+"saved": 2,
+"origin": {
+"place": "Hyderabad, Telangana, India",
+"place_title": "Hyderabad",
+"place_desc": "Capital of Telangana, India",
+"place_extract": "Hyderabad is the capital and largest city of the Indian state of Telangana. It occupies 650 km2 (250 sq mi) on the Deccan Plateau along the banks of the Musi River, in the northern part of Southern India. With an average altitude of 536 m (1,759 ft), much of Hyderabad is situated on hilly terrain around artificial lakes, including the Hussain Sagar lake, predating the city's founding, in the north of the city centre. According to the 2011 census of India, Hyderabad is the fourth-most populous city in India, with a population of 6.9 million residents within the city limits and 9.7 million residents in the metropolitan region, making it the sixth-most populous metropolitan area in India.",
+"place_url": "https://en.wikipedia.org/wiki/Hyderabad",
+"image": {
+"src": "img/places/hyderabad.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "iMahesh",
+"file_page": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Durgam_cheruvu_and_Hitech_CIty.jpg"
+},
+"dish_title": "Hyderabadi cuisine",
+"dish_extract": "Hyderabadi cuisine, also known as Deccani cuisine, is the cooking style characteristic of the city of Hyderabad and its surrounding area in Telangana, India.",
+"dish_url": "https://en.wikipedia.org/wiki/Hyderabadi_cuisine"
+}
+},
+{
+"id": "bang-bang-paneer",
+"name": "Bang Bang Paneer",
+"category": "Entree",
+"cuisine": "Indo-Chinese fusion",
+"tags": [
+"Vegetarian",
+"Creamy",
+"Spicy"
+],
+"servings": 3,
+"difficulty": "Easy",
+"prep": 10,
+"cook": 15,
+"extra": "",
+"nutrition": {
+"kcal": 470,
+"protein": 18,
+"carbs": 24,
+"fat": 34,
+"fiber": 1
+},
+"moods": [
+"movie",
+"party"
+],
+"mode": "rewritten",
+"ingredients": [
+[
+"250 g",
+"paneer, cubes"
+],
+[
+"3 tbsp",
+"cornflour"
+],
+[
+"2 tbsp",
+"maida"
+],
+[
+"½ tsp",
+"chilli powder"
+],
+[
+"oil",
+"for frying"
+],
+[
+"¼ cup",
+"mayonnaise"
+],
+[
+"2 tbsp",
+"sweet chilli sauce"
+],
+[
+"1 tsp",
+"sriracha"
+],
+[
+"1 tsp",
+"honey"
+],
+[
+"2",
+"spring onions"
+],
+[
+"1 tsp",
+"sesame seeds"
+]
+],
+"steps": [
+"Make a batter with cornflour, maida, chilli powder, salt and water; coat paneer.",
+"Fry or air-fry (200°C, 10 minutes) until crisp.",
+"Whisk mayo, sweet chilli, sriracha and honey.",
+"Toss paneer in the sauce; garnish with spring onions and sesame."
+],
+"note": "Repo entry reused a matar paneer recipe; rewritten in bang bang style.",
+"fact": "",
+"total": 25,
+"repo": {
+"name": "Bang Bang Paneer",
+"category": "Main Course",
+"cuisine": "India",
+"best_time": "Relaxed weekend cooking & family dinners",
+"saved_count": 2,
+"source": "themealdb",
+"post": {},
+"time_min": 40,
+"time_source": "estimated",
+"calories": 600,
+"calories_source": "estimated",
+"n_ing": 12,
+"n_steps": 6
+},
+"image": null,
+"youtube": null,
+"saved": 2,
+"origin": {
+"place": "Sichuan, China (sauce inspiration)",
+"place_title": "Sichuan",
+"place_desc": "Province in Southwestern China",
+"place_extract": "Sichuan is an inland province in Southwestern China. It is located in the Sichuan Basin and Tibetan Plateau—between the Jinsha River to the west, the Daba Mountains to the north, and the Yunnan–Guizhou Plateau to the south. Its capital city is Chengdu, and the province's population stands at 83 million. Sichuan neighbors Qinghai and Gansu to the north, Shaanxi and Chongqing to the east, Guizhou and Yunnan to the south, and Tibet to the west.",
+"place_url": "https://en.wikipedia.org/wiki/Sichuan",
+"image": {
+"src": "img/places/sichuan.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "chensiyuan",
+"file_page": "https://commons.wikimedia.org/wiki/File:1_huanglong_2.jpg"
+},
+"dish_title": "Bang bang chicken",
+"dish_extract": "Bang bang chicken, also known by variant names such as bam bam chicken or bon bon chicken, is a popular chicken dish in Chinese cuisine. The name 'bang bang chicken' is derived from the Chinese word for stick, 'bàng'(棒), referring to the baton or cudgel traditionally used to tenderize the meat.",
+"dish_url": "https://en.wikipedia.org/wiki/Bang_bang_chicken"
+}
+},
+{
+"id": "bread",
+"name": "Bread Omelette",
+"category": "Breakfast",
+"cuisine": "Indian (street food)",
+"tags": [
+"Eggetarian",
+"Quick",
+"Budget"
+],
+"servings": 1,
+"difficulty": "Easy",
+"prep": 5,
+"cook": 7,
+"extra": "",
+"nutrition": {
+"kcal": 330,
+"protein": 16,
+"carbs": 28,
+"fat": 17,
+"fiber": 2
+},
+"moods": [
+"brunch",
+"weeknight",
+"latenight"
+],
+"mode": "completed",
+"ingredients": [
+[
+"2",
+"bread slices"
+],
+[
+"2",
+"eggs"
+],
+[
+"½ tsp",
+"salt"
+],
+[
+"1 tbsp",
+"onion, finely chopped (optional)"
+],
+[
+"1",
+"green chilli, chopped (optional)"
+],
+[
+"1 tbsp",
+"coriander (optional)"
+],
+[
+"pinch",
+"black pepper / chilli powder"
+],
+[
+"1 tsp",
+"butter"
+]
+],
+"steps": [
+"Whisk eggs with salt, onion, chilli, coriander and pepper (★ steps written; the repo only said ‘Make and enjoy’).",
+"Melt butter in a pan, pour in the eggs and immediately place both bread slices on top.",
+"When the base sets (about 1 minute), flip the whole thing so the bread toasts.",
+"Fold the overhanging omelette over the bread, fold in half into a sandwich and toast both sides.",
+"Serve with ketchup and a cup of chai."
+],
+"note": "Repo had only ‘2 bread, 2 egg, salt — Make and enjoy’; quantities kept, steps written (★). Optional add-ins are extras.",
+"fact": "",
+"total": 12,
+"repo": {
+"name": "Bread",
+"category": "Breakfast",
+"cuisine": "India",
+"best_time": "Lazy weekend mornings & quick weekday fuel",
+"saved_count": 2,
+"source": "themealdb",
+"post": {},
+"time_min": 20,
+"time_source": "estimated",
+"calories": 350,
+"calories_source": "estimated",
+"n_ing": 3,
+"n_steps": 1
+},
+"image": "https://www.themealdb.com/images/media/meals/hqaejl1695738653.jpg",
+"youtube": "",
+"saved": 2,
+"origin": {
+"place": "India (street food)",
+"place_title": "India",
+"place_desc": "Country in South Asia",
+"place_extract": "India, officially the Republic of India, is a country in South Asia. It is the world's seventh-largest country by area and its most populous. Bounded by the Indian Ocean on the south, the Arabian Sea on the southwest, and the Bay of Bengal on the southeast, it shares land borders with Pakistan to the west, China, Nepal, and Bhutan to the north, and Bangladesh and Myanmar to the east. In the Indian Ocean, India is near Sri Lanka and the Maldives.",
+"place_url": "https://en.wikipedia.org/wiki/India",
+"image": {
+"src": "img/places/india.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "Yann; edited by King of Hearts",
+"file_page": "https://commons.wikimedia.org/wiki/File:Taj_Mahal,_Agra,_India_edit2.jpg",
+"file": "Taj Mahal, Agra, India edit2.jpg"
+},
+"dish_title": "Omelette",
+"dish_extract": "An omelette is a dish made from eggs, fried with butter or oil in a frying pan. It is a common practice for an omelette to include fillings such as chives, vegetables, mushrooms, meat, cheese, onions or some combination of the above. Whole eggs or egg whites are often beaten with a small amount of milk, cream, or water.",
+"dish_url": "https://en.wikipedia.org/wiki/Omelette"
+}
+},
+{
+"id": "caramelized-onion-chicken",
+"name": "Caramelized Onion Herb Chicken (Meal Prep)",
+"category": "Main Course",
+"cuisine": "Mediterranean",
+"tags": [
+"Non-veg",
+"High-protein",
+"Meal prep",
+"Gluten-free"
+],
+"servings": 5,
+"difficulty": "Easy",
+"prep": 15,
+"cook": 45,
+"extra": "",
+"nutrition": {
+"kcal": 300,
+"protein": 44,
+"carbs": 10,
+"fat": 9,
+"fiber": 2
+},
+"moods": [
+"mealprep",
+"gym",
+"weeknight"
+],
+"mode": "completed",
+"ingredients": [
+[
+"1000 g",
+"raw chicken breast, cubed"
+],
+[
+"1.5 tsp",
+"salt"
+],
+[
+"1.5 tsp",
+"black pepper"
+],
+[
+"2 tsp",
+"garlic powder"
+],
+[
+"2 tsp",
+"oregano"
+],
+[
+"2 tsp",
+"smoked paprika"
+],
+[
+"2 tsp",
+"dried basil"
+],
+[
+"3 tsp",
+"olive oil"
+],
+[
+"10 g",
+"reduced-fat butter (for cooking)"
+],
+[
+"3",
+"large onions, thinly sliced (★ implied by the title)"
+],
+[
+"1 tsp",
+"balsamic vinegar or brown sugar (★ optional)"
+]
+],
+"steps": [
+"Slowly cook the onions in the butter and 1 tsp oil over medium-low heat, stirring often, for 25–30 minutes until deep golden (★ steps written).",
+"Meanwhile toss the chicken with salt, pepper, garlic powder, oregano, paprika, basil and remaining olive oil.",
+"Add balsamic to the onions, scrape the pan, then move onions aside.",
+"Turn up the heat and sear the chicken until cooked through, 8–10 minutes.",
+"Fold the onions through. Portion into 5 containers with rice or veg."
+],
+"note": "Repo caption had ingredients only (and no onions, despite the name); steps and onions added (★).",
+"fact": "",
+"total": 60,
+"repo": {
+"name": "Caramelized Onion Chicken",
+"category": "Main Course",
+"cuisine": null,
+"best_time": "Relaxed weekend cooking & family dinners",
+"saved_count": 2,
+"source": "caption",
+"post": {
+"kcal": 609
+},
+"time_min": 40,
+"time_source": "estimated",
+"calories": 609,
+"calories_source": "from post",
+"n_ing": 9,
+"n_steps": 0
+},
+"image": null,
+"youtube": null,
+"saved": 2,
+"origin": {
+"place": "The Mediterranean",
+"place_title": "Mediterranean Sea",
+"place_desc": "Sea between Africa, Asia, and Europe",
+"place_extract": "The Mediterranean Sea is an intercontinental sea situated between Europe, Asia, and Africa. It is surrounded by the Mediterranean basin and almost completely enclosed by land: on the east by the Levant in West Asia, on the north by Anatolia in West Asia and Southern Europe, and on the south by North Africa. To its west it is connected to the Atlantic Ocean via the Strait of Gibraltar that separates the Iberian Peninsula in Europe from Morocco in Africa by only 14 km (9 mi); additionally, it is connected to the Black Sea through the Bosporus strait that intersects Turkey in the northeast and the Red Sea via the Suez Canal in the southeast.",
+"place_url": "https://en.wikipedia.org/wiki/Mediterranean_Sea",
+"image": {
+"src": "img/places/mediterranean-sea.jpg",
+"license": "Public domain",
+"artist": "of the modification : Eric Gaba (Sting)",
+"file_page": "https://commons.wikimedia.org/wiki/File:Mediterranean_Sea_16.61811E_38.99124N.jpg"
+},
+"dish_title": "Mediterranean cuisine",
+"dish_extract": "Mediterranean cuisine is the food and methods of preparation used by the people of the Mediterranean basin. The idea of a Mediterranean cuisine originates with the cookery writer Elizabeth David's A Book of Mediterranean Food (1950), and was amplified by other writers working in English.",
+"dish_url": "https://en.wikipedia.org/wiki/Mediterranean_cuisine"
+}
+},
+{
+"id": "chicken-65-biryani",
+"name": "Chicken 65 Biryani",
+"category": "Main Course",
+"cuisine": "Indian (South Indian)",
+"tags": [
+"Non-veg",
+"Celebration",
+"Spicy"
+],
+"servings": 4,
+"difficulty": "Hard",
+"prep": 30,
+"cook": 45,
+"extra": "+ 30 min marinating",
+"nutrition": {
+"kcal": 720,
+"protein": 38,
+"carbs": 80,
+"fat": 26,
+"fiber": 3
+},
+"moods": [
+"festive",
+"weekend",
+"party"
+],
+"mode": "completed",
+"ingredients": [
+[
+"1½–2 cups",
+"basmati rice"
+],
+[
+"500 g",
+"chicken (marinade)"
+],
+[
+"1 tsp",
+"salt (marinade)"
+],
+[
+"1 tsp",
+"red chilli powder (marinade)"
+],
+[
+"⅛ tsp",
+"turmeric (marinade)"
+],
+[
+"½ tsp",
+"pepper powder (marinade)"
+],
+[
+"1 tsp",
+"coriander powder (marinade)"
+],
+[
+"½ tbsp",
+"ginger garlic paste (marinade)"
+],
+[
+"1 tbsp",
+"curd (marinade)"
+],
+[
+"1 tbsp",
+"lemon juice (marinade)"
+],
+[
+"2 tbsp",
+"corn flour (marinade)"
+],
+[
+"2 tbsp",
+"all-purpose flour (marinade)"
+],
+[
+"1",
+"egg (marinade)"
+],
+[
+"pinch",
+"red food colour (marinade, optional)"
+],
+[
+"1 tsp",
+"ginger garlic paste (biryani masala)"
+],
+[
+"1 tsp",
+"salt (biryani masala)"
+],
+[
+"1 tsp",
+"red chilli powder (biryani masala)"
+],
+[
+"½ tsp",
+"pepper powder (biryani masala)"
+],
+[
+"1 tsp",
+"coriander powder (biryani masala)"
+],
+[
+"1 tsp",
+"biryani masala"
+],
+[
+"some",
+"coriander leaves"
+],
+[
+"some",
+"mint leaves"
+],
+[
+"oil/ghee",
+"for frying and layering"
+]
+],
+"steps": [
+"Marinate the chicken with all the marination ingredients for 30 minutes (★ steps written from the ingredient list).",
+"Deep-fry the chicken until crisp — this is your Chicken 65.",
+"Parboil the soaked rice in salted water until 70% cooked; drain.",
+"In 2 tbsp oil/ghee, cook the biryani-masala ingredients with a splash of water for 2 minutes; toss the fried chicken in it.",
+"Layer rice over the chicken with mint and coriander, drizzle ghee, cover and cook on low (dum) for 15–20 minutes.",
+"Fluff gently and serve with raita."
+],
+"note": "Repo caption listed ingredients only; steps written (★).",
+"fact": "",
+"total": 75,
+"repo": {
+"name": "Chicken 65 Biryani",
+"category": "Main Course",
+"cuisine": "Indian",
+"best_time": "Relaxed weekend cooking & family dinners",
+"saved_count": 2,
+"source": "caption",
+"post": {},
+"time_min": 40,
+"time_source": "estimated",
+"calories": 600,
+"calories_source": "estimated",
+"n_ing": 25,
+"n_steps": 0
+},
+"image": null,
+"youtube": null,
+"saved": 2,
+"origin": {
+"place": "Hyderabad & Chennai, India",
+"place_title": "Hyderabad",
+"place_desc": "Capital of Telangana, India",
+"place_extract": "Hyderabad is the capital and largest city of the Indian state of Telangana. It occupies 650 km2 (250 sq mi) on the Deccan Plateau along the banks of the Musi River, in the northern part of Southern India. With an average altitude of 536 m (1,759 ft), much of Hyderabad is situated on hilly terrain around artificial lakes, including the Hussain Sagar lake, predating the city's founding, in the north of the city centre. According to the 2011 census of India, Hyderabad is the fourth-most populous city in India, with a population of 6.9 million residents within the city limits and 9.7 million residents in the metropolitan region, making it the sixth-most populous metropolitan area in India.",
+"place_url": "https://en.wikipedia.org/wiki/Hyderabad",
+"image": {
+"src": "img/places/hyderabad.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "iMahesh",
+"file_page": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Durgam_cheruvu_and_Hitech_CIty.jpg"
+},
+"dish_title": "Chicken 65",
+"dish_extract": "Chicken 65 is a spicy, deep-fried chicken dish originating from Hotel Buhari, Chennai, India, as an entrée, or quick snack. The flavour of the dish can be attributed to red chillies, but the exact set of ingredients for the recipe can vary. It is prepared using boneless chicken and is usually served with an onion and lemon garnish. Vegetarian variants such as \"Paneer 65\" or \"Gobhi 65\" use paneer or cauliflower instead. While the name \"Chicken 65\" is universally used to refer to the dish, there are many different theories claiming its origins.",
+"dish_url": "https://en.wikipedia.org/wiki/Chicken_65"
+}
+},
+{
+"id": "chicken-65-garlic-bread",
+"name": "Chicken 65 Garlic Bread",
+"category": "Snack",
+"cuisine": "Indian-Italian fusion",
+"tags": [
+"Non-veg",
+"Party food",
+"Spicy"
+],
+"servings": 4,
+"difficulty": "Hard",
+"prep": 30,
+"cook": 60,
+"extra": "+ 2 h marinating",
+"nutrition": {
+"kcal": 620,
+"protein": 34,
+"carbs": 48,
+"fat": 32,
+"fiber": 3
+},
+"moods": [
+"party",
+"movie",
+"weekend"
+],
+"mode": "completed",
+"ingredients": [
+[
+"500 g",
+"boneless chicken, small cubes"
+],
+[
+"1 tsp",
+"red chilli powder"
+],
+[
+"½ tsp",
+"turmeric"
+],
+[
+"½ tsp",
+"black pepper"
+],
+[
+"1 tbsp",
+"ginger garlic paste"
+],
+[
+"½ tsp",
+"garam masala"
+],
+[
+"to taste",
+"salt"
+],
+[
+"1 tsp",
+"lemon juice"
+],
+[
+"pinch",
+"red food colour (optional)"
+],
+[
+"2 tbsp",
+"cornflour"
+],
+[
+"1 tbsp",
+"all-purpose flour"
+],
+[
+"1",
+"egg white"
+],
+[
+"¼ tsp",
+"baking soda"
+],
+[
+"as needed",
+"oil, for shallow frying"
+],
+[
+"½ tsp",
+"cumin seeds (sauce)"
+],
+[
+"2 tbsp",
+"chopped garlic (sauce)"
+],
+[
+"2 tbsp",
+"chopped ginger (sauce)"
+],
+[
+"2–3",
+"green chillies, slit (sauce)"
+],
+[
+"few",
+"curry leaves (sauce)"
+],
+[
+"½ tsp each",
+"black pepper & red chilli powder (sauce)"
+],
+[
+"2 tbsp",
+"red chilli sauce (sauce)"
+],
+[
+"1",
+"garlic head, for roasting (★ from steps)"
+],
+[
+"60 g",
+"butter (★ from steps)"
+],
+[
+"1 tsp each",
+"oregano, parsley, chilli flakes (★ from steps)"
+],
+[
+"1",
+"baguette / garlic-bread loaf, halved (★ from steps)"
+],
+[
+"150 g",
+"mozzarella, grated (★ from steps)"
+],
+[
+"to finish",
+"fried curry leaves, red onion, lime (★ from steps)"
+]
+],
+"steps": [
+"Roast the garlic at 400°F for 35 minutes, then squeeze it out and mix with the butter, oregano, parsley, chilli flakes, salt, and pepper.",
+"Marinate the chicken with the spices, ginger garlic paste, lemon juice, and food colour (if using) for 2 hours. Add the cornflour, flour, egg white, and baking soda. Rest for 20 minutes.",
+"Shallow fry until golden.",
+"In a pan, sauté the cumin, garlic, ginger, green chillies, and curry leaves. Add the remaining sauce ingredients, then toss in the fried chicken until well coated.",
+"Spread the garlic butter over the bread, top generously with mozzarella, then arrange the Chicken 65 on top.",
+"Bake at 400°F for 15 minutes, then broil on high for 2–3 minutes until golden.",
+"Finish with fried curry leaves, fried green chillies, red onions, and a generous squeeze of lime."
+],
+"note": "From the repo (caption). Garlic-butter, bread and cheese ingredients appear only in the steps, so they were added (★) with estimated amounts.",
+"fact": "",
+"total": 90,
+"repo": {
+"name": "Chicken 65 Garlic Bread",
+"category": "Main Course",
+"cuisine": null,
+"best_time": "Relaxed weekend cooking & family dinners",
+"saved_count": 2,
+"source": "caption",
+"post": {},
+"time_min": 40,
+"time_source": "estimated",
+"calories": 600,
+"calories_source": "estimated",
+"n_ing": 25,
+"n_steps": 7
+},
+"image": null,
+"youtube": null,
+"saved": 2,
+"origin": {
+"place": "Chennai (Chicken 65) × Italian-American garlic bread",
+"place_title": "Chennai",
+"place_desc": "Capital of Tamil Nadu, India",
+"place_extract": "Chennai, also known as Madras, is the capital and largest city of Tamil Nadu, the southernmost state of India. It is located on the Coromandel Coast of the Bay of Bengal. As per the 2011 Indian census, Chennai is the sixth-most-populous city in India and forms the fourth-most-populous urban agglomeration. The city is coterminous with Chennai district, which together with the adjoining suburbs constitutes the Chennai Metropolitan Area, one of the largest metropolitan areas of India. It is administered by the Greater Chennai Corporation, which was incorporated in 1688, and is the second oldest municipal corporation in the world after the City of London Corporation. Being the capital of the state, it houses major government institutions including the Tamil Nadu Legislative Assembly, and the Madras High Court.",
+"place_url": "https://en.wikipedia.org/wiki/Chennai",
+"image": {
+"src": "img/places/chennai.jpg",
+"license": "CC BY-SA 2.0",
+"artist": "jamal haider from india",
+"file_page": "https://commons.wikimedia.org/wiki/File:Chennai_Central.jpg"
+},
+"dish_title": "Garlic bread",
+"dish_extract": "Garlic bread consists of crusty bread slices topped with garlic and butter, and additional herbs such as oregano, chives or parsley. Some versions include cheese. It is then either grilled until toasted or baked in a conventional or bread oven.",
+"dish_url": "https://en.wikipedia.org/wiki/Garlic_bread"
+}
+},
+{
+"id": "chicken-chukka",
+"name": "Chettinad Chicken Chukka",
+"category": "Main Course",
+"cuisine": "Indian (Chettinad)",
+"tags": [
+"Non-veg",
+"Spicy",
+"Gluten-free"
+],
+"servings": 4,
+"difficulty": "Medium",
+"prep": 20,
+"cook": 35,
+"extra": "",
+"nutrition": {
+"kcal": 400,
+"protein": 34,
+"carbs": 10,
+"fat": 24,
+"fiber": 3
+},
+"moods": [
+"rainy",
+"weekend"
+],
+"mode": "rewritten",
+"ingredients": [
+[
+"750 g",
+"bone-in chicken"
+],
+[
+"3 tbsp",
+"gingelly (sesame) oil"
+],
+[
+"2",
+"onions, finely chopped"
+],
+[
+"15",
+"shallots, sliced (optional)"
+],
+[
+"1 tbsp",
+"ginger-garlic paste"
+],
+[
+"1",
+"tomato, chopped"
+],
+[
+"½ tsp",
+"turmeric"
+],
+[
+"2 sprigs",
+"curry leaves"
+],
+[
+"roast & grind",
+"6 dried red chillies, 1 tbsp coriander seeds, 1 tsp cumin, 1 tsp fennel, 1½ tsp black peppercorns, 2 cloves, 1 inch cinnamon, 1 tbsp grated coconut"
+]
+],
+"steps": [
+"Dry-roast the whole spices and coconut until fragrant; grind to a coarse powder.",
+"Heat oil, add curry leaves, onions and shallots; fry until deep golden.",
+"Add ginger-garlic paste, then tomato and turmeric; cook until soft.",
+"Add chicken and salt; cook covered 15 minutes, stirring now and then.",
+"Add the ground masala and roast uncovered on medium heat until the chicken is dry, dark and coated, 10–15 minutes.",
+"Serve with rice and rasam or parottas."
+],
+"note": "Repo entry pointed at an unrelated French chicken recipe; rewritten as Chettinad chicken chukka.",
+"fact": "",
+"total": 55,
+"repo": {
+"name": "Chicken Chukka",
+"category": "Main Course",
+"cuisine": "France",
+"best_time": "Relaxed weekend cooking & family dinners",
+"saved_count": 2,
+"source": "themealdb",
+"post": {},
+"time_min": 40,
+"time_source": "estimated",
+"calories": 600,
+"calories_source": "estimated",
+"n_ing": 19,
+"n_steps": 12
+},
+"image": null,
+"youtube": null,
+"saved": 2,
+"origin": {
+"place": "Chettinad, Tamil Nadu, India",
+"place_title": "Chettinad",
+"place_desc": "Region in Tamil Nadu, India",
+"place_extract": "Chettinad is a region in Tamil Nadu comprising 56 villages in Sivaganga district and 20 villages in Pudukottai district, which was historically ruled by the Ramnad kingdom of Pandya Nadu. It has a small portion extending into the Pudukottai District in Tamil Nadu; Karaikudi is the major city of this area and is considered the urban centre for the Chettinadu villages.",
+"place_url": "https://en.wikipedia.org/wiki/Chettinad",
+"image": {
+"src": "img/places/chettinad.jpg",
+"license": "CC BY-SA 3.0",
+"artist": "User:Karthick jack",
+"file_page": "https://commons.wikimedia.org/wiki/File:The_Chettinad_palace_karaikudi_2013-09-07_00-11.jpg"
+},
+"dish_title": "Chettinad cuisine",
+"dish_extract": "Chettinadu cuisine is the cuisine of a community called the Nagarathars, from the Chettinad region in Sivaganga district of Tamil Nadu state in\nIndia. Chettinad cuisine is perhaps the most renowned fare in the Tamil Nadu repertoire. It uses a variety of spices and the dishes are made with fresh ground masalas. Chettiars also use a variety of sun-dried meats and salted vegetables, reflecting the dry environment of the region. Most of the dishes are eaten with rice and rice based accompaniments such as dosas, appams, idiyappams, adais and idlis. The Chettiars, through their mercantile contacts with Burma, learnt to prepare a type of rice pudding made with sticky red rice. The chefs of Manapatti village near Singampunari are experts in cooking Chettinad cuisine.",
+"dish_url": "https://en.wikipedia.org/wiki/Chettinad_cuisine"
+}
+},
+{
+"id": "chicken-sandwich",
+"name": "Grilled Chicken Club Sandwich",
+"category": "Main Course",
+"cuisine": "American",
+"tags": [
+"Non-veg",
+"High-protein"
+],
+"servings": 2,
+"difficulty": "Easy",
+"prep": 15,
+"cook": 15,
+"extra": "",
+"nutrition": {
+"kcal": 620,
+"protein": 42,
+"carbs": 46,
+"fat": 28,
+"fiber": 4
+},
+"moods": [
+"brunch",
+"weeknight"
+],
+"mode": "rewritten",
+"ingredients": [
+[
+"2",
+"chicken breasts (about 300 g), butterflied"
+],
+[
+"1 tsp",
+"paprika"
+],
+[
+"½ tsp",
+"garlic powder"
+],
+[
+"1 tbsp",
+"olive oil"
+],
+[
+"6",
+"slices bread, toasted"
+],
+[
+"4",
+"strips bacon or chicken/turkey rashers (optional)"
+],
+[
+"3 tbsp",
+"mayonnaise"
+],
+[
+"1 tsp",
+"mustard"
+],
+[
+"4",
+"lettuce leaves"
+],
+[
+"1",
+"tomato, sliced"
+],
+[
+"2",
+"cheese slices"
+]
+],
+"steps": [
+"Season chicken with paprika, garlic powder, salt and pepper; grill in olive oil 5–6 minutes per side until cooked through. Rest and slice.",
+"Crisp the bacon (if using).",
+"Spread toast with mayo-mustard. Layer: toast, chicken, cheese, toast, bacon, lettuce, tomato, toast.",
+"Secure with skewers, cut into triangles and serve with chips."
+],
+"note": "Repo entry pointed at an unrelated French chicken recipe; rewritten as a chicken club sandwich.",
+"fact": "",
+"total": 30,
+"repo": {
+"name": "Chicken Sandwich",
+"category": "Main Course",
+"cuisine": "France",
+"best_time": "Relaxed weekend cooking & family dinners",
+"saved_count": 2,
+"source": "themealdb",
+"post": {},
+"time_min": 40,
+"time_source": "estimated",
+"calories": 600,
+"calories_source": "estimated",
+"n_ing": 19,
+"n_steps": 12
+},
+"image": null,
+"youtube": null,
+"saved": 2,
+"origin": {
+"place": "Saratoga Springs, New York, USA",
+"place_title": "Saratoga Springs, New York",
+"place_desc": "City in New York, United States",
+"place_extract": "Saratoga Springs is a city in Saratoga County, New York, United States. The population was 28,491 at the 2020 census. The name reflects the presence of mineral springs in the area, which has made Saratoga a popular resort destination for over 200 years. It is home to the Saratoga Race Course, a thoroughbred horse racing track operated by the New York Racing Association, and Saratoga Performing Arts Center, a music and dance venue. The city's official slogan is \"Health, History, and Horses\".",
+"place_url": "https://en.wikipedia.org/wiki/Saratoga_Springs%2C_New_York",
+"image": {
+"src": "img/places/saratoga-springs-new-york.jpg",
+"license": "CC BY-SA 3.0",
+"artist": "UpstateNYer",
+"file_page": "https://commons.wikimedia.org/wiki/File:Downtown_Saratoga_Springs.jpg"
+},
+"dish_title": "Club sandwich",
+"dish_extract": "A club sandwich or clubhouse sandwich is a three-layer sandwich consisting of three slices of bread, sliced poultry, fried bacon strips, lettuce, tomato, and mayonnaise. It is often cut diagonally into quarters or halves and held together by cocktail sticks.",
+"dish_url": "https://en.wikipedia.org/wiki/Club_sandwich"
+}
+},
+{
+"id": "chicken-tikka-rice",
+"name": "Chicken Tikka Masala with Jeera Rice",
+"category": "Main Course",
+"cuisine": "British-Indian",
+"tags": [
+"Non-veg",
+"Creamy",
+"Gluten-free"
+],
+"servings": 4,
+"difficulty": "Medium",
+"prep": 25,
+"cook": 40,
+"extra": "+ 1 h marinating",
+"nutrition": {
+"kcal": 720,
+"protein": 40,
+"carbs": 72,
+"fat": 28,
+"fiber": 4
+},
+"moods": [
+"rainy",
+"weekend",
+"party"
+],
+"mode": "rewritten",
+"ingredients": [
+[
+"600 g",
+"boneless chicken thighs"
+],
+[
+"150 g",
+"yogurt"
+],
+[
+"1 tbsp",
+"ginger-garlic paste"
+],
+[
+"2 tsp",
+"garam masala (divided)"
+],
+[
+"1½ tsp",
+"Kashmiri chilli powder"
+],
+[
+"1 tsp",
+"ground cumin"
+],
+[
+"2 tbsp",
+"butter or oil"
+],
+[
+"1",
+"onion, finely chopped"
+],
+[
+"400 g",
+"crushed tomatoes"
+],
+[
+"120 ml",
+"cream"
+],
+[
+"1 tsp",
+"kasuri methi"
+],
+[
+"1½ cups",
+"basmati rice"
+],
+[
+"1 tsp",
+"cumin seeds"
+],
+[
+"1 tbsp",
+"ghee"
+]
+],
+"steps": [
+"Marinate chicken with yogurt, ginger-garlic paste, 1 tsp garam masala, chilli and cumin for 1 hour; grill or broil until charred.",
+"Sauté onion in butter until golden; add tomatoes and simmer 15 minutes.",
+"Stir in cream, kasuri methi and remaining garam masala; add the tikka and simmer 5–8 minutes.",
+"For jeera rice: crackle cumin in ghee, add rinsed rice and 2¾ cups water with salt; cover and cook 12 minutes on low, rest 5.",
+"Serve the masala over the rice."
+],
+"note": "Repo entry reused a fried rice recipe; rewritten as tikka masala with rice.",
+"fact": "Often credited to Glasgow’s Shish Mahal restaurant (1970s) and long called a British national dish.",
+"total": 65,
+"repo": {
+"name": "Chicken Tikka + Rice",
+"category": "Main Course",
+"cuisine": "Chinese",
+"best_time": "Relaxed weekend cooking & family dinners",
+"saved_count": 2,
+"source": "themealdb",
+"post": {},
+"time_min": 40,
+"time_source": "estimated",
+"calories": 600,
+"calories_source": "estimated",
+"n_ing": 14,
+"n_steps": 12
+},
+"image": null,
+"youtube": null,
+"saved": 2,
+"origin": {
+"place": "Glasgow, Scotland",
+"place_title": "Glasgow",
+"place_desc": "Largest city in Scotland",
+"place_extract": "Glasgow is the most populous city in Scotland, located on the banks of the River Clyde in west central Scotland. It is the third-most populous city in the United Kingdom and comprises 23 wards which represent the areas within the city boundaries. Glasgow is a leading city in Scotland for university education and research, finance, industry, commerce, shopping, culture and fashion, and was commonly referred to as the \"second city of the British Empire\" for much of the Victorian and Edwardian eras.",
+"place_url": "https://en.wikipedia.org/wiki/Glasgow",
+"image": {
+"src": "img/places/glasgow.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "瑞丽江的河水",
+"file_page": "https://commons.wikimedia.org/wiki/File:Glasgow_-_aerial_-_2025-04-17_14.jpg"
+},
+"dish_title": "Chicken tikka masala",
+"dish_extract": "Chicken tikka masala is a curry consisting of roasted marinated chicken pieces in a creamy spiced sauce (masala). It is thought to have been created in Britain, possibly by Ali Ahmed Aslam in Glasgow. It is offered at restaurants around the world and in some of its forms is similar to butter chicken.",
+"dish_url": "https://en.wikipedia.org/wiki/Chicken_tikka_masala"
+}
+},
+{
+"id": "chipotle-chicken-wrap",
+"name": "Chipotle Chicken Wrap",
+"category": "Main Course",
+"cuisine": "Mexican-inspired",
+"tags": [
+"Non-veg",
+"High-protein"
+],
+"servings": 4,
+"difficulty": "Easy",
+"prep": 20,
+"cook": 15,
+"extra": "+ 30 min marinating (optional)",
+"nutrition": {
+"kcal": 560,
+"protein": 40,
+"carbs": 42,
+"fat": 24,
+"fiber": 4
+},
+"moods": [
+"weeknight",
+"mealprep",
+"gym"
+],
+"mode": "completed",
+"ingredients": [
+[
+"500 g",
+"chicken breast or thighs"
+],
+[
+"2–3",
+"chipotle peppers in adobo"
+],
+[
+"3",
+"garlic cloves"
+],
+[
+"1 tbsp",
+"lemon juice (marinade)"
+],
+[
+"to taste",
+"salt & pepper"
+],
+[
+"1 tbsp",
+"oil"
+],
+[
+"½ cup",
+"Greek yogurt (sauce)"
+],
+[
+"2 tbsp",
+"mayonnaise (sauce)"
+],
+[
+"1 tsp",
+"lemon juice (sauce)"
+],
+[
+"¼ tsp",
+"garlic powder (sauce)"
+],
+[
+"1 tbsp",
+"chopped parsley"
+],
+[
+"1 cup",
+"mozzarella, shredded"
+],
+[
+"½",
+"red onion, sliced"
+],
+[
+"1",
+"bell pepper, sliced"
+],
+[
+"4",
+"romaine lettuce leaves"
+],
+[
+"4",
+"large flour tortillas"
+]
+],
+"steps": [
+"Make the marinade by adding chipotle peppers, garlic cloves, lemon juice, salt, and pepper in a food processor. Blend until smooth.",
+"Reserve 1 1/2 tbsp of the marinade for the chipotle sauce.",
+"In a bowl, add the chicken and pour the remaining marinade mixture over the chicken. Add oil and mix well.",
+"Heat a skillet over medium-high heat. Add the chicken and cook until browned and cooked through.",
+"To make the chipotle yogurt sauce, combine yogurt, mayonnaise, lemon juice, salt, pepper, garlic powder, and reserved chipotle sauce in a bowl. Mix well.",
+"Stir in chopped parsley.",
+"Assemble the wrap by adding the chicken, mozzarella cheese, chipotle yogurt sauce, red onion, bell peppers, and Romaine Lettuce in a tortilla.",
+"Place the assembled wrap on a warm skillet over medium heat. Cook for about 2-3 minutes on each side, until the tortilla is crispy and golden brown, and the cheese is melted and gooey. Serve hot and enjoy!",
+"Note: You can adjust the level of heat in the recipe by using more or fewer chipotle peppers. Enjoy!"
+],
+"note": "From the repo (caption) — it had steps but no ingredient list, so ingredients were listed from the steps with estimated amounts.",
+"fact": "",
+"total": 35,
+"repo": {
+"name": "Chipotle Chicken Wrap",
+"category": "Main Course",
+"cuisine": null,
+"best_time": "Relaxed weekend cooking & family dinners",
+"saved_count": 2,
+"source": "caption",
+"post": {},
+"time_min": 40,
+"time_source": "estimated",
+"calories": 600,
+"calories_source": "estimated",
+"n_ing": 0,
+"n_steps": 9
+},
+"image": null,
+"youtube": null,
+"saved": 2,
+"origin": {
+"place": "Mexico",
+"place_title": "Mexico",
+"place_desc": "Country in North America",
+"place_extract": "Mexico, officially the United Mexican States, is a country in North America. It is the northernmost country in Latin America, bordering the United States of America to the north and Guatemala and Belize to the southeast, while having maritime boundaries with the Pacific Ocean to the west, the Caribbean Sea to the southeast, and the Gulf of Mexico to the east. Mexico covers 1,972,550 km2, and is the thirteenth-largest country in the world by land area. With a population around 131 million as of 2025, Mexico is the tenth-most populous country in the world and is home to the largest number of native Spanish speakers. Mexico City is the capital and largest city in Mexico, which ranks among the most populous metropolitan areas in the world.",
+"place_url": "https://en.wikipedia.org/wiki/Mexico",
+"image": {
+"src": "img/places/mexico.jpg",
+"license": "CC BY-SA 2.0",
+"artist": "Flickr user schlaeger",
+"file_page": "https://commons.wikimedia.org/wiki/File:Plaza_de_la_Constitucion_Ciudad_de_Mexico_City.jpg",
+"file": "Plaza de la Constitucion Ciudad de Mexico City.jpg"
+},
+"dish_title": "Chipotle",
+"dish_extract": "A chipotle, or chilpotle, is a smoke-dried ripe jalapeño chili pepper used for seasoning. It is used primarily in Mexican and Mexican-inspired cuisines, such as Tex-Mex and Southwestern United States dishes. It comes in different forms, such as chipotles en adobo.",
+"dish_url": "https://en.wikipedia.org/wiki/Chipotle"
+}
+},
+{
+"id": "chipotle-style-burrito-bowl",
+"name": "Chipotle-Style Burrito Bowl",
+"category": "Main Course",
+"cuisine": "Mexican-American",
+"tags": [
+"Non-veg",
+"Meal prep",
+"Gluten-free",
+"High-protein"
+],
+"servings": 4,
+"difficulty": "Medium",
+"prep": 25,
+"cook": 30,
+"extra": "",
+"nutrition": {
+"kcal": 680,
+"protein": 42,
+"carbs": 78,
+"fat": 22,
+"fiber": 13
+},
+"moods": [
+"mealprep",
+"weeknight",
+"gym"
+],
+"mode": "rewritten",
+"ingredients": [
+[
+"600 g",
+"chicken thighs"
+],
+[
+"2",
+"chipotles in adobo + 1 tbsp adobo"
+],
+[
+"1 tsp each",
+"cumin, oregano, garlic powder"
+],
+[
+"2 tbsp",
+"oil"
+],
+[
+"1½ cups",
+"long-grain rice"
+],
+[
+"1",
+"lime (zest & juice)"
+],
+[
+"3 tbsp",
+"chopped cilantro"
+],
+[
+"1 can (400 g)",
+"black beans, warmed"
+],
+[
+"1 cup",
+"corn salsa or sweet corn"
+],
+[
+"1 cup",
+"pico de gallo / tomato salsa"
+],
+[
+"1",
+"avocado or guacamole"
+],
+[
+"½ cup",
+"sour cream or yogurt"
+],
+[
+"1 cup",
+"shredded lettuce"
+],
+[
+"½ cup",
+"cheese"
+]
+],
+"steps": [
+"Blend chipotles, adobo, spices, 1 tbsp oil and salt; marinate the chicken (15 minutes minimum).",
+"Cook rice; fold in lime zest, juice, cilantro and salt for cilantro-lime rice.",
+"Grill or pan-sear the chicken 5–6 minutes per side; rest and dice.",
+"Warm the beans with a pinch of cumin and salt.",
+"Build bowls: rice, beans, chicken, corn, salsa, lettuce, cheese, avocado and sour cream."
+],
+"note": "Repo entry had no ingredients or steps; recipe written to match the name.",
+"fact": "",
+"total": 55,
+"repo": {
+"name": "Chipotle-Style Burrito Bowl",
+"category": "Main Course",
+"cuisine": "Mexican",
+"best_time": "Relaxed weekend cooking & family dinners",
+"saved_count": 2,
+"source": "estimated",
+"post": {},
+"time_min": 40,
+"time_source": "estimated",
+"calories": 600,
+"calories_source": "estimated",
+"n_ing": 0,
+"n_steps": 0
+},
+"image": null,
+"youtube": null,
+"saved": 2,
+"origin": {
+"place": "Mission District, San Francisco, USA",
+"place_title": "Mission District, San Francisco",
+"place_desc": "Neighborhood in San Francisco",
+"place_extract": "The Mission District, commonly known as the Mission, is a neighborhood in San Francisco, California. One of the oldest neighborhoods in San Francisco, the Mission District's name is derived from Mission San Francisco de Asís, built in 1776 by the Spanish. The Mission is historically one of the most notable centers of the city's Hispanic community.",
+"place_url": "https://en.wikipedia.org/wiki/Mission_District%2C_San_Francisco",
+"image": {
+"src": "img/places/mission-district-san-francisco.jpg",
+"license": "CC BY 2.0",
+"artist": "Dale Cruse from San Francisco, CA, USA",
+"file_page": "https://commons.wikimedia.org/wiki/File:Mission_High_School_(cropped).jpg"
+},
+"dish_title": "Mission burrito",
+"dish_extract": "A Mission burrito is a type of burrito that first became popular during the 1960s in the Mission District of San Francisco, California. It is distinguished from other burritos by its large size and inclusion of rice and other ingredients. A key method to the burrito's construction is to steam the wheat flour tortilla to increase its flexibility prior to adding the other ingredients, although that is not a requirement and burritos may be grilled instead. It has been referred to as one of three major styles of burritos in the United States, following the earlier, simple burrito consisting of beans, rice, and meat. It precedes the California burrito, which was developed around the 1980s in San Diego and contains carne asada, cheese and French-fried potatoes.",
+"dish_url": "https://en.wikipedia.org/wiki/Mission_burrito"
+}
+},
+{
+"id": "chipotle-s-chicken-al-pastor",
+"name": "Chicken Al Pastor (Chipotle-Style)",
+"category": "Main Course",
+"cuisine": "Mexican",
+"tags": [
+"Non-veg",
+"Spicy",
+"Gluten-free"
+],
+"servings": 4,
+"difficulty": "Medium",
+"prep": 20,
+"cook": 20,
+"extra": "+ 1 h marinating",
+"nutrition": {
+"kcal": 380,
+"protein": 36,
+"carbs": 14,
+"fat": 20,
+"fiber": 2
+},
+"moods": [
+"party",
+"weekend",
+"mealprep"
+],
+"mode": "rewritten",
+"ingredients": [
+[
+"700 g",
+"boneless chicken thighs"
+],
+[
+"3",
+"dried guajillo chillies, soaked (or 2 tbsp ancho/guajillo powder)"
+],
+[
+"1–2",
+"chipotles in adobo"
+],
+[
+"3",
+"garlic cloves"
+],
+[
+"½ cup",
+"pineapple chunks (+ more grilled, to serve)"
+],
+[
+"2 tbsp",
+"achiote paste (or 1 tbsp paprika)"
+],
+[
+"2 tbsp",
+"orange juice"
+],
+[
+"1 tbsp",
+"white vinegar"
+],
+[
+"1 tsp",
+"cumin"
+],
+[
+"1 tsp",
+"oregano"
+],
+[
+"1 tbsp",
+"oil"
+],
+[
+"½",
+"onion, cilantro & lime to serve"
+]
+],
+"steps": [
+"Blend chillies, chipotle, garlic, pineapple, achiote, orange juice, vinegar, spices and salt into a smooth marinade.",
+"Coat the chicken and marinate at least 1 hour.",
+"Sear in a hot pan or grill 5–6 minutes per side until charred and cooked through.",
+"Rest, chop finely, and toss with any pan juices.",
+"Serve in tacos or bowls with grilled pineapple, onion, cilantro and lime."
+],
+"note": "Repo entry had no ingredients or steps; recipe written to match the name.",
+"fact": "Al pastor descends from shawarma brought to Puebla by Lebanese immigrants.",
+"total": 40,
+"repo": {
+"name": "Chipotle’S Chicken Al Pastor",
+"category": "Main Course",
+"cuisine": null,
+"best_time": "Relaxed weekend cooking & family dinners",
+"saved_count": 2,
+"source": "estimated",
+"post": {},
+"time_min": 40,
+"time_source": "estimated",
+"calories": 600,
+"calories_source": "estimated",
+"n_ing": 0,
+"n_steps": 0
+},
+"image": null,
+"youtube": null,
+"saved": 2,
+"origin": {
+"place": "Puebla, Mexico",
+"place_title": "Puebla (city)",
+"place_desc": "Metropolis in Puebla, Mexico",
+"place_extract": "Puebla de Zaragoza, formally Heroica Puebla de Zaragoza, formerly Puebla de los Ángeles during colonial times, or known simply as Puebla, is the seat of Puebla Municipality. It is the capital and largest city of the state of Puebla, and the fourth-largest city in Mexico, after Mexico City, Monterrey, and Guadalajara. A planned city from the viceregal era, it is located in the southern part of Central Mexico on the main route between Mexico City and Mexico's main Atlantic port, Veracruz—about 100 km (62 mi) east southeast of Mexico City and about 220 km (140 mi) west of Veracruz.",
+"place_url": "https://en.wikipedia.org/wiki/Puebla_(city)",
+"image": {
+"src": "img/places/puebla-city.jpg",
+"license": "CC BY-SA 3.0",
+"artist": "Diego Delso",
+"file_page": "https://commons.wikimedia.org/wiki/File:Catedral_de_Puebla,_M%C3%A9xico,_2013-10-11,_DD_13.JPG"
+},
+"dish_title": "Al pastor",
+"dish_extract": "Al pastor, tacos al pastor, or tacos de trompo is a preparation of sliced, spit-grilled meat, usually pork, originating in the Central Mexican region of Puebla where they remain most prominent, though it is a common menu item found in taquerías throughout Mexico. The method of preparing and cooking al pastor is based on the lamb shawarma brought by Lebanese immigrants to the region. Al pastor features a flavor palette that uses traditional Mexican adobada (marinade). It is a popular street food that has spread to the United States. In some places of northern Mexico and coastal Mexico, such as in Baja California, taco al pastor is known as taco de trompo or taco de adobada.",
+"dish_url": "https://en.wikipedia.org/wiki/Al_pastor"
+}
+},
+{
+"id": "choco-lava-cake",
+"name": "Healthier Choco Lava Cake",
+"category": "Dessert",
+"cuisine": "International",
+"tags": [
+"Vegetarian",
+"Baking"
+],
+"servings": 4,
+"difficulty": "Medium",
+"prep": 15,
+"cook": 17,
+"extra": "+ 2 h freezing ganache",
+"nutrition": {
+"kcal": 280,
+"protein": 7,
+"carbs": 34,
+"fat": 13,
+"fiber": 4
+},
+"moods": [
+"sweet",
+"movie",
+"festive"
+],
+"mode": "completed",
+"ingredients": [
+[
+"60 g",
+"wholewheat flour or oat flour"
+],
+[
+"20 g",
+"cocoa powder"
+],
+[
+"½ tsp",
+"baking powder"
+],
+[
+"2–3 tbsp",
+"honey (or date paste / maple syrup / jaggery / zero-calorie sweetener)"
+],
+[
+"120 g",
+"milk, room temperature"
+],
+[
+"40 g",
+"dark chocolate, chopped (ganache)"
+],
+[
+"2 tbsp",
+"milk or hot water (ganache)"
+]
+],
+"steps": [
+"Ganache: melt the chocolate with milk/hot water over a double boiler; freeze 2 hours or until set, then scoop into 4 balls.",
+"Whisk flour, cocoa and baking powder; stir in the sweetener and milk to a thick batter (★ written).",
+"Half-fill greased ramekins, press a ganache ball into each, cover with the remaining batter (★).",
+"Bake in a preheated oven at 170–180°C for 15–17 minutes (top firm yet jiggly), or air-fry at 150°C for 15–17 minutes.",
+"Rest 2 minutes, invert and serve warm."
+],
+"note": "Repo caption had gram amounts stripped out; amounts estimated, mixing steps written (★). Baking times are from the caption.",
+"fact": "Molten cake is usually credited to French chefs and to Jean-Georges Vongerichten in New York (1987).",
+"total": 32,
+"repo": {
+"name": "Choco Lava Cake",
+"category": "Dessert",
+"cuisine": null,
+"best_time": "Weekend baking sessions & after-dinner treats",
+"saved_count": 2,
+"source": "caption",
+"post": {},
+"time_min": 45,
+"time_source": "estimated",
+"calories": 420,
+"calories_source": "estimated",
+"n_ing": 12,
+"n_steps": 0
+},
+"image": null,
+"youtube": null,
+"saved": 2,
+"origin": {
+"place": "New York City & France",
+"place_title": "New York City",
+"place_desc": "Most populous city in the United States",
+"place_extract": "New York, often called New York City (NYC), is the most populous city in the United States. It is located at the southern tip of New York State on New York Harbor, one of the world's largest natural harbors. The city comprises five boroughs—Manhattan, Brooklyn, Queens, the Bronx, and Staten Island—each being coextensive with its respective county. It is the geographical and demographic center of both the Northeast megalopolis and the New York metropolitan area, the largest metropolitan area in the United States by both population and urban area. New York is a global center of technology, finance, commerce, culture, entertainment and media, academics and scientific output, the arts and fashion—and as home to the headquarters of the United Nations, international diplomacy. New York City is known for its fast pace and continuous urban energy.",
+"place_url": "https://en.wikipedia.org/wiki/New_York_City",
+"image": {
+"src": "img/places/new-york-city.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "Dllu",
+"file_page": "https://commons.wikimedia.org/wiki/File:View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_(cropped).jpg"
+},
+"dish_title": "Molten chocolate cake",
+"dish_extract": "Molten chocolate cake or runny core cake, is a French dessert that consists of a chocolate cake with a liquid chocolate core. It is named for its molten center, and it is also known as mi-cuit au chocolat, chocolat coulant (\"flowing\"), chocolate lava cake, chocolate fondant, or simply lava cake. It should not be confused with fondant au chocolat, a recipe that contains little flour, but much chocolate and butter, hence melting on the palate.",
+"dish_url": "https://en.wikipedia.org/wiki/Molten_chocolate_cake"
+}
+},
+{
+"id": "dragon-chicken",
+"name": "Dragon Chicken",
+"category": "Entree",
+"cuisine": "Indo-Chinese",
+"tags": [
+"Non-veg",
+"Spicy"
+],
+"servings": 3,
+"difficulty": "Medium",
+"prep": 15,
+"cook": 20,
+"extra": "",
+"nutrition": {
+"kcal": 450,
+"protein": 32,
+"carbs": 26,
+"fat": 24,
+"fiber": 2
+},
+"moods": [
+"movie",
+"latenight",
+"party"
+],
+"mode": "rewritten",
+"ingredients": [
+[
+"400 g",
+"boneless chicken, thin strips"
+],
+[
+"1",
+"egg"
+],
+[
+"3 tbsp",
+"cornflour"
+],
+[
+"1 tbsp",
+"soy sauce (marinade)"
+],
+[
+"1 tsp",
+"ginger-garlic paste"
+],
+[
+"oil",
+"for frying"
+],
+[
+"1 tbsp",
+"chopped garlic"
+],
+[
+"6",
+"dried red chillies (or 1 tsp chilli flakes)"
+],
+[
+"10",
+"cashews"
+],
+[
+"1",
+"onion, sliced"
+],
+[
+"½",
+"red & green capsicum, strips"
+],
+[
+"2 tbsp",
+"Schezwan or red chilli sauce"
+],
+[
+"1 tbsp",
+"ketchup"
+],
+[
+"1 tsp",
+"honey"
+],
+[
+"1 tsp",
+"vinegar"
+],
+[
+"2",
+"spring onions"
+]
+],
+"steps": [
+"Coat chicken strips with egg, cornflour, soy sauce, ginger-garlic paste and salt. Fry until crisp.",
+"In a hot wok, fry cashews till golden, then garlic and dried chillies for 20 seconds.",
+"Add onion and capsicum strips; toss 1 minute on high heat.",
+"Add Schezwan sauce, ketchup, honey and vinegar; toss in the chicken until glossy and coated.",
+"Finish with spring onions."
+],
+"note": "Repo entry pointed at an unrelated French chicken recipe; rewritten as Indo-Chinese dragon chicken.",
+"fact": "",
+"total": 35,
+"repo": {
+"name": "Dragon Chicken",
+"category": "Main Course",
+"cuisine": "France",
+"best_time": "Relaxed weekend cooking & family dinners",
+"saved_count": 2,
+"source": "themealdb",
+"post": {},
+"time_min": 40,
+"time_source": "estimated",
+"calories": 600,
+"calories_source": "estimated",
+"n_ing": 19,
+"n_steps": 12
+},
+"image": null,
+"youtube": null,
+"saved": 2,
+"origin": {
+"place": "Kolkata, India",
+"place_title": "Kolkata",
+"place_desc": "Capital of West Bengal, India",
+"place_extract": "Kolkata, also known as Calcutta, is the capital and largest city of the Indian state of West Bengal. It lies on the eastern bank of the Hooghly River, 80 km (50 mi) west of the border with Bangladesh. It is the primary financial and commercial centre of eastern India and one of the gateways to northeastern India. Kolkata is the seventh most populous city in India with an estimated city proper population of 4.5 million while its metropolitan region Kolkata Metropolitan Area is the third most populous metropolitan region of India with a metro population of over 15 million. Kolkata is regarded by many sources as the cultural capital of India and a historically and culturally significant city in the historic region of Bengal.",
+"place_url": "https://en.wikipedia.org/wiki/Kolkata",
+"image": {
+"src": "img/places/kolkata.jpg",
+"license": "CC BY-SA 4.0",
+"artist": "NalGup20",
+"file_page": "https://commons.wikimedia.org/wiki/File:Kolkata_maidan.jpg"
+},
+"dish_title": "Indian Chinese cuisine",
+"dish_extract": "Indian Chinese cuisine is a distinct style of Chinese cuisine adapted to Indian tastes and spices. Though Asian cuisines have been mixed throughout history all over Asia, the most popular origin story of the fusion food resides with Chinese immigrants to British-ruled India at places like Calcutta. Opening restaurant businesses in the area, these early Chinese food sellers adapted their culinary styles to suit Indian tastes.",
+"dish_url": "https://en.wikipedia.org/wiki/Indian_Chinese_cuisine"
+}
+}
+]
+}

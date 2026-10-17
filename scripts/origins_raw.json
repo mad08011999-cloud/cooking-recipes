@@ -1,0 +1,899 @@
+{
+ "chicken": {
+  "place": "French Basque Country, France",
+  "place_title": "French Basque Country",
+  "place_desc": "Region in southwestern France",
+  "place_extract": "The French Basque Country, or Northern Basque Country, is a region lying on the west of the French department of the Pyrénées-Atlantiques. Since 1 January 2017, it constitutes the Basque Municipal Community presided over by Jean-René Etchegaray.",
+  "place_url": "https://en.wikipedia.org/wiki/French_Basque_Country",
+  "image": {
+   "src": "img/places/french-basque-country.jpg",
+   "license": "CC BY 2.5",
+   "artist": "No machine-readable author provided. Harrieta171 assumed (based on copyright claims).",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Espelette_Fa%C3%A7ade_Piments_(1).jpg",
+   "file": "Espelette Façade Piments (1).jpg"
+  },
+  "dish_title": "Basque cuisine",
+  "dish_extract": "Basque cuisine refers to the cuisine of the Basque Country and includes meats and fish grilled over hot coals, marmitako and lamb stews, cod, Tolosa bean dishes, paprikas from Lekeitio, pintxos, Idiazabal sheep's cheese, txakoli, and Basque cider.",
+  "dish_url": "https://en.wikipedia.org/wiki/Basque_cuisine",
+  "dish_type": "standard"
+ },
+ "paneer": {
+  "place": "Punjab, India",
+  "place_title": "Punjab, India",
+  "place_desc": "State in northwestern India",
+  "place_extract": "Punjab is a state in northwestern India. Forming part of the larger Punjab region of the Indian subcontinent, the state is bordered by the Indian states and union territories of Himachal Pradesh to the north and northeast, Haryana to the south and southeast, Rajasthan to the southwest, Jammu and Kashmir to the north. To the west, it shares an international border with the identically named Pakistani province of Punjab. Chandigarh serves as a shared capital for Punjab as well as Haryana. The state covers an area of 50,362 square kilometres, which is 1.53% of India's total geographical area, making it the 19th-largest Indian state by area out of 28 Indian states. With over 27 million inhabitants, Punjab is the 16th-largest Indian state by population, comprising 23 districts. Punjabi, written in the Gurmukhi script, is the most widely spoken and the official language of the state. The main ethnic group are the Punjabis, with Sikhs (57.7%) and Hindus (38.5%) forming the dominant religious groups. Three of the five traditional Punjab rivers — the Sutlej, Beas, and Ravi — flow through the state.",
+  "place_url": "https://en.wikipedia.org/wiki/Punjab%2C_India",
+  "image": {
+   "src": "img/places/punjab-india.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Utpal Nag",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Golden_Temple,_Amritsar,_Punjab_UNAG.jpg"
+  },
+  "dish_title": "Matar paneer",
+  "dish_extract": "Mattar paneer, also known as matar paneer, muttar paneer, and mutter paneer, is a modern restaurant-style and vegetarian North Indian dish consisting of peas and paneer in a tomato-based sauce, spiced with garam masala.",
+  "dish_url": "https://en.wikipedia.org/wiki/Matar_paneer",
+  "dish_type": "standard"
+ },
+ "butter-chicken": {
+  "place": "Delhi, India",
+  "place_title": "Delhi",
+  "place_desc": "Megacity and union territory of India",
+  "place_extract": "Delhi, officially the National Capital Territory (NCT) of Delhi, is a megacity and a union territory of India containing New Delhi, the capital of India. Straddling the Yamuna river, but spread chiefly to the west, or beyond its right bank, Delhi shares borders with the state of Uttar Pradesh in the east and with the state of Haryana in the remaining directions. Delhi became a union territory on 1 November 1956 and the NCT in 1995. The NCT covers an area of 1,484 square kilometres (573 sq mi). According to the 2011 census, Delhi's city proper population was over 11 million, while the NCT's population was about 16.8 million.",
+  "place_url": "https://en.wikipedia.org/wiki/Delhi",
+  "image": {
+   "src": "img/places/delhi.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Marcin Białek",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Jama_Masjid_2011.jpg"
+  },
+  "dish_title": "Butter chicken",
+  "dish_extract": "Butter chicken or murgh makhani is a curry made from chicken cooked in a spiced tomato and butter-based gravy. The gravy is known for its creamy, rich texture. It is similar to chicken tikka masala, which uses a tomato paste. The dish was invented by Indian chefs Kundan Lal Gujral and Kundan Lal Jaggi and is associated with their Moti Mahal restaurant in Daryaganj, Delhi which popularized it in the 1950s. It has since become a staple cuisine of the city.",
+  "dish_url": "https://en.wikipedia.org/wiki/Butter_chicken",
+  "dish_type": "standard"
+ },
+ "chocolate": {
+  "place": "Uruguay & Argentina (Río de la Plata)",
+  "place_title": "Uruguay",
+  "place_desc": "Country in South America",
+  "place_extract": "Uruguay, officially the Oriental Republic of Uruguay, is a country in southeastern South America. It shares borders with Argentina to its west and southwest and Brazil to its north and northeast, while bordering the Río de la Plata to the south and the Atlantic Ocean to the southeast. It is part of the Southern Cone region of South America. Uruguay covers an area of approximately 176,215 square kilometers (68,037 sq mi). It has a population of almost 3.5 million people, of whom nearly 2 million live in the metropolitan area of its capital and largest city, Montevideo.",
+  "place_url": "https://en.wikipedia.org/wiki/Uruguay",
+  "image": {
+   "src": "img/places/uruguay.jpg",
+   "license": "CC BY-SA 2.0",
+   "artist": "FLASHPACKER TRAVELGUIDE",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Rambla_-_beach_-_Strand_-_Montevideo_-_Uruguay_(34470771543).jpg",
+   "file": "Rambla - beach - Strand - Montevideo - Uruguay (34470771543).jpg"
+  },
+  "dish_title": "Alfajor",
+  "dish_extract": "An alfajor or alajú is a traditional confection. Originally from present-day Spain, it is found now in Argentina, Bolivia, Southern Brazil, Chile, Colombia, Dominican Republic, Ecuador, El Salvador, Southern France, Paraguay, Peru, the Philippines, Uruguay, and Venezuela.",
+  "dish_url": "https://en.wikipedia.org/wiki/Alfajor",
+  "dish_type": "standard"
+ },
+ "chilli-chicken": {
+  "place": "Kolkata, India",
+  "place_title": "Kolkata",
+  "place_desc": "Capital of West Bengal, India",
+  "place_extract": "Kolkata, also known as Calcutta, is the capital and largest city of the Indian state of West Bengal. It lies on the eastern bank of the Hooghly River, 80 km (50 mi) west of the border with Bangladesh. It is the primary financial and commercial centre of eastern India and one of the gateways to northeastern India. Kolkata is the seventh most populous city in India with an estimated city proper population of 4.5 million while its metropolitan region Kolkata Metropolitan Area is the third most populous metropolitan region of India with a metro population of over 15 million. Kolkata is regarded by many sources as the cultural capital of India and a historically and culturally significant city in the historic region of Bengal.",
+  "place_url": "https://en.wikipedia.org/wiki/Kolkata",
+  "image": {
+   "src": "img/places/kolkata.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "NalGup20",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Kolkata_maidan.jpg"
+  },
+  "dish_title": "Chilli chicken",
+  "dish_extract": "Chilli chicken is a popular Indo-Chinese dish that uses chicken, and is of Chinese heritage. In India, this may include a variety of dry chicken preparations. Though mainly boneless chicken is used in this dish, some recipes also use bone-in chicken.",
+  "dish_url": "https://en.wikipedia.org/wiki/Chilli_chicken",
+  "dish_type": "standard"
+ },
+ "sandwich": {
+  "place": "Punta del Este, Uruguay",
+  "place_title": "Punta del Este",
+  "place_desc": "Uruguayan seaside resort city",
+  "place_extract": "Punta del Este is a seaside city and peninsula on the Atlantic Coast in the Maldonado Department of southeastern Uruguay. Starting as a small town, Punta del Este grew to become a resort for the Latin and North American jet set and tourists. The city has been called \"The Hamptons of South America\", as well as \"The Monaco of the South\", \"The Miami Beach of South America\", \"The Pearl of the Atlantic\", and \"The St. Tropez of South America\". Many famous people have visited, resided, or acquired vacation properties in Punta del Este and its surroundings.",
+  "place_url": "https://en.wikipedia.org/wiki/Punta_del_Este",
+  "image": {
+   "src": "img/places/punta-del-este.jpg",
+   "license": "CC BY-SA 3.0",
+   "artist": "Марсело Кампи",
+   "file_page": "https://commons.wikimedia.org/wiki/File:%D0%9F%D1%83%D0%BD%D1%82%D0%B0-%D0%B4%D0%B5%D0%BB%D1%8C-%D0%AD%D1%81%D1%82%D0%B5.jpg"
+  },
+  "dish_title": "Chivito (sandwich)",
+  "dish_extract": "Chivito is the national dish of Uruguay. It is a sandwich of sliced beefsteak (churrasco), mozzarella, ham, tomatoes, mustard, mayonnaise and black or green olives. A chivito commonly also includes bacon and fried or hard-boiled eggs. It is served in a bun, often accompanied by French-fried potatoes. Other ingredients, such as arugula, green peas, Catalan peppers, caramelized or diced onions, pan-fried or cured red peppers.",
+  "dish_url": "https://en.wikipedia.org/wiki/Chivito_(sandwich)",
+  "dish_type": "standard"
+ },
+ "chicken-curry": {
+  "place": "Tokyo, Japan",
+  "place_title": "Tokyo",
+  "place_desc": "Capital and most populous city in Japan",
+  "place_extract": "Tokyo, officially the Tokyo Metropolis, is the capital and most populous city of Japan. The population of the city proper was over 14 million as of 2023. The Greater Tokyo Area, which includes Tokyo and parts of six neighboring prefectures, is the third-most populous metropolitan area in the world, with 33 million residents as of 2025.",
+  "place_url": "https://en.wikipedia.org/wiki/Tokyo",
+  "image": {
+   "src": "img/places/tokyo.jpg",
+   "license": "CC BY-SA 3.0",
+   "artist": "Morio",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Skyscrapers_of_Shinjuku_2009_January.jpg"
+  },
+  "dish_title": "Katsu curry",
+  "dish_extract": "Katsu curry is a Japanese dish consisting of tonkatsu served with Japanese rice and curry. It is served on a large plate and is typically eaten using a spoon or fork. The cutlet is usually precut into strips, eliminating the need for a knife.",
+  "dish_url": "https://en.wikipedia.org/wiki/Katsu_curry",
+  "dish_type": "standard"
+ },
+ "fried-chicken": {
+  "place": "Southern United States",
+  "place_title": "Southern United States",
+  "place_desc": "One of the four census regions of the US",
+  "place_extract": "The Southern United States is one of the four census regions of the United States as defined by the U.S. Census Bureau. It is between the Atlantic Ocean and the Western United States, with the Midwestern and Northeastern United States to its north and the Gulf of Mexico and Mexico to its south. Historically, the South was defined as all states south of the 18th-century Mason–Dixon line, the Ohio River, and the 36°30′ parallel. Within the South are different subregions such as the Southeast, South Central, Upper South, and Deep South. Maryland, Delaware, Washington, D.C., and Virginia have become more culturally, economically, and politically aligned in certain aspects with the Northeastern United States and are sometimes identified as part of the Northeast or Mid-Atlantic. The U.S. Census Bureau continues to define all four places as formally being in the South.",
+  "place_url": "https://en.wikipedia.org/wiki/Southern_United_States",
+  "image": {
+   "src": "img/places/southern-united-states.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Jrozwado",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Savannah,_GA_-_Historic_District_(3).jpg",
+   "file": "Savannah, GA - Historic District (3).jpg"
+  },
+  "dish_title": "Fried chicken",
+  "dish_extract": "Fried chicken, more formally known as Southern fried chicken, is a dish consisting of chicken pieces, \ncoated with seasoned flour or batter, that are pan-fried, deep-fried, pressure-fried, or air-fried. The breading adds a crisp coating or crust to the exterior of the chicken while retaining juices in the meat. Broiler chickens are most commonly used.",
+  "dish_url": "https://en.wikipedia.org/wiki/Fried_chicken",
+  "dish_type": "standard"
+ },
+ "chicken-65": {
+  "place": "Chennai, Tamil Nadu, India",
+  "place_title": "Chennai",
+  "place_desc": "Capital of Tamil Nadu, India",
+  "place_extract": "Chennai, also known as Madras, is the capital and largest city of Tamil Nadu, the southernmost state of India. It is located on the Coromandel Coast of the Bay of Bengal. As per the 2011 Indian census, Chennai is the sixth-most-populous city in India and forms the fourth-most-populous urban agglomeration. The city is coterminous with Chennai district, which together with the adjoining suburbs constitutes the Chennai Metropolitan Area, one of the largest metropolitan areas of India. It is administered by the Greater Chennai Corporation, which was incorporated in 1688, and is the second oldest municipal corporation in the world after the City of London Corporation. Being the capital of the state, it houses major government institutions including the Tamil Nadu Legislative Assembly, and the Madras High Court.",
+  "place_url": "https://en.wikipedia.org/wiki/Chennai",
+  "image": {
+   "src": "img/places/chennai.jpg",
+   "license": "CC BY-SA 2.0",
+   "artist": "jamal haider from india",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Chennai_Central.jpg"
+  },
+  "dish_title": "Chicken 65",
+  "dish_extract": "Chicken 65 is a spicy, deep-fried chicken dish originating from Hotel Buhari, Chennai, India, as an entrée, or quick snack. The flavour of the dish can be attributed to red chillies, but the exact set of ingredients for the recipe can vary. It is prepared using boneless chicken and is usually served with an onion and lemon garnish. Vegetarian variants such as \"Paneer 65\" or \"Gobhi 65\" use paneer or cauliflower instead. While the name \"Chicken 65\" is universally used to refer to the dish, there are many different theories claiming its origins.",
+  "dish_url": "https://en.wikipedia.org/wiki/Chicken_65",
+  "dish_type": "standard"
+ },
+ "chicken-tikka": {
+  "place": "Punjab region (India & Pakistan)",
+  "place_title": "Punjab",
+  "place_desc": "Geographical region in South Asia",
+  "place_extract": "Punjab is a geographical, ethnolinguistic, and historical region in South Asia, located in its northwestern part, comprising areas of modern-day Pakistan and northwestern India. Lahore is its largest city and historic capital, with other major cities including Faisalabad, Rawalpindi, Gujranwala, Multan, and Sialkot in Pakistan; alongside Ludhiana, Amritsar, Chandigarh, Jalandhar, and Patiala in India.",
+  "place_url": "https://en.wikipedia.org/wiki/Punjab",
+  "image": {
+   "src": "img/places/punjab.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Dey.sandip",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Harmandir_Sahib,_Amritsar,_India.jpg",
+   "file": "Harmandir Sahib, Amritsar, India.jpg"
+  },
+  "dish_title": "Chicken tikka",
+  "dish_extract": "Chicken tikka is a chicken dish in South Asia and amongst the South Asian diaspora. It derives from Mughal cuisine, as the Mughals brought the tandoor oven from Central Asia and the Persian habit of marinating meat in yogurt, combined with the Indian habit of cooking with spices. The dish gave rise to the British chicken tikka masala.",
+  "dish_url": "https://en.wikipedia.org/wiki/Chicken_tikka",
+  "dish_type": "standard"
+ },
+ "potatoes": {
+  "place": "Quebec, Canada (maple country)",
+  "place_title": "Quebec",
+  "place_desc": "Province of Canada",
+  "place_extract": "Quebec is Canada's largest province by area. Located in Central Canada, it is the country's only Francophone-majority province. It is home to speakers of Québécois French. It shares borders with Ontario to the west, Newfoundland and Labrador to the northeast, New Brunswick to the southeast and a coastal border with the territory of Nunavut. To the south, it borders the United States. Quebec has a population of around eight million, making it Canada's second-most populous province, behind Ontario.",
+  "place_url": "https://en.wikipedia.org/wiki/Quebec",
+  "image": {
+   "src": "img/places/quebec.jpg",
+   "license": "Public domain",
+   "artist": "User: (WT-shared) ED01 at  wts wikivoyage",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Chateau_Frontenac,_Quebec_City.jpg",
+   "file": "Chateau Frontenac, Quebec City.jpg"
+  },
+  "dish_title": "Home fries",
+  "dish_extract": "Home fries, house fries (US), fried potatoes, Bratkartoffeln (German), or bistro potatoes is a type of basic potato dish made by pan- or skillet-frying chunked, sliced, wedged or diced potatoes that are sometimes unpeeled and may have been par-cooked by boiling, baking, steaming, or microwaving. They are sometimes served as a substitute for hash browns.",
+  "dish_url": "https://en.wikipedia.org/wiki/Home_fries",
+  "dish_type": "standard"
+ },
+ "biryani": {
+  "place": "Lucknow, Uttar Pradesh, India",
+  "place_title": "Lucknow",
+  "place_desc": "Capital of Uttar Pradesh, India",
+  "place_extract": "Lucknow is a metropolis and the second largest city of the Indian state of Uttar Pradesh where it serves as the capital and the administrative headquarters of the eponymous district and division. The city had a population of 2.8 million according to the 2011 census, making it the eleventh most populous city and the twelfth-most populous urban agglomeration of India. It is an important centre of education, commerce, aerospace, finance, pharmaceuticals, information technology, design, gastronomy, literature, arts, tourism, music, and poetry. Lucknow, along with Agra and Varanasi, forms the backbone of the Uttar Pradesh Heritage Arc.",
+  "place_url": "https://en.wikipedia.org/wiki/Lucknow",
+  "image": {
+   "src": "img/places/lucknow.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Mohit",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Harzratganj_Market,_Lucknow.jpg"
+  },
+  "dish_title": "Biryani",
+  "dish_extract": "Biryani is a mixed rice dish traditionally made with spiced meat, seafood, or vegetables. It was present in Mughal-era India, though whether it was created there is debated. It is thought to derive from a Persian rice dish, either pilau or birinj biryan. The dish makes use of slow-cooking as in Persian pilau, combined with Persian-style yoghurt-marinated meat and a spicy Indian style of cooking; it was likely developed in the Mughal court kitchens. It is also possible that biryani was brought to South India before the Mughal era, or that pilau was brought to India and biryani was developed from it before being adopted by the Mughals.",
+  "dish_url": "https://en.wikipedia.org/wiki/Biryani",
+  "dish_type": "standard"
+ },
+ "chicken-fried-rice": {
+  "place": "Yangzhou, Jiangsu, China",
+  "place_title": "Yangzhou",
+  "place_desc": "Prefecture-level city in Jiangsu, People's Republic of China",
+  "place_extract": "Yangzhou is a prefecture-level city in central Jiangsu Province, East China. Sitting on the north bank of the Yangtze, it borders the provincial capital Nanjing to the southwest, Huai'an to the north, Yancheng to the northeast, Taizhou to the east, and Zhenjiang across the river to the south. Its population was 4,559,797 at the 2020 census and its urban area is home to 2,635,435 inhabitants, including three urban districts, currently in the agglomeration.",
+  "place_url": "https://en.wikipedia.org/wiki/Yangzhou",
+  "image": {
+   "src": "img/places/yangzhou.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Gisling",
+   "file_page": "https://commons.wikimedia.org/wiki/File:The_Five_Pavilion_bridge.jpg"
+  },
+  "dish_title": "Fried rice",
+  "dish_extract": "Fried rice is a dish of cooked rice that has been stir-fried in a wok or a frying pan and is usually mixed with other ingredients such as eggs, vegetables, seafood, or meat. It is often eaten as a main dish or as an accompaniment to another dish. Fried rice is a popular component of East Asian, Southeast Asian and South Asian cuisines. As a homemade dish, fried rice is typically made with ingredients left over from other dishes, leading to countless variations. Fried rice first developed during the Sui dynasty in China and later spread across the world through the migration of the Chinese diaspora.",
+  "dish_url": "https://en.wikipedia.org/wiki/Fried_rice",
+  "dish_type": "standard"
+ },
+ "tandoori-chicken": {
+  "place": "Peshawar → Delhi",
+  "place_title": "Peshawar",
+  "place_desc": "Capital of Khyber Pakhtunkhwa, Pakistan",
+  "place_extract": "Peshawar is the capital and the largest city in the Pakistani province of Khyber Pakhtunkhwa. It is the eighth-most populous Pakistani city, with a population of over 1.9 million. It is located in the north-west of the country, lying in the Peshawar Valley, a broad area situated east of the Khyber Pass.",
+  "place_url": "https://en.wikipedia.org/wiki/Peshawar",
+  "image": {
+   "src": "img/places/peshawar.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Zafarmaini",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Islamia_College_Peshawar_(Public_Sector_University),_Khyber_Pakhtunkhwa,_Pakistan_cropped.jpg"
+  },
+  "dish_title": "Tandoori chicken",
+  "dish_extract": "Tandoori chicken is an Indian roasted chicken dish with the meat marinated in yogurt & spices and roasted in a tandoor, a cylindrical clay oven. The dish is now popular worldwide. The modern form of the dish was popularised by the Moti Mahal restaurant in New Delhi, India in the late 1940s.",
+  "dish_url": "https://en.wikipedia.org/wiki/Tandoori_chicken",
+  "dish_type": "standard"
+ },
+ "egg-fried-rice": {
+  "place": "Yangzhou, Jiangsu, China",
+  "place_title": "Yangzhou",
+  "place_desc": "Prefecture-level city in Jiangsu, People's Republic of China",
+  "place_extract": "Yangzhou is a prefecture-level city in central Jiangsu Province, East China. Sitting on the north bank of the Yangtze, it borders the provincial capital Nanjing to the southwest, Huai'an to the north, Yancheng to the northeast, Taizhou to the east, and Zhenjiang across the river to the south. Its population was 4,559,797 at the 2020 census and its urban area is home to 2,635,435 inhabitants, including three urban districts, currently in the agglomeration.",
+  "place_url": "https://en.wikipedia.org/wiki/Yangzhou",
+  "image": {
+   "src": "img/places/yangzhou.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Gisling",
+   "file_page": "https://commons.wikimedia.org/wiki/File:The_Five_Pavilion_bridge.jpg"
+  },
+  "dish_title": "Yangzhou fried rice",
+  "dish_extract": "Yangzhou fried rice, also known by several other spellings and names, is a popular Chinese wok-fried rice dish. There are many varieties but it most properly describes egg fried rice with mixed vegetables and two forms of protein, typically pork and shrimp with scallions.",
+  "dish_url": "https://en.wikipedia.org/wiki/Yangzhou_fried_rice",
+  "dish_type": "standard"
+ },
+ "manchurian": {
+  "place": "Mumbai, India",
+  "place_title": "Mumbai",
+  "place_desc": "Capital of Maharashtra, India",
+  "place_extract": "Mumbai, also known as Bombay, is the capital city of the Indian state of Maharashtra and the financial capital of India. Located on the Konkan coast along the west coast of India, it has a deep natural harbour. As per the 2011 Census of India, it is the most populous city proper in India, with a population of almost 12.5 million, while the Mumbai Metropolitan Region, which is among the most populous metropolitan areas in the world, has a population of over 20 million. The city forms part of the Mumbai City and Mumbai Suburban districts and is administered by the Brihanmumbai Municipal Corporation, which was established in 1888.",
+  "place_url": "https://en.wikipedia.org/wiki/Mumbai",
+  "image": {
+   "src": "img/places/mumbai.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Rutiknatekar",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Mumbai_Bandra-Worli_Sea_Link.jpg"
+  },
+  "dish_title": "Kati roll",
+  "dish_extract": "A kati roll is a street-food dish originating from Kolkata, West Bengal, India. In its original form, it is a skewer-roasted kebab wrapped in a paratha bread, although over the years many variants have evolved all of which now go under the generic name of kati roll. Today, mostly any wrap containing a filling enfolded in an Indian flatbread (roti) is called a kati roll. In native Bengali, the word kati roughly translates to 'stick', referring to how they were originally made. In Bengal, the delicacy is simply known as roll. Kati rolls normally contain coriander chutney, egg, and chicken but the types may vary.",
+  "dish_url": "https://en.wikipedia.org/wiki/Kati_roll",
+  "dish_type": "standard"
+ },
+ "full-recipe": {
+  "place": "Guangdong, China",
+  "place_title": "Guangdong",
+  "place_desc": "Province in South China",
+  "place_extract": "Guangdong is a coastal province in South China, on the north shore of the South China Sea with Guangzhou as the capital. With a population of 128.590 million across a total area of about 179,800 km2 (69,400 sq mi), Guangdong is the Chinese province with the largest GDP, the largest population and the 15th-largest by area, as well as the fifth-most populous country subdivision and the 5th largest country subdivision by GDP in the world.",
+  "place_url": "https://en.wikipedia.org/wiki/Guangdong",
+  "image": {
+   "src": "img/places/guangdong.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Charlie fong",
+   "file_page": "https://commons.wikimedia.org/wiki/File:China_Resources_Headquarters%26Shenzhen_Bay_gymnasium_in_Nanshan_District2020.jpg"
+  },
+  "dish_title": "Five-spice powder",
+  "dish_extract": "Five-spice powder is a spice mixture of five or more spices—commonly star anise, cloves, Chinese cinnamon, Sichuan pepper, and fennel seeds—used predominantly in almost all branches of Chinese cuisine. The five flavors of the spices reflect the five traditional Chinese elements and flavors. The addition of eight other spices creates thirteen-spice powder (十三香), which is used less commonly.",
+  "dish_url": "https://en.wikipedia.org/wiki/Five-spice_powder",
+  "dish_type": "standard"
+ },
+ "chicken-biryani": {
+  "place": "Hyderabad, Telangana, India",
+  "place_title": "Hyderabad",
+  "place_desc": "Capital of Telangana, India",
+  "place_extract": "Hyderabad is the capital and largest city of the Indian state of Telangana. It occupies 650 km2 (250 sq mi) on the Deccan Plateau along the banks of the Musi River, in the northern part of Southern India. With an average altitude of 536 m (1,759 ft), much of Hyderabad is situated on hilly terrain around artificial lakes, including the Hussain Sagar lake, predating the city's founding, in the north of the city centre. According to the 2011 census of India, Hyderabad is the fourth-most populous city in India, with a population of 6.9 million residents within the city limits and 9.7 million residents in the metropolitan region, making it the sixth-most populous metropolitan area in India.",
+  "place_url": "https://en.wikipedia.org/wiki/Hyderabad",
+  "image": {
+   "src": "img/places/hyderabad.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "iMahesh",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Durgam_cheruvu_and_Hitech_CIty.jpg"
+  },
+  "dish_title": "Hyderabadi biryani",
+  "dish_extract": "Hyderabadi biryani is a style of biryani originating from Hyderabad, India made with basmati rice and meat. Originating in the kitchens of the Nizam of Hyderabad, it combines elements of Hyderabadi and Mughlai cuisines. Hyderabad biryani is a key dish in Hyderabadi cuisine and it is so famous that the dish is considered synonymous with the city of Hyderabad.",
+  "dish_url": "https://en.wikipedia.org/wiki/Hyderabadi_biryani",
+  "dish_type": "standard"
+ },
+ "chicken-manchurian": {
+  "place": "Mumbai, India",
+  "place_title": "Mumbai",
+  "place_desc": "Capital of Maharashtra, India",
+  "place_extract": "Mumbai, also known as Bombay, is the capital city of the Indian state of Maharashtra and the financial capital of India. Located on the Konkan coast along the west coast of India, it has a deep natural harbour. As per the 2011 Census of India, it is the most populous city proper in India, with a population of almost 12.5 million, while the Mumbai Metropolitan Region, which is among the most populous metropolitan areas in the world, has a population of over 20 million. The city forms part of the Mumbai City and Mumbai Suburban districts and is administered by the Brihanmumbai Municipal Corporation, which was established in 1888.",
+  "place_url": "https://en.wikipedia.org/wiki/Mumbai",
+  "image": {
+   "src": "img/places/mumbai.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Rutiknatekar",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Mumbai_Bandra-Worli_Sea_Link.jpg"
+  },
+  "dish_title": "Manchurian (dish)",
+  "dish_extract": "Manchurian is a class of Indian Chinese dishes made by roughly chopping and deep-frying ingredients such as chicken, cauliflower (gobi), prawns, fish, mutton, and paneer, and then sautéeing them in a sauce flavored with soy sauce. While not a Chinese dish, it is the result of the adaptation of Chinese cooking and seasoning techniques specifically aimed to suit Indian tastes and has become a staple of Indian-Chinese cuisine.",
+  "dish_url": "https://en.wikipedia.org/wiki/Manchurian_(dish)",
+  "dish_type": "standard"
+ },
+ "garlic-chicken": {
+  "place": "Andalusia, Spain",
+  "place_title": "Andalusia",
+  "place_desc": "Autonomous community of Spain",
+  "place_extract": "Andalusia is the southernmost autonomous community in Peninsular Spain, located in the south of the Iberian Peninsula, in southwestern Europe. It is the most populous and the second-largest autonomous community in the country. It is officially recognized as a historical nationality and a national reality. The territory is divided into eight provinces: Almería, Cádiz, Córdoba, Granada, Huelva, Jaén, Málaga, and Seville. Its capital city is Seville, while the seat of its High Court of Justice is the city of Granada.",
+  "place_url": "https://en.wikipedia.org/wiki/Andalusia",
+  "image": {
+   "src": "img/places/andalusia.jpg",
+   "license": "Public domain",
+   "artist": "Jebulon",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Alhambra_in_the_evening.jpg",
+   "file": "Alhambra in the evening.jpg"
+  },
+  "dish_title": "Al ajillo",
+  "dish_extract": "Al ajillo is a typical cooking style utilizing garlic in the cuisines of the Spanish-speaking world. The origin is Spain, with influence by the Moors. Beyond Spain, the style has influenced Latin America and broader Hispanic cuisines through colonization and migration, appearing in adaptations.",
+  "dish_url": "https://en.wikipedia.org/wiki/Al_ajillo",
+  "dish_type": "standard"
+ },
+ "korean-popcorn-chicken": {
+  "place": "Seoul, South Korea",
+  "place_title": "Seoul",
+  "place_desc": "Capital and largest city of South Korea",
+  "place_extract": "Seoul, officially Seoul Special Metropolitan City, is the capital and largest city of South Korea, and the largest city in the whole of Korea. The broader Seoul Metropolitan Area, encompassing Seoul, Gyeonggi Province and Incheon, emerged as the world's sixth largest metropolitan economy in 2022, behind New York, Tokyo, Los Angeles, Paris, and London, and hosts more than half of South Korea's population. Although Seoul's population peaked at over 10 million, it has gradually decreased since 2014, standing at about 9.6 million residents as of 2024.",
+  "place_url": "https://en.wikipedia.org/wiki/Seoul",
+  "image": {
+   "src": "img/places/seoul.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Eunmi Park",
+   "file_page": "https://commons.wikimedia.org/wiki/File:%EC%A4%91%ED%99%94%EC%A0%84%EC%9D%98_%EB%82%AE.jpg"
+  },
+  "dish_title": "Korean fried chicken",
+  "dish_extract": "Korean fried chicken, in Korean chikin, refers to a variety of fried chicken dishes created in South Korea. These include the basic huraideu-chicken and the spicy yangnyeom chicken. In South Korea, fried chicken is consumed as a meal, an appetizer, anju, or as an after-meal snack.",
+  "dish_url": "https://en.wikipedia.org/wiki/Korean_fried_chicken",
+  "dish_type": "standard"
+ },
+ "mixture": {
+  "place": "Rajasthan, India",
+  "place_title": "Rajasthan",
+  "place_desc": "State in northwestern India",
+  "place_extract": "Rajasthan is a state in northwestern India. It is the largest Indian state by area and the seventh largest by population. It covers 342,239 square kilometres (132,139 mi2) or 10.4 per cent of India's total geographical area. It is on India's northwestern side, where it comprises most of the wide and inhospitable Thar Desert and shares a border with the Pakistani provinces of Punjab to the northwest and Sindh to the west, along the Sutlej-Indus River valley. It is bordered by five other Indian states: Punjab to the north; Haryana and Uttar Pradesh to the northeast; Madhya Pradesh to the southeast; and Gujarat to the southwest. Its geographical location is 23°3' to 30°12' North latitude and 69°30' to 78°17' East longitude, with the Tropic of Cancer passing through its southernmost tip.",
+  "place_url": "https://en.wikipedia.org/wiki/Rajasthan",
+  "image": {
+   "src": "img/places/rajasthan.jpg",
+   "license": "CC BY-SA 3.0",
+   "artist": "",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Thar_Khuri.jpg"
+  },
+  "dish_title": "Papadam",
+  "dish_extract": "A papadam is a snack that originated in the Indian subcontinent. Dough of black gram bean flour is either deep-fried or cooked with dry heat until crunchy. Other flours made from lentils, chickpeas, rice, tapioca, millet or potato are also used. Papadam is typically served as an accompaniment to a meal in India, Pakistan, Bangladesh, Nepal, Sri Lanka and the Caribbean or as an appetizer, often with dips such as chutneys, or toppings like chopped onions and chili peppers.",
+  "dish_url": "https://en.wikipedia.org/wiki/Papadam",
+  "dish_type": "standard"
+ },
+ "paneer-tikka": {
+  "place": "Punjab, India",
+  "place_title": "Punjab, India",
+  "place_desc": "State in northwestern India",
+  "place_extract": "Punjab is a state in northwestern India. Forming part of the larger Punjab region of the Indian subcontinent, the state is bordered by the Indian states and union territories of Himachal Pradesh to the north and northeast, Haryana to the south and southeast, Rajasthan to the southwest, Jammu and Kashmir to the north. To the west, it shares an international border with the identically named Pakistani province of Punjab. Chandigarh serves as a shared capital for Punjab as well as Haryana. The state covers an area of 50,362 square kilometres, which is 1.53% of India's total geographical area, making it the 19th-largest Indian state by area out of 28 Indian states. With over 27 million inhabitants, Punjab is the 16th-largest Indian state by population, comprising 23 districts. Punjabi, written in the Gurmukhi script, is the most widely spoken and the official language of the state. The main ethnic group are the Punjabis, with Sikhs (57.7%) and Hindus (38.5%) forming the dominant religious groups. Three of the five traditional Punjab rivers — the Sutlej, Beas, and Ravi — flow through the state.",
+  "place_url": "https://en.wikipedia.org/wiki/Punjab%2C_India",
+  "image": {
+   "src": "img/places/punjab-india.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Utpal Nag",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Golden_Temple,_Amritsar,_Punjab_UNAG.jpg"
+  },
+  "dish_title": "Paneer tikka",
+  "dish_extract": "Paneer tikka or Paneer Soola or Chhena Soola is an Indian dish made from chunks of paneer or chhena marinated in spices and grilled in a tandoor. It is a vegetarian alternative to chicken tikka and other meat dishes. The dish is popular in India and is also available in countries with an Indian diaspora.",
+  "dish_url": "https://en.wikipedia.org/wiki/Paneer_tikka",
+  "dish_type": "standard"
+ },
+ "bang-bang-chicken": {
+  "place": "Leshan, Sichuan, China",
+  "place_title": "Leshan",
+  "place_desc": "Prefecture-level city in Sichuan, People's Republic of China",
+  "place_extract": "Leshan, formerly known as Jiading and Jiazhou, is a prefecture-level city located at the confluence of the Dadu, Min and Qingyi rivers in Sichuan province, China. By the end of 2024, the registered population of the city is 3.45 million. About 120 km (75 mi) from the provincial capital Chengdu, Leshan is a transportation hub and regional center in southern Sichuan. A historical and cultural city, Leshan is famous for world heritage sites Mount Emei and Leshan Giant Buddha, as well as for its rich food culture.",
+  "place_url": "https://en.wikipedia.org/wiki/Leshan",
+  "image": {
+   "src": "img/places/leshan.jpg",
+   "license": "CC BY 2.0",
+   "artist": "xiquinhosilva",
+   "file_page": "https://commons.wikimedia.org/wiki/File:36275-Leshan_(49067653383).jpg"
+  },
+  "dish_title": "Bang bang chicken",
+  "dish_extract": "Bang bang chicken, also known by variant names such as bam bam chicken or bon bon chicken, is a popular chicken dish in Chinese cuisine. The name 'bang bang chicken' is derived from the Chinese word for stick, 'bàng'(棒), referring to the baton or cudgel traditionally used to tenderize the meat.",
+  "dish_url": "https://en.wikipedia.org/wiki/Bang_bang_chicken",
+  "dish_type": "standard"
+ },
+ "butter-garlic-chicken": {
+  "place": "France",
+  "place_title": "France",
+  "place_desc": "Country primarily in Western Europe",
+  "place_extract": "France, officially the French Republic, is a country primarily located in Western Europe. Its overseas regions and territories include French Guiana in South America, Saint Pierre and Miquelon in the North Atlantic, the French West Indies, and many islands in Oceania and the Indian Ocean. Metropolitan France shares borders with Belgium and Luxembourg to the north; Germany to the northeast; Switzerland to the east; Italy and Monaco to the southeast; Andorra and Spain to the south; and a maritime border with the United Kingdom to the northwest. Its metropolitan area extends from the Rhine to the Atlantic Ocean and from the Mediterranean Sea to the English Channel and the North Sea. Its 18 integral regions—five of which are overseas—span a combined area of 632,702 km2 (244,288 sq mi), with a total population estimated at over 69.1 million in 2026. Its capital, largest city and main cultural and economic centre is Paris, with a metropolitan population of over 13 million.",
+  "place_url": "https://en.wikipedia.org/wiki/France",
+  "image": {
+   "src": "img/places/france.jpg",
+   "license": "CC BY-SA 3.0",
+   "artist": "Jorge Royan",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Paris_-_The_Eiffel_Tower_in_spring_-_2307.jpg",
+   "file": "Paris - The Eiffel Tower in spring - 2307.jpg"
+  },
+  "dish_title": "Garlic butter",
+  "dish_extract": "Garlic butter, also known as beurre à la bourguignonne, is a compound butter used as a flavoring for many dishes or as a condiment. It is composed of butter and garlic mixed into a paste. The ingredients are blended and typically chilled before use.",
+  "dish_url": "https://en.wikipedia.org/wiki/Garlic_butter",
+  "dish_type": "standard"
+ },
+ "chicken-fry": {
+  "place": "Andhra Pradesh, India",
+  "place_title": "Andhra Pradesh",
+  "place_desc": "State in southeastern India",
+  "place_extract": "Andhra Pradesh is a state on the east coast of southern India. The seventh largest Indian state by area and the tenth largest by population, it is bound by the Bay of Bengal to the east, and shares borders with the states of Odisha to the northeast, Chhattisgarh to the north, Telangana to northwest, Karnataka to the west, and Tamil Nadu to the south. Telugu, one of the classical languages of India, is the most widely spoken language in the state and serves as its official language. Amaravati is the state capital, and Visakhapatnam is the largest city.",
+  "place_url": "https://en.wikipedia.org/wiki/Andhra_Pradesh",
+  "image": {
+   "src": "img/places/andhra-pradesh.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Nikhilb239",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Tirumala_090615.jpg"
+  },
+  "dish_title": "Andhra cuisine",
+  "dish_extract": "Andhra cuisine is the traditional culinary style of the Telugu people, who are native to the Indian state of Andhra Pradesh. It is generally known for its tangy, hot, and spicy taste.",
+  "dish_url": "https://en.wikipedia.org/wiki/Andhra_cuisine",
+  "dish_type": "standard"
+ },
+ "chilli-paneer": {
+  "place": "Tangra (Chinatown), Kolkata",
+  "place_title": "Tangra, Kolkata",
+  "place_desc": "Neighbourhood in Kolkata in West Bengal, India",
+  "place_extract": "Tangra is a region in East Kolkata that traditionally housed many tanneries owned by people of Hakka Chinese origin.",
+  "place_url": "https://en.wikipedia.org/wiki/Tangra%2C_Kolkata",
+  "image": {
+   "src": "img/places/tangra-kolkata.jpg",
+   "license": "CC BY 3.0",
+   "artist": "Biswarup Ganguly",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Gobinda_Chandra_Khatik_Road_-_John_Burdon_Sanderson_Haldane_Avenue_-_Kolkata_2013-04-10_7722.JPG"
+  },
+  "dish_title": "Indian Chinese cuisine",
+  "dish_extract": "Indian Chinese cuisine is a distinct style of Chinese cuisine adapted to Indian tastes and spices. Though Asian cuisines have been mixed throughout history all over Asia, the most popular origin story of the fusion food resides with Chinese immigrants to British-ruled India at places like Calcutta. Opening restaurant businesses in the area, these early Chinese food sellers adapted their culinary styles to suit Indian tastes.",
+  "dish_url": "https://en.wikipedia.org/wiki/Indian_Chinese_cuisine",
+  "dish_type": "standard"
+ },
+ "coriander-chutney": {
+  "place": "Mumbai, India",
+  "place_title": "Mumbai",
+  "place_desc": "Capital of Maharashtra, India",
+  "place_extract": "Mumbai, also known as Bombay, is the capital city of the Indian state of Maharashtra and the financial capital of India. Located on the Konkan coast along the west coast of India, it has a deep natural harbour. As per the 2011 Census of India, it is the most populous city proper in India, with a population of almost 12.5 million, while the Mumbai Metropolitan Region, which is among the most populous metropolitan areas in the world, has a population of over 20 million. The city forms part of the Mumbai City and Mumbai Suburban districts and is administered by the Brihanmumbai Municipal Corporation, which was established in 1888.",
+  "place_url": "https://en.wikipedia.org/wiki/Mumbai",
+  "image": {
+   "src": "img/places/mumbai.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Rutiknatekar",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Mumbai_Bandra-Worli_Sea_Link.jpg"
+  },
+  "dish_title": "Bombay sandwich",
+  "dish_extract": "The Bombay sandwich is a sandwich made of white bread covered in butter and chutney with a filling of potatoes and raw vegetables, often as a toasted sandwich. It may be toasted over a flame or using an electric toaster. Its ingredients may include cucumbers, onions, beetroot, and chaat masala, and it may be topped with cheese or sev. Many variations of ingredients exist. The origin of the Bombay sandwich is uncertain, but it may have been invented by migrant textile workers in the 1960s. The sandwich is popular as street food across Mumbai, but it is not as popular elsewhere.",
+  "dish_url": "https://en.wikipedia.org/wiki/Bombay_sandwich",
+  "dish_type": "standard"
+ },
+ "fried-rice": {
+  "place": "China",
+  "place_title": "China",
+  "place_desc": "Country in East Asia",
+  "place_extract": "China, officially the People's Republic of China (PRC), is a country in East Asia. It is divided into 33 province-level divisions, including two special administrative regions. Beijing is the capital, while Shanghai is the most populous city by urban area. Its geography features the Central Plain, major rivers such as the Yangtze and Yellow River, deserts, subtropical and temperate forests, plateaus, and mountain ranges such as the Himalayas. It is the world's second-most populous country after India, with a population exceeding 1.4 billion. Covering 9.6 million square kilometers (3,700,000 sq mi), it is the third largest country by area.",
+  "place_url": "https://en.wikipedia.org/wiki/China",
+  "image": {
+   "src": "img/places/china.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Lloyd Tudor",
+   "file_page": "https://commons.wikimedia.org/wiki/File:The_Mutianyu_section_of_the_Great_Wall_of_China.jpg",
+   "file": "The Mutianyu section of the Great Wall of China.jpg"
+  },
+  "dish_title": "Fried rice",
+  "dish_extract": "Fried rice is a dish of cooked rice that has been stir-fried in a wok or a frying pan and is usually mixed with other ingredients such as eggs, vegetables, seafood, or meat. It is often eaten as a main dish or as an accompaniment to another dish. Fried rice is a popular component of East Asian, Southeast Asian and South Asian cuisines. As a homemade dish, fried rice is typically made with ingredients left over from other dishes, leading to countless variations. Fried rice first developed during the Sui dynasty in China and later spread across the world through the migration of the Chinese diaspora.",
+  "dish_url": "https://en.wikipedia.org/wiki/Fried_rice",
+  "dish_type": "standard"
+ },
+ "noodles": {
+  "place": "Kemptthal, Switzerland → India",
+  "place_title": "Lindau, Switzerland",
+  "place_desc": "Municipality in Zurich, Switzerland",
+  "place_extract": "Lindau is a municipality in the district of Pfäffikon in the canton of Zürich in Switzerland.",
+  "place_url": "https://en.wikipedia.org/wiki/Lindau%2C_Switzerland",
+  "image": {
+   "src": "img/places/kemptthal.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Michael D. Schmid",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Lindau_ZH_01.JPG"
+  },
+  "dish_title": "Maggi",
+  "dish_extract": "Maggi is a Swiss brand of seasonings, instant soups, and noodles that originated in Switzerland in the late 19th century. In 1947, the Maggi brand was acquired by the Swiss giant Nestlé.",
+  "dish_url": "https://en.wikipedia.org/wiki/Maggi",
+  "dish_type": "standard"
+ },
+ "paneer-bhurji": {
+  "place": "Punjab, India",
+  "place_title": "Punjab, India",
+  "place_desc": "State in northwestern India",
+  "place_extract": "Punjab is a state in northwestern India. Forming part of the larger Punjab region of the Indian subcontinent, the state is bordered by the Indian states and union territories of Himachal Pradesh to the north and northeast, Haryana to the south and southeast, Rajasthan to the southwest, Jammu and Kashmir to the north. To the west, it shares an international border with the identically named Pakistani province of Punjab. Chandigarh serves as a shared capital for Punjab as well as Haryana. The state covers an area of 50,362 square kilometres, which is 1.53% of India's total geographical area, making it the 19th-largest Indian state by area out of 28 Indian states. With over 27 million inhabitants, Punjab is the 16th-largest Indian state by population, comprising 23 districts. Punjabi, written in the Gurmukhi script, is the most widely spoken and the official language of the state. The main ethnic group are the Punjabis, with Sikhs (57.7%) and Hindus (38.5%) forming the dominant religious groups. Three of the five traditional Punjab rivers — the Sutlej, Beas, and Ravi — flow through the state.",
+  "place_url": "https://en.wikipedia.org/wiki/Punjab%2C_India",
+  "image": {
+   "src": "img/places/punjab-india.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Utpal Nag",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Golden_Temple,_Amritsar,_Punjab_UNAG.jpg"
+  },
+  "dish_title": "Paneer",
+  "dish_extract": "Paneer is a fresh acid-set cheese, common in South Asian cuisine, made from cow milk or buffalo milk. It is a non-aged, non-melting soft cheese made by curdling milk with an acid, such as lemon juice or citric acid. Paneer is predominantly used in north Indian dishes and is commonly used throughout South Asia, especially India, due to its versatility as an ingredient in diverse dishes.",
+  "dish_url": "https://en.wikipedia.org/wiki/Paneer",
+  "dish_type": "standard"
+ },
+ "pasta": {
+  "place": "Italy & France",
+  "place_title": "Italy",
+  "place_desc": "Country in Southern and Western Europe",
+  "place_extract": "Italy, officially the Italian Republic, is a country in Southern and Western Europe. It consists of a peninsula, which extends into the Mediterranean Sea, with the Alps on its northern land border, as well as nearly 800 islands, notably Sicily and Sardinia. Italy shares land borders with France to the west; Switzerland and Austria to the north; Slovenia to the east; and the two enclaves of Vatican City and San Marino. It is the tenth-largest country in Europe by area, covering 301,340 km2 (116,350 sq mi), and the third-most populous member state of the European Union, with nearly 59 million inhabitants. Rome is the capital of Italy; other major cities include Milan, Naples, Turin, Palermo, Bologna, Florence, Genoa, Bari, and Venice.",
+  "place_url": "https://en.wikipedia.org/wiki/Italy",
+  "image": {
+   "src": "img/places/italy.jpg",
+   "license": "CC BY-SA 2.5",
+   "artist": "Diliff",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Colosseum_in_Rome,_Italy_-_April_2007.jpg",
+   "file": "Colosseum in Rome, Italy - April 2007.jpg"
+  },
+  "dish_title": "Béchamel sauce",
+  "dish_extract": "Béchamel sauce is a white sauce made from a roux of butter and flour, heated in cream or milk, and seasoned with ground nutmeg. Béchamel is one of the mother sauces of French cuisine.",
+  "dish_url": "https://en.wikipedia.org/wiki/B%C3%A9chamel_sauce",
+  "dish_type": "standard"
+ },
+ "salad": {
+  "place": "Germany",
+  "place_title": "Germany",
+  "place_desc": "Country in Europe",
+  "place_extract": "Germany, officially the Federal Republic of Germany, is a country in Western and Central Europe. It lies between the Baltic Sea and the North Sea to the north with the Alps to the south. Its 16 constituent states have a total population of over 83 million, making it the most populous member state of the European Union (EU). Germany borders Denmark to the north; Poland and the Czech Republic to the east; Austria and Switzerland to the south; and France, Luxembourg, Belgium, and the Netherlands to the west. The nation's capital and most populous city is Berlin and its main financial centre is Frankfurt; the largest urban area is the Ruhr.",
+  "place_url": "https://en.wikipedia.org/wiki/Germany",
+  "image": {
+   "src": "img/places/germany.jpg",
+   "license": "CC BY-SA 3.0",
+   "artist": "Ximonic, Simo Räsänen (post-processing) &amp; Tauno Räsänen (photograph)",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Neuschwanstein_Castle_from_Marienbr%C3%BCcke,_2011_May.jpg",
+   "file": "Neuschwanstein Castle from Marienbrücke, 2011 May.jpg"
+  },
+  "dish_title": "Potato salad",
+  "dish_extract": "Potato salad is a salad dish made from boiled potatoes, usually containing a dressing and a variety of other ingredients such as boiled eggs and raw vegetables. It is usually served as a side dish.",
+  "dish_url": "https://en.wikipedia.org/wiki/Potato_salad",
+  "dish_type": "standard"
+ },
+ "soya": {
+  "place": "Sunchang County, South Korea",
+  "place_title": "Sunchang County",
+  "place_desc": "County in South Korea",
+  "place_extract": "Sunchang County (Korean: 순창군) is a county in North Jeolla Province, South Korea. It is located in a mountainous region of the province and is connected to the city of Jeonju by a modern double-lane free-way that was completed in 2011.",
+  "place_url": "https://en.wikipedia.org/wiki/Sunchang_County",
+  "image": {
+   "src": "img/places/sunchang-county.jpg",
+   "license": "CC BY-SA 3.0",
+   "artist": "Leedkmn",
+   "file_page": "https://commons.wikimedia.org/wiki/File:The_Artifact_Site_of_Mrs._Seol_and_Shin_Gyeong-jun.JPG"
+  },
+  "dish_title": "Gochujang",
+  "dish_extract": "Gochujang or red chili paste is a savory, sweet, and spicy fermented condiment popular in Korean cooking. It is made from gochugaru, chapssal, meju powder, yeotgireum, and salt. The sweetness comes from the starch of cooked glutinous rice, cultured with saccharifying enzymes during the fermentation process. Traditionally, it would be naturally fermented over years in jangdok (earthenware) on an elevated stone platform called jangdokdae in the backyard.",
+  "dish_url": "https://en.wikipedia.org/wiki/Gochujang",
+  "dish_type": "standard"
+ },
+ "spring-rolls": {
+  "place": "China",
+  "place_title": "China",
+  "place_desc": "Country in East Asia",
+  "place_extract": "China, officially the People's Republic of China (PRC), is a country in East Asia. It is divided into 33 province-level divisions, including two special administrative regions. Beijing is the capital, while Shanghai is the most populous city by urban area. Its geography features the Central Plain, major rivers such as the Yangtze and Yellow River, deserts, subtropical and temperate forests, plateaus, and mountain ranges such as the Himalayas. It is the world's second-most populous country after India, with a population exceeding 1.4 billion. Covering 9.6 million square kilometers (3,700,000 sq mi), it is the third largest country by area.",
+  "place_url": "https://en.wikipedia.org/wiki/China",
+  "image": {
+   "src": "img/places/china.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Lloyd Tudor",
+   "file_page": "https://commons.wikimedia.org/wiki/File:The_Mutianyu_section_of_the_Great_Wall_of_China.jpg",
+   "file": "The Mutianyu section of the Great Wall of China.jpg"
+  },
+  "dish_title": "Spring roll",
+  "dish_extract": "Spring rolls are rolled appetizers or dim sum commonly found in Chinese, Vietnamese, Thai and Southeast Asian cuisines. The wrapper, fillings, and cooking technique vary by region but are generally filled with vegetables or ground meat.",
+  "dish_url": "https://en.wikipedia.org/wiki/Spring_roll",
+  "dish_type": "standard"
+ },
+ "tofu": {
+  "place": "Huainan, Anhui, China",
+  "place_title": "Huainan",
+  "place_desc": "Prefecture-level city in Anhui, People's Republic of China",
+  "place_extract": "Huainan is a prefecture-level city with 3,033,528 inhabitants as of the 2020 census in north-central Anhui province, China. It is named for the Han-era Principality of Huainan. It borders the provincial capital of Hefei to the south, Lu'an to the southwest, Fuyang to the west, Bozhou to the northwest, Bengbu to the northeast and Chuzhou to the east. Huainan is one of the core cities of Hefei Metropolitan Circle and is known for its coal industry and thermal power plants. Its built-up area made of 4 urban districts and Fengtai County largely being urbanized, was home to 1,868,944 inhabitants as of 2020. Its city flower is the Chinese rose and its city tree is the Old-World Plane Tree. It is also considered to be the hometown and birthplace of tofu.",
+  "place_url": "https://en.wikipedia.org/wiki/Huainan",
+  "image": {
+   "src": "img/places/huainan.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Whisper of the heart",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Tongfei_Gate,_Shou_County.jpg"
+  },
+  "dish_title": "Tofu",
+  "dish_extract": "Tofu  or bean curd is a food prepared by pressing the curds of coagulated soy milk into solid white blocks of varying softness: 'silken', 'soft', 'firm', and 'extra firm'.",
+  "dish_url": "https://en.wikipedia.org/wiki/Tofu",
+  "dish_type": "standard"
+ },
+ "airfryer-chilli-chicken": {
+  "place": "Tangra (Chinatown), Kolkata",
+  "place_title": "Tangra, Kolkata",
+  "place_desc": "Neighbourhood in Kolkata in West Bengal, India",
+  "place_extract": "Tangra is a region in East Kolkata that traditionally housed many tanneries owned by people of Hakka Chinese origin.",
+  "place_url": "https://en.wikipedia.org/wiki/Tangra%2C_Kolkata",
+  "image": {
+   "src": "img/places/tangra-kolkata.jpg",
+   "license": "CC BY 3.0",
+   "artist": "Biswarup Ganguly",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Gobinda_Chandra_Khatik_Road_-_John_Burdon_Sanderson_Haldane_Avenue_-_Kolkata_2013-04-10_7722.JPG"
+  },
+  "dish_title": "Chilli chicken",
+  "dish_extract": "Chilli chicken is a popular Indo-Chinese dish that uses chicken, and is of Chinese heritage. In India, this may include a variety of dry chicken preparations. Though mainly boneless chicken is used in this dish, some recipes also use bone-in chicken.",
+  "dish_url": "https://en.wikipedia.org/wiki/Chilli_chicken",
+  "dish_type": "standard"
+ },
+ "amritsar-style-paneer-bhurji": {
+  "place": "Amritsar, Punjab, India",
+  "place_title": "Amritsar",
+  "place_desc": "Metropolis in Punjab, India",
+  "place_extract": "Amritsar, also known as Ambarsar, is the second-largest city in the Indian state of Punjab, after Ludhiana. Located in the Majha region, it is a major cultural, transportation and economic centre. The city is the administrative headquarters of the Amritsar district. It is situated 217 km (135 mi) north-west of Chandigarh, and 455 km (283 mi) north-west of New Delhi. It is 28 km (17.4 mi) from the India-Pakistan border, and 47 km (29 mi) north-east of Lahore, Pakistan.",
+  "place_url": "https://en.wikipedia.org/wiki/Amritsar",
+  "image": {
+   "src": "img/places/amritsar.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Shubhashish",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Golden_Temple_Amritsar_Gurudwara_(cropped).jpg"
+  },
+  "dish_title": "Paneer",
+  "dish_extract": "Paneer is a fresh acid-set cheese, common in South Asian cuisine, made from cow milk or buffalo milk. It is a non-aged, non-melting soft cheese made by curdling milk with an acid, such as lemon juice or citric acid. Paneer is predominantly used in north Indian dishes and is commonly used throughout South Asia, especially India, due to its versatility as an ingredient in diverse dishes.",
+  "dish_url": "https://en.wikipedia.org/wiki/Paneer",
+  "dish_type": "standard"
+ },
+ "apollo-fish": {
+  "place": "Hyderabad, Telangana, India",
+  "place_title": "Hyderabad",
+  "place_desc": "Capital of Telangana, India",
+  "place_extract": "Hyderabad is the capital and largest city of the Indian state of Telangana. It occupies 650 km2 (250 sq mi) on the Deccan Plateau along the banks of the Musi River, in the northern part of Southern India. With an average altitude of 536 m (1,759 ft), much of Hyderabad is situated on hilly terrain around artificial lakes, including the Hussain Sagar lake, predating the city's founding, in the north of the city centre. According to the 2011 census of India, Hyderabad is the fourth-most populous city in India, with a population of 6.9 million residents within the city limits and 9.7 million residents in the metropolitan region, making it the sixth-most populous metropolitan area in India.",
+  "place_url": "https://en.wikipedia.org/wiki/Hyderabad",
+  "image": {
+   "src": "img/places/hyderabad.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "iMahesh",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Durgam_cheruvu_and_Hitech_CIty.jpg"
+  },
+  "dish_title": "Hyderabadi cuisine",
+  "dish_extract": "Hyderabadi cuisine, also known as Deccani cuisine, is the cooking style characteristic of the city of Hyderabad and its surrounding area in Telangana, India.",
+  "dish_url": "https://en.wikipedia.org/wiki/Hyderabadi_cuisine",
+  "dish_type": "standard"
+ },
+ "bang-bang-paneer": {
+  "place": "Sichuan, China (sauce inspiration)",
+  "place_title": "Sichuan",
+  "place_desc": "Province in Southwestern China",
+  "place_extract": "Sichuan is an inland province in Southwestern China. It is located in the Sichuan Basin and Tibetan Plateau—between the Jinsha River to the west, the Daba Mountains to the north, and the Yunnan–Guizhou Plateau to the south. Its capital city is Chengdu, and the province's population stands at 83 million. Sichuan neighbors Qinghai and Gansu to the north, Shaanxi and Chongqing to the east, Guizhou and Yunnan to the south, and Tibet to the west.",
+  "place_url": "https://en.wikipedia.org/wiki/Sichuan",
+  "image": {
+   "src": "img/places/sichuan.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "chensiyuan",
+   "file_page": "https://commons.wikimedia.org/wiki/File:1_huanglong_2.jpg"
+  },
+  "dish_title": "Bang bang chicken",
+  "dish_extract": "Bang bang chicken, also known by variant names such as bam bam chicken or bon bon chicken, is a popular chicken dish in Chinese cuisine. The name 'bang bang chicken' is derived from the Chinese word for stick, 'bàng'(棒), referring to the baton or cudgel traditionally used to tenderize the meat.",
+  "dish_url": "https://en.wikipedia.org/wiki/Bang_bang_chicken",
+  "dish_type": "standard"
+ },
+ "bread": {
+  "place": "India (street food)",
+  "place_title": "India",
+  "place_desc": "Country in South Asia",
+  "place_extract": "India, officially the Republic of India, is a country in South Asia. It is the world's seventh-largest country by area and its most populous. Bounded by the Indian Ocean on the south, the Arabian Sea on the southwest, and the Bay of Bengal on the southeast, it shares land borders with Pakistan to the west, China, Nepal, and Bhutan to the north, and Bangladesh and Myanmar to the east. In the Indian Ocean, India is near Sri Lanka and the Maldives.",
+  "place_url": "https://en.wikipedia.org/wiki/India",
+  "image": {
+   "src": "img/places/india.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Yann; edited by King of Hearts",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Taj_Mahal,_Agra,_India_edit2.jpg",
+   "file": "Taj Mahal, Agra, India edit2.jpg"
+  },
+  "dish_title": "Omelette",
+  "dish_extract": "An omelette is a dish made from eggs, fried with butter or oil in a frying pan. It is a common practice for an omelette to include fillings such as chives, vegetables, mushrooms, meat, cheese, onions or some combination of the above. Whole eggs or egg whites are often beaten with a small amount of milk, cream, or water.",
+  "dish_url": "https://en.wikipedia.org/wiki/Omelette",
+  "dish_type": "standard"
+ },
+ "caramelized-onion-chicken": {
+  "place": "The Mediterranean",
+  "place_title": "Mediterranean Sea",
+  "place_desc": "Sea between Africa, Asia, and Europe",
+  "place_extract": "The Mediterranean Sea is an intercontinental sea situated between Europe, Asia, and Africa. It is surrounded by the Mediterranean basin and almost completely enclosed by land: on the east by the Levant in West Asia, on the north by Anatolia in West Asia and Southern Europe, and on the south by North Africa. To its west it is connected to the Atlantic Ocean via the Strait of Gibraltar that separates the Iberian Peninsula in Europe from Morocco in Africa by only 14 km (9 mi); additionally, it is connected to the Black Sea through the Bosporus strait that intersects Turkey in the northeast and the Red Sea via the Suez Canal in the southeast.",
+  "place_url": "https://en.wikipedia.org/wiki/Mediterranean_Sea",
+  "image": {
+   "src": "img/places/mediterranean-sea.jpg",
+   "license": "Public domain",
+   "artist": "of the modification : Eric Gaba (Sting)",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Mediterranean_Sea_16.61811E_38.99124N.jpg"
+  },
+  "dish_title": "Mediterranean cuisine",
+  "dish_extract": "Mediterranean cuisine is the food and methods of preparation used by the people of the Mediterranean basin. The idea of a Mediterranean cuisine originates with the cookery writer Elizabeth David's A Book of Mediterranean Food (1950), and was amplified by other writers working in English.",
+  "dish_url": "https://en.wikipedia.org/wiki/Mediterranean_cuisine",
+  "dish_type": "standard"
+ },
+ "chicken-65-biryani": {
+  "place": "Hyderabad & Chennai, India",
+  "place_title": "Hyderabad",
+  "place_desc": "Capital of Telangana, India",
+  "place_extract": "Hyderabad is the capital and largest city of the Indian state of Telangana. It occupies 650 km2 (250 sq mi) on the Deccan Plateau along the banks of the Musi River, in the northern part of Southern India. With an average altitude of 536 m (1,759 ft), much of Hyderabad is situated on hilly terrain around artificial lakes, including the Hussain Sagar lake, predating the city's founding, in the north of the city centre. According to the 2011 census of India, Hyderabad is the fourth-most populous city in India, with a population of 6.9 million residents within the city limits and 9.7 million residents in the metropolitan region, making it the sixth-most populous metropolitan area in India.",
+  "place_url": "https://en.wikipedia.org/wiki/Hyderabad",
+  "image": {
+   "src": "img/places/hyderabad.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "iMahesh",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Durgam_cheruvu_and_Hitech_CIty.jpg"
+  },
+  "dish_title": "Chicken 65",
+  "dish_extract": "Chicken 65 is a spicy, deep-fried chicken dish originating from Hotel Buhari, Chennai, India, as an entrée, or quick snack. The flavour of the dish can be attributed to red chillies, but the exact set of ingredients for the recipe can vary. It is prepared using boneless chicken and is usually served with an onion and lemon garnish. Vegetarian variants such as \"Paneer 65\" or \"Gobhi 65\" use paneer or cauliflower instead. While the name \"Chicken 65\" is universally used to refer to the dish, there are many different theories claiming its origins.",
+  "dish_url": "https://en.wikipedia.org/wiki/Chicken_65",
+  "dish_type": "standard"
+ },
+ "chicken-65-garlic-bread": {
+  "place": "Chennai (Chicken 65) × Italian-American garlic bread",
+  "place_title": "Chennai",
+  "place_desc": "Capital of Tamil Nadu, India",
+  "place_extract": "Chennai, also known as Madras, is the capital and largest city of Tamil Nadu, the southernmost state of India. It is located on the Coromandel Coast of the Bay of Bengal. As per the 2011 Indian census, Chennai is the sixth-most-populous city in India and forms the fourth-most-populous urban agglomeration. The city is coterminous with Chennai district, which together with the adjoining suburbs constitutes the Chennai Metropolitan Area, one of the largest metropolitan areas of India. It is administered by the Greater Chennai Corporation, which was incorporated in 1688, and is the second oldest municipal corporation in the world after the City of London Corporation. Being the capital of the state, it houses major government institutions including the Tamil Nadu Legislative Assembly, and the Madras High Court.",
+  "place_url": "https://en.wikipedia.org/wiki/Chennai",
+  "image": {
+   "src": "img/places/chennai.jpg",
+   "license": "CC BY-SA 2.0",
+   "artist": "jamal haider from india",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Chennai_Central.jpg"
+  },
+  "dish_title": "Garlic bread",
+  "dish_extract": "Garlic bread consists of crusty bread slices topped with garlic and butter, and additional herbs such as oregano, chives or parsley. Some versions include cheese. It is then either grilled until toasted or baked in a conventional or bread oven.",
+  "dish_url": "https://en.wikipedia.org/wiki/Garlic_bread",
+  "dish_type": "standard"
+ },
+ "chicken-chukka": {
+  "place": "Chettinad, Tamil Nadu, India",
+  "place_title": "Chettinad",
+  "place_desc": "Region in Tamil Nadu, India",
+  "place_extract": "Chettinad is a region in Tamil Nadu comprising 56 villages in Sivaganga district and 20 villages in Pudukottai district, which was historically ruled by the Ramnad kingdom of Pandya Nadu. It has a small portion extending into the Pudukottai District in Tamil Nadu; Karaikudi is the major city of this area and is considered the urban centre for the Chettinadu villages.",
+  "place_url": "https://en.wikipedia.org/wiki/Chettinad",
+  "image": {
+   "src": "img/places/chettinad.jpg",
+   "license": "CC BY-SA 3.0",
+   "artist": "User:Karthick jack",
+   "file_page": "https://commons.wikimedia.org/wiki/File:The_Chettinad_palace_karaikudi_2013-09-07_00-11.jpg"
+  },
+  "dish_title": "Chettinad cuisine",
+  "dish_extract": "Chettinadu cuisine is the cuisine of a community called the Nagarathars, from the Chettinad region in Sivaganga district of Tamil Nadu state in\nIndia. Chettinad cuisine is perhaps the most renowned fare in the Tamil Nadu repertoire. It uses a variety of spices and the dishes are made with fresh ground masalas. Chettiars also use a variety of sun-dried meats and salted vegetables, reflecting the dry environment of the region. Most of the dishes are eaten with rice and rice based accompaniments such as dosas, appams, idiyappams, adais and idlis. The Chettiars, through their mercantile contacts with Burma, learnt to prepare a type of rice pudding made with sticky red rice. The chefs of Manapatti village near Singampunari are experts in cooking Chettinad cuisine.",
+  "dish_url": "https://en.wikipedia.org/wiki/Chettinad_cuisine",
+  "dish_type": "standard"
+ },
+ "chicken-sandwich": {
+  "place": "Saratoga Springs, New York, USA",
+  "place_title": "Saratoga Springs, New York",
+  "place_desc": "City in New York, United States",
+  "place_extract": "Saratoga Springs is a city in Saratoga County, New York, United States. The population was 28,491 at the 2020 census. The name reflects the presence of mineral springs in the area, which has made Saratoga a popular resort destination for over 200 years. It is home to the Saratoga Race Course, a thoroughbred horse racing track operated by the New York Racing Association, and Saratoga Performing Arts Center, a music and dance venue. The city's official slogan is \"Health, History, and Horses\".",
+  "place_url": "https://en.wikipedia.org/wiki/Saratoga_Springs%2C_New_York",
+  "image": {
+   "src": "img/places/saratoga-springs-new-york.jpg",
+   "license": "CC BY-SA 3.0",
+   "artist": "UpstateNYer",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Downtown_Saratoga_Springs.jpg"
+  },
+  "dish_title": "Club sandwich",
+  "dish_extract": "A club sandwich or clubhouse sandwich is a three-layer sandwich consisting of three slices of bread, sliced poultry, fried bacon strips, lettuce, tomato, and mayonnaise. It is often cut diagonally into quarters or halves and held together by cocktail sticks.",
+  "dish_url": "https://en.wikipedia.org/wiki/Club_sandwich",
+  "dish_type": "standard"
+ },
+ "chicken-tikka-rice": {
+  "place": "Glasgow, Scotland",
+  "place_title": "Glasgow",
+  "place_desc": "Largest city in Scotland",
+  "place_extract": "Glasgow is the most populous city in Scotland, located on the banks of the River Clyde in west central Scotland. It is the third-most populous city in the United Kingdom and comprises 23 wards which represent the areas within the city boundaries. Glasgow is a leading city in Scotland for university education and research, finance, industry, commerce, shopping, culture and fashion, and was commonly referred to as the \"second city of the British Empire\" for much of the Victorian and Edwardian eras.",
+  "place_url": "https://en.wikipedia.org/wiki/Glasgow",
+  "image": {
+   "src": "img/places/glasgow.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "瑞丽江的河水",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Glasgow_-_aerial_-_2025-04-17_14.jpg"
+  },
+  "dish_title": "Chicken tikka masala",
+  "dish_extract": "Chicken tikka masala is a curry consisting of roasted marinated chicken pieces in a creamy spiced sauce (masala). It is thought to have been created in Britain, possibly by Ali Ahmed Aslam in Glasgow. It is offered at restaurants around the world and in some of its forms is similar to butter chicken.",
+  "dish_url": "https://en.wikipedia.org/wiki/Chicken_tikka_masala",
+  "dish_type": "standard"
+ },
+ "chipotle-chicken-wrap": {
+  "place": "Mexico",
+  "place_title": "Mexico",
+  "place_desc": "Country in North America",
+  "place_extract": "Mexico, officially the United Mexican States, is a country in North America. It is the northernmost country in Latin America, bordering the United States of America to the north and Guatemala and Belize to the southeast, while having maritime boundaries with the Pacific Ocean to the west, the Caribbean Sea to the southeast, and the Gulf of Mexico to the east. Mexico covers 1,972,550 km2, and is the thirteenth-largest country in the world by land area. With a population around 131 million as of 2025, Mexico is the tenth-most populous country in the world and is home to the largest number of native Spanish speakers. Mexico City is the capital and largest city in Mexico, which ranks among the most populous metropolitan areas in the world.",
+  "place_url": "https://en.wikipedia.org/wiki/Mexico",
+  "image": {
+   "src": "img/places/mexico.jpg",
+   "license": "CC BY-SA 2.0",
+   "artist": "Flickr user schlaeger",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Plaza_de_la_Constitucion_Ciudad_de_Mexico_City.jpg",
+   "file": "Plaza de la Constitucion Ciudad de Mexico City.jpg"
+  },
+  "dish_title": "Chipotle",
+  "dish_extract": "A chipotle, or chilpotle, is a smoke-dried ripe jalapeño chili pepper used for seasoning. It is used primarily in Mexican and Mexican-inspired cuisines, such as Tex-Mex and Southwestern United States dishes. It comes in different forms, such as chipotles en adobo.",
+  "dish_url": "https://en.wikipedia.org/wiki/Chipotle",
+  "dish_type": "standard"
+ },
+ "chipotle-style-burrito-bowl": {
+  "place": "Mission District, San Francisco, USA",
+  "place_title": "Mission District, San Francisco",
+  "place_desc": "Neighborhood in San Francisco",
+  "place_extract": "The Mission District, commonly known as the Mission, is a neighborhood in San Francisco, California. One of the oldest neighborhoods in San Francisco, the Mission District's name is derived from Mission San Francisco de Asís, built in 1776 by the Spanish. The Mission is historically one of the most notable centers of the city's Hispanic community.",
+  "place_url": "https://en.wikipedia.org/wiki/Mission_District%2C_San_Francisco",
+  "image": {
+   "src": "img/places/mission-district-san-francisco.jpg",
+   "license": "CC BY 2.0",
+   "artist": "Dale Cruse from San Francisco, CA, USA",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Mission_High_School_(cropped).jpg"
+  },
+  "dish_title": "Mission burrito",
+  "dish_extract": "A Mission burrito is a type of burrito that first became popular during the 1960s in the Mission District of San Francisco, California. It is distinguished from other burritos by its large size and inclusion of rice and other ingredients. A key method to the burrito's construction is to steam the wheat flour tortilla to increase its flexibility prior to adding the other ingredients, although that is not a requirement and burritos may be grilled instead. It has been referred to as one of three major styles of burritos in the United States, following the earlier, simple burrito consisting of beans, rice, and meat. It precedes the California burrito, which was developed around the 1980s in San Diego and contains carne asada, cheese and French-fried potatoes.",
+  "dish_url": "https://en.wikipedia.org/wiki/Mission_burrito",
+  "dish_type": "standard"
+ },
+ "chipotle-s-chicken-al-pastor": {
+  "place": "Puebla, Mexico",
+  "place_title": "Puebla (city)",
+  "place_desc": "Metropolis in Puebla, Mexico",
+  "place_extract": "Puebla de Zaragoza, formally Heroica Puebla de Zaragoza, formerly Puebla de los Ángeles during colonial times, or known simply as Puebla, is the seat of Puebla Municipality. It is the capital and largest city of the state of Puebla, and the fourth-largest city in Mexico, after Mexico City, Monterrey, and Guadalajara. A planned city from the viceregal era, it is located in the southern part of Central Mexico on the main route between Mexico City and Mexico's main Atlantic port, Veracruz—about 100 km (62 mi) east southeast of Mexico City and about 220 km (140 mi) west of Veracruz.",
+  "place_url": "https://en.wikipedia.org/wiki/Puebla_(city)",
+  "image": {
+   "src": "img/places/puebla-city.jpg",
+   "license": "CC BY-SA 3.0",
+   "artist": "Diego Delso",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Catedral_de_Puebla,_M%C3%A9xico,_2013-10-11,_DD_13.JPG"
+  },
+  "dish_title": "Al pastor",
+  "dish_extract": "Al pastor, tacos al pastor, or tacos de trompo is a preparation of sliced, spit-grilled meat, usually pork, originating in the Central Mexican region of Puebla where they remain most prominent, though it is a common menu item found in taquerías throughout Mexico. The method of preparing and cooking al pastor is based on the lamb shawarma brought by Lebanese immigrants to the region. Al pastor features a flavor palette that uses traditional Mexican adobada (marinade). It is a popular street food that has spread to the United States. In some places of northern Mexico and coastal Mexico, such as in Baja California, taco al pastor is known as taco de trompo or taco de adobada.",
+  "dish_url": "https://en.wikipedia.org/wiki/Al_pastor",
+  "dish_type": "standard"
+ },
+ "choco-lava-cake": {
+  "place": "New York City & France",
+  "place_title": "New York City",
+  "place_desc": "Most populous city in the United States",
+  "place_extract": "New York, often called New York City (NYC), is the most populous city in the United States. It is located at the southern tip of New York State on New York Harbor, one of the world's largest natural harbors. The city comprises five boroughs—Manhattan, Brooklyn, Queens, the Bronx, and Staten Island—each being coextensive with its respective county. It is the geographical and demographic center of both the Northeast megalopolis and the New York metropolitan area, the largest metropolitan area in the United States by both population and urban area. New York is a global center of technology, finance, commerce, culture, entertainment and media, academics and scientific output, the arts and fashion—and as home to the headquarters of the United Nations, international diplomacy. New York City is known for its fast pace and continuous urban energy.",
+  "place_url": "https://en.wikipedia.org/wiki/New_York_City",
+  "image": {
+   "src": "img/places/new-york-city.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "Dllu",
+   "file_page": "https://commons.wikimedia.org/wiki/File:View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_(cropped).jpg"
+  },
+  "dish_title": "Molten chocolate cake",
+  "dish_extract": "Molten chocolate cake or runny core cake, is a French dessert that consists of a chocolate cake with a liquid chocolate core. It is named for its molten center, and it is also known as mi-cuit au chocolat, chocolat coulant (\"flowing\"), chocolate lava cake, chocolate fondant, or simply lava cake. It should not be confused with fondant au chocolat, a recipe that contains little flour, but much chocolate and butter, hence melting on the palate.",
+  "dish_url": "https://en.wikipedia.org/wiki/Molten_chocolate_cake",
+  "dish_type": "standard"
+ },
+ "dragon-chicken": {
+  "place": "Kolkata, India",
+  "place_title": "Kolkata",
+  "place_desc": "Capital of West Bengal, India",
+  "place_extract": "Kolkata, also known as Calcutta, is the capital and largest city of the Indian state of West Bengal. It lies on the eastern bank of the Hooghly River, 80 km (50 mi) west of the border with Bangladesh. It is the primary financial and commercial centre of eastern India and one of the gateways to northeastern India. Kolkata is the seventh most populous city in India with an estimated city proper population of 4.5 million while its metropolitan region Kolkata Metropolitan Area is the third most populous metropolitan region of India with a metro population of over 15 million. Kolkata is regarded by many sources as the cultural capital of India and a historically and culturally significant city in the historic region of Bengal.",
+  "place_url": "https://en.wikipedia.org/wiki/Kolkata",
+  "image": {
+   "src": "img/places/kolkata.jpg",
+   "license": "CC BY-SA 4.0",
+   "artist": "NalGup20",
+   "file_page": "https://commons.wikimedia.org/wiki/File:Kolkata_maidan.jpg"
+  },
+  "dish_title": "Indian Chinese cuisine",
+  "dish_extract": "Indian Chinese cuisine is a distinct style of Chinese cuisine adapted to Indian tastes and spices. Though Asian cuisines have been mixed throughout history all over Asia, the most popular origin story of the fusion food resides with Chinese immigrants to British-ruled India at places like Calcutta. Opening restaurant businesses in the area, these early Chinese food sellers adapted their culinary styles to suit Indian tastes.",
+  "dish_url": "https://en.wikipedia.org/wiki/Indian_Chinese_cuisine",
+  "dish_type": "standard"
+ }
+}

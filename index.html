@@ -7,7 +7,7 @@
 <link rel="stylesheet" href="style.css">
 </head><body><div class="wrap">
 <header><div><h1>Poojith's Cookbook<span>.</span></h1><p class="sub">From the <b>cooking collection</b> — <b id="cnt"></b></p></div>
-<div class="row"><button class="btn" id="themeBtn" title="Toggle theme">🌓 Theme</button><button class="btn" id="aboutBtn">ℹ️ About the data</button></div></header>
+<div class="row"><span id="sync" class="hint"></span><span id="authBox"></span><button class="btn" id="themeBtn" title="Toggle theme">🌓 Theme</button><button class="btn" id="aboutBtn">ℹ️ About the data</button></div></header>
 
 <section class="panel mood"><label>🛋️ What's the vibe? — best comfy times to cook</label><div class="chips" id="moods"></div></section>
 
@@ -17,26 +17,43 @@
 <div class="f"><label for="diet">Diet</label><select id="diet"><option value="all">Any diet</option></select></div>
 <div class="f"><label for="time">Total time</label><select id="time"><option value="all">Any time</option><option value="20">≤ 20 min</option><option value="30">≤ 30 min</option><option value="45">≤ 45 min</option><option value="60">≤ 1 hour</option><option value="999">> 1 hour</option></select></div>
 <div class="f"><label for="kcal">Calories / serving</label><select id="kcal"><option value="all">Any</option><option value="0-350">Under 350 kcal</option><option value="350-500">350–500 kcal</option><option value="500-650">500–650 kcal</option><option value="650-9999">650+ kcal</option></select></div>
-<div class="f"><label for="sort">Sort</label><select id="sort"><option value="saved">Most saved</option><option value="quick">Quickest</option><option value="light">Lowest calories</option><option value="protein">Most protein</option><option value="az">Name A–Z</option></select></div>
+<div class="f"><label for="data">Recipe data</label><select id="data"><option value="all">All dishes</option><option value="full" selected>Has a full recipe</option><option value="repo">Full recipe straight from repo</option><option value="partial">Partial / needs checking</option><option value="missing">Recipe missing in repo</option></select></div>
+<div class="f"><label for="sort">Sort</label><select id="sort"><option value="best">Best data, most saved</option><option value="saved">Most saved</option><option value="quick">Quickest</option><option value="light">Lowest calories</option><option value="protein">Most protein</option><option value="az">Name A–Z</option></select></div>
 </div>
 <label style="display:block;margin-top:12px">Tags</label><div class="chips" id="tags"></div></section>
 
 <div class="tabs" id="tabs"></div>
 <div class="meta"><span id="info"></span><button class="btn" id="reset">Reset filters</button></div>
-<div class="grid" id="grid"></div>
+<div class="grid" id="grid"></div><div style="text-align:center;margin-top:24px"><button class="btn" id="more">Show more</button></div>
 <footer>Recipes from <a href="https://github.com/poojithmalla8/cooking_recipe" target="_blank" rel="noopener">poojithmalla8/cooking_recipe</a>. Nutrition values are <b>estimates</b>. Origin gists from Wikipedia (CC BY-SA); place photos from Wikimedia Commons, credited in each recipe. Dish photos from TheMealDB where the repo recipe came from there.</footer>
 </div>
 
 <dialog id="det" class="det" aria-label="Recipe details"><button class="x" id="detX" aria-label="Close">×</button><div id="detBody"></div></dialog>
 <dialog id="about" class="det about"><button class="x" id="aboutX" aria-label="Close">×</button>
 <h2>About the data</h2>
-<p>All <b id="cnt2"></b> entries in the repo’s <code>data/recipes-01.json</code> are included. The repo data was scraped from saved posts and is uneven, so each recipe carries a <b>data badge</b>:</p>
+<p>All <b id="cnt2"></b> dishes in the repo’s <code>data/recipes-*.json</code> shards are listed. The repo was scraped from saved Instagram posts and is uneven, so every dish has a <b>data badge</b>:</p>
 <ul>
-<li><span class="mode repo">From repo</span> the repo’s recipe is shown as-is (lightly cleaned).</li>
-<li><span class="mode completed">Repo + filled in</span> the repo recipe is kept; missing quantities, ingredients or steps were added and marked <b>★</b>.</li>
-<li><span class="mode rewritten">Rewritten</span> the repo entry was empty or pointed at an unrelated placeholder recipe (e.g. several chicken dishes all pointed at the same French chicken &amp; chorizo recipe), so a standard recipe matching the dish name is shown. The original repo values are listed in each recipe’s “Repo data” box.</li>
+<li><span class="mode repo">From repo</span> ingredients and steps are the repo’s own (lightly cleaned: duplicate steps, hashtag lines and nutrition lines removed).</li>
+<li><span class="mode repo">From repo (earlier version)</span> the current repo steps belong to another post, so the steps from the repo’s previous version of the same recipe are shown.</li>
+<li><span class="mode completed">Repo + filled in ★</span> repo ingredients, with missing steps written and marked <b>★</b>.</li>
+<li><span class="mode rewritten">Rewritten</span> the repo still points at an unrelated placeholder recipe (e.g. many chicken dishes → the same French “Chicken Basquaise”), so a standard recipe for the dish name is shown.</li>
+<li><span class="mode partial">Partial in repo</span> the repo has only ingredients or only steps; shown as-is.</li>
+<li><span class="mode check">Check</span> the repo’s steps don’t match its ingredients (likely mixed posts); both are shown, with a warning.</li>
+<li><span class="mode missing">Recipe missing</span> the repo has no usable recipe (empty, or linked to a different dish). The listing is kept because the dish is in your collection.</li>
 </ul>
-<p><b>Estimated</b> (marked <span class="est">est.</span>): prep/cook/total times, servings, difficulty, calories and macros (protein, carbs, fat, fibre) per serving, and the comfy “best time to cook” moods. They are rough estimates from the ingredients, not lab values. When the original post stated a calorie or time figure, it is shown separately as “post said”.</p>
-<p>Your ❤️ saved and ✅ cooked marks are stored only in this browser.</p></dialog>
+<p><b>Times and calories</b> come from the repo. Its <code>time_source</code>/<code>calories_source</code> labels show whether the post stated them (“from post”) or the repo estimated them, and estimates are marked <span class="est">est.</span>. When a post listed macros, those are shown as “from post”. Otherwise protein/carbs/fat/fibre, servings, difficulty and the comfy “moods” are rough estimates (<span class="est">est.</span>). Categories were re-checked from dish names (the repo category is shown in each recipe), and cuisines left blank by the repo were inferred from the name (marked “inferred”).</p>
+<p><b>Sign in</b> (Google or email) to sync ❤️ Saved and ✅ Cooked to your account; otherwise they stay in this browser.</p></dialog>
+<dialog id="auth" class="auth"><button class="x" id="authX" aria-label="Close">×</button>
+<div id="aMain"><h2 id="aTitle">Welcome back</h2><p class="hint" style="margin-bottom:16px">Sign in to sync your saved &amp; cooked recipes across devices.</p>
+<button class="gbtn" id="gBtn"><svg width="18" height="18" viewBox="0 0 48 48"><path fill="#FFC107" d="M43.6 20H24v8h11.3C33.7 32.7 29.3 36 24 36c-6.6 0-12-5.4-12-12s5.4-12 12-12c3 0 5.8 1.1 7.9 3l5.7-5.7C34 6.1 29.3 4 24 4 12.9 4 4 12.9 4 24s8.9 20 20 20 20-8.9 20-20c0-1.3-.1-2.7-.4-4z"/><path fill="#FF3D00" d="m6.3 14.7 6.6 4.8C14.7 15.1 19 12 24 12c3 0 5.8 1.1 7.9 3l5.7-5.7C34 6.1 29.3 4 24 4 16.3 4 9.7 8.3 6.3 14.7z"/><path fill="#4CAF50" d="M24 44c5.2 0 9.9-2 13.4-5.2l-6.2-5.2C29.2 35.1 26.7 36 24 36c-5.3 0-9.7-3.3-11.3-8l-6.5 5C9.5 39.6 16.2 44 24 44z"/><path fill="#1976D2" d="M43.6 20H24v8h11.3c-.8 2.2-2.2 4.2-4.1 5.6l6.2 5.2C37 39.2 44 34 44 24c0-1.3-.1-2.7-.4-4z"/></svg>Sign in with Google</button>
+<div class="or">or use email</div>
+<div class="seg"><button class="on" data-m="in">Sign in</button><button data-m="up">Create account</button></div>
+<form id="aForm" novalidate><div class="f"><label for="aEm">Email</label><input id="aEm" type="email" autocomplete="email" placeholder="you@email.com"><div class="err" id="eEm"></div></div>
+<div class="f"><label for="aPw">Password</label><div class="pw"><input id="aPw" type="password" autocomplete="current-password" placeholder="At least 6 characters"><button type="button" id="pwT">Show</button></div><div class="err" id="ePw"></div></div>
+<div id="msg" class="msg"></div><button class="btn acc wide" id="aSub" type="submit">Sign in</button></form>
+<div class="row" style="justify-content:space-between;margin-top:12px"><button class="link" id="forgot">Forgot password?</button><button class="link" id="magic">✉️ Email me a sign-in link</button></div></div>
+<form id="aRec" style="display:none" novalidate><h2>Set a new password</h2><div class="f" style="margin-top:12px"><label for="nPw">New password</label><input id="nPw" type="password" autocomplete="new-password"><div class="err" id="eN"></div></div><div id="msg2" class="msg"></div><button class="btn acc wide" type="submit">Update password</button></form>
+</dialog>
 <div class="toast" id="toast"></div>
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
 <script src="app.js"></script></body></html>
